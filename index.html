@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <meta property="og:title" content="台灣好食券適用店家地圖" />
+        <meta property="og:description" content="已經綁定數位五倍券的民眾，記得從 10 月 8 日開始就可以帶著全家大小到貼有好食券標章的餐飲、糕餅、市場及夜市等小微店家與攤商，一起開心吃喝買。" />
+        <meta property="og:locale" content="zh_TW" />
+        <meta property="og:type" content="website" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ol3/4.6.5/ol.css" integrity="sha512-D2c/nmSVlwoZk29SLwJK8GkLyCyPuNbZ/vZQL/lNzw+o+yXzsbnJt7lK/iCfdBmgyLRDi0qx27gpE8Zb1C6I7g==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sidebar-v2@0.4.0/css/ol3-sidebar.min.css" integrity="sha256-F5L9iJWPBpRjVUWp2FXz7DWFPA0TIhNsHrPI9qd0qOM=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.2/css/bootstrap.min.css" integrity="sha512-SCpMC7NhtrwHpzwKlE1l6ks0rS+GbMJJpoQw/A742VaxdGcQKqVD8F/y/m9WLOfIPppy7mWIs/kS0bKgSI0Bfw==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+        <link rel="stylesheet" href="css/food-lover-voucher-stores-map.css" crossorigin="anonymous" />
+        <title>台灣好食券適用店家地圖</title>
+    </head>
+    <body>
+        <div id="sidebar" class="sidebar collapsed">
+            <div class="sidebar-tabs">
+                <ul role="tablist">
+                    <li>
+                        <a href="#home" role="tab"><i class="fas fa-bars"></i></a>
+                    </li>
+                    <li>
+                        <a href="#book" role="tab"><i class="fas fa-book"></i></a>
+                    </li>
+                    <li>
+                        <a href="#settings" role="tab"><i class="fas fa-cog"></i></a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/henryleeworld/js-taiwan-food-lover-voucher-stores-map" role="tab" target="_blank"><i class="fab fa-github"></i></a>
+                    </li>
+                </ul>
+            </div>
+            <div class="sidebar-content">
+                <div class="sidebar-pane" id="home">
+                    <h1 class="sidebar-header">
+                        <span id="sidebarTitle">請點選地圖中的點</span><span class="sidebar-close"><i class="fa fa-caret-left"></i></span>
+                    </h1>
+                    <div id="sidebarContent">
+                        <div class="accordion" id="accordionMain">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="heading1">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInfo" aria-expanded="true" aria-controls="collapseInfo">
+                                        基本資料
+                                    </button>
+                                </h2>
+                                <div id="collapseInfo" class="accordion-collapse collapse show" aria-labelledby="heading1" data-bs-parent="#accordionMain">
+                                    <div class="accordion-body" id="infoBox"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-group-vertical" role="group" style="width: 100%;">
+                        <a href="https://github.com/henryleeworld/js-taiwan-food-lover-voucher-stores-map/issues" target="_blank" class="btn btn-primary btn-lg btn-block">網站問題反應</a>
+                    </div>
+                </div>
+                <div class="sidebar-pane" id="book">
+                    <h1 class="sidebar-header">
+                        <span id="weekTitle">說明</span><span class="sidebar-close"><i class="fa fa-caret-left"></i></span>
+                    </h1>
+                    <div>
+                        注意事項：
+                        <ul>
+                            <li>為利民眾及店家更瞭解如何使用好食券，經濟部<a href="https://foodlover.tw/" target="_blank">好食券</a>官網已經正式上線，網站上可查詢相關好食券訊息。</li>
+                            <li>好食店家也可使用五倍券，歡迎民眾於 10 月 8 日起以「食用」行動挺愛店。</li>
+                            <li><a href="https://foodlover.tw/" target="_blank">資料來源</a></li>
+                            <li><a href="https://github.com/www10177/foodlover_data" target="_blank">資料來源</a></li>
+                        </ul>
+                        <img src="images/where.png" style="width: 400px;" />
+                    </div>
+                </div>
+                <div class="sidebar-pane" id="settings">
+                    <h1 class="sidebar-header">
+                        <span id="weekTitle">設定</span><span class="sidebar-close"><i class="fa fa-caret-left"></i></span>
+                    </h1>
+                    <div>
+                        <a href="#" class="btn btn-primary btn-lg btn-block" id="btn-geolocation">回到目前位置</a>
+                    </div>
+                    <hr />
+                    <p>支付方式過濾：</p>
+                    <div>
+                        <a href="#" class="btn btn-primary btn-lg btn-block filter-payment" data-payment="">全部顯示</a>
+                        <a href="#" class="btn btn-secondary btn-lg btn-block filter-payment" data-payment="信用卡">信用卡</a>
+                        <a href="#" class="btn btn-secondary btn-lg btn-block filter-payment" data-payment="台灣pay">台灣pay</a>
+                        <a href="#" class="btn btn-secondary btn-lg btn-block filter-payment" data-payment="街口">街口</a>
+                        <a href="#" class="btn btn-secondary btn-lg btn-block filter-payment" data-payment="悠遊卡">悠遊卡</a>
+                        <a href="#" class="btn btn-secondary btn-lg btn-block filter-payment" data-payment="悠遊付">悠遊付</a>
+                        <a href="#" class="btn btn-secondary btn-lg btn-block filter-payment" data-payment="iPASS 一卡通">iPASS 一卡通</a>
+                        <a href="#" class="btn btn-secondary btn-lg btn-block filter-payment" data-payment="LINE Pay Money">LINE Pay Money</a>
+                        <a href="#" class="btn btn-secondary btn-lg btn-block filter-payment" data-payment="橘子支付">橘子支付</a>
+                        <a href="#" class="btn btn-secondary btn-lg btn-block filter-payment" data-payment="Pi 拍錢包">Pi 拍錢包</a>
+                        <a href="#" class="btn btn-secondary btn-lg btn-block filter-payment" data-payment="icash pay">icash pay</a>
+                        <a href="#" class="btn btn-secondary btn-lg btn-block filter-payment" data-payment="歐付寶">歐付寶</a>
+                        <a href="#" class="btn btn-secondary btn-lg btn-block filter-payment" data-payment="愛金卡">愛金卡</a>
+                    </div>
+                    <p>商店類型過濾：</p>
+                    <div>
+                        <a href="#" class="btn btn-primary btn-lg btn-block filter-category" data-category="">全部顯示</a>
+                        <a href="#" class="btn btn-secondary btn-lg btn-block filter-category" data-category="餐飲">餐飲</a>
+                        <a href="#" class="btn btn-secondary btn-lg btn-block filter-category" data-category="糕餅">糕餅</a>
+                        <a href="#" class="btn btn-secondary btn-lg btn-block filter-category" data-category="夜市/市場攤販">夜市/市場攤販</a>
+                        <a href="#" class="btn btn-secondary btn-lg btn-block filter-category" data-category="百貨美食街">百貨美食街</a>
+                        <a href="#" class="btn btn-secondary btn-lg btn-block filter-category" data-category="觀光工廠">觀光工廠</a>
+                    </div>
+                    <p>行政區過濾：</p>
+                    <div id="filterAreas"></div>
+                </div>
+            </div>
+        </div>
+        <div id="map" class="sidebar-map"></div>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.2/js/bootstrap.min.js" integrity="sha512-HSNvqjhsAxRPvbSBEdXWlkR9uYmJtUvXEyfAvUzlA0uS5SyFZMZdczgz8oPWTz2NUEBaXkIYL4kdrBJkP66jYA==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/ol3/4.6.5/ol.js" integrity="sha512-O7kHS9ooekX8EveiC94z9xSvD/4xt10Qigl6uEKvspYykdux3Ci5QNu5fwi4ca0ZkZI/oCgx5ja8RklWUEqzxQ==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
+        <script src="https://cdn.jsdelivr.net/npm/sidebar-v2@0.4.0/js/ol3-sidebar.min.js" integrity="sha256-axOAjywCnjuPzcekPlt3E/rGREm2aJP1yy8VFeAsG5E=" crossorigin="anonymous" defer></script>
+        <script src="js/food-lover-voucher-stores-map.js" type="text/javascript" defer></script>
+    </body>
+</html>
