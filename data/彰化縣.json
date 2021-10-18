@@ -4139,7 +4139,7 @@
                 "category": "餐飲",
                 "area": "員林市",
                 "market_address": "彰化縣員林市和平里靜修路４６―１號１樓",
-                "pay_list": "街口"
+                "pay_list": "街口\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -5223,7 +5223,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "唯賀國際餐飲股份有限公司",
+                "shop": "NU PASTA 彰化門市部",
                 "category": "餐飲",
                 "area": "員林市",
                 "market_address": "彰化縣員林市三和里０１９鄰三民東街２７７號１、２樓",
@@ -5251,23 +5251,6 @@
                 "coordinates": [
                     120.573466,
                     23.949176
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "晶森室內裝修設計有限公司圓林園營業所",
-                "category": "餐飲",
-                "area": "員林市",
-                "market_address": "彰化縣員林市三愛里１０鄰員林大道四段３６９號",
-                "pay_list": "悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.57679,
-                    23.972626
                 ]
             }
         },
@@ -6532,7 +6515,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "唯賀國際餐飲股份有限公司萬年門市部",
+                "shop": "NU PASTA 萬年門市部",
                 "category": "餐飲",
                 "area": "員林市",
                 "market_address": "彰化縣員林市新興里０１０鄰萬年路三段２０７號",
@@ -6798,23 +6781,6 @@
                 "coordinates": [
                     120.576151,
                     23.969069
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "大潤發 員林店",
-                "category": "百貨美食街",
-                "area": "埔心鄉",
-                "market_address": "彰化縣埔心鄉瓦南村中山路３１９號",
-                "pay_list": "悠遊卡\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.563767,
-                    23.947333
                 ]
             }
         },
@@ -7705,40 +7671,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "華陽公有零售市場-楊張秀美",
-                "category": "夜市\/市場攤販",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市華陽里旭光路69號",
-                "pay_list": "iPASS 一卡通"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.5469785371,
-                    24.074355118121
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "華陽公有零售市場-林應蕙",
-                "category": "夜市\/市場攤販",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市華陽里旭光路69號",
-                "pay_list": "iPASS 一卡通"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.5469785371,
-                    24.074355118121
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "南門公有零售市場-109",
                 "category": "夜市\/市場攤販",
                 "area": "彰化市",
@@ -7841,17 +7773,17 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "家樂福 彰化店",
+                "shop": "杏一彰基商場",
                 "category": "百貨美食街",
                 "area": "彰化市",
-                "market_address": "彰化縣彰化市茄南里金馬路２段３２１號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
+                "market_address": "彰化縣彰化市光南里１５鄰南校街１３５號",
+                "pay_list": "悠遊卡\/信用卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.542419,
-                    24.09448
+                    120.544461,
+                    24.07149
                 ]
             }
         },
@@ -11377,7 +11309,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "唯賀國際餐飲股份有限公司天利食堂彰化門市部",
+                "shop": "NU PASTA 天利食堂彰化門市部",
                 "category": "餐飲",
                 "area": "彰化市",
                 "market_address": "彰化縣彰化市南瑤里中正路二段６８９號",
@@ -17559,6 +17491,23 @@
                 "coordinates": [
                     120.480619,
                     24.086749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "所宅工作室",
+                "category": "糕餅",
+                "area": "鹿港鎮",
+                "market_address": "彰化縣鹿港鎮泰興里中山路１０８－９號",
+                "pay_list": "台灣pay\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.436592,
+                    24.053194
                 ]
             }
         },

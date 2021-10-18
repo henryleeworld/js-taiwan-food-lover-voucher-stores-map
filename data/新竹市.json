@@ -106,23 +106,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "大潤發 新竹店",
-                "category": "百貨美食街",
-                "area": "北區",
-                "market_address": "新竹市北區湳雅里湳雅街９１、９３、９５、９７、９９號",
-                "pay_list": "悠遊卡\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.970734,
-                    24.818344
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "大魯閣湳雅廣場",
                 "category": "百貨美食街",
                 "area": "北區",
@@ -5087,17 +5070,51 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "大潤發 忠孝店",
+                "shop": "杏一交大研三舍商場",
                 "category": "百貨美食街",
                 "area": "東區",
-                "market_address": "新竹市東區育賢里忠孝路３００號１樓",
-                "pay_list": "悠遊卡\/信用卡"
+                "market_address": "新竹市東區光明里大學路１００１號",
+                "pay_list": "悠遊卡\/信用卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.98605565289,
-                    24.805505011924
+                    120.999493,
+                    24.789142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "杏一新竹馬偕商場",
+                "category": "百貨美食街",
+                "area": "東區",
+                "market_address": "新竹市東區光復里光復路二段６９０號１樓",
+                "pay_list": "悠遊卡\/信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.990781,
+                    24.800087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo壹番屋 新竹巨城店",
+                "category": "百貨美食街",
+                "area": "東區",
+                "market_address": "新竹市東區中央路229號5樓",
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.974931,
+                    24.809666
                 ]
             }
         },
@@ -5200,23 +5217,6 @@
                 "coordinates": [
                     120.970356,
                     24.802001
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "好市多 新竹店",
-                "category": "百貨美食街",
-                "area": "東區",
-                "market_address": "新竹市東區埔頂里慈雲路１８８號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.01324640631,
-                    24.793341801691
                 ]
             }
         },
@@ -5931,23 +5931,6 @@
                 "coordinates": [
                     121.014371,
                     24.785782
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "新莊街六號義大利館",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區新莊里１１鄰新莊街１４６號１樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.016767,
-                    24.786536
                 ]
             }
         },
@@ -10803,7 +10786,7 @@
                 "category": "餐飲",
                 "area": "東區",
                 "market_address": "新竹市東區立功里光復路二段１０巷１５號",
-                "pay_list": "橘子支付\/Pi 拍錢包"
+                "pay_list": "台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -16403,23 +16386,6 @@
                 "coordinates": [
                     120.99768736571,
                     24.802001184931
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "茶茶狗早午餐廳",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "新竹市東區三民里三民路９２號１樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.97570379555,
-                    24.808314838852
                 ]
             }
         },

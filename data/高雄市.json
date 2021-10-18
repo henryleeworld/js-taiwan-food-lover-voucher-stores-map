@@ -4,74 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "家樂福 澄清店",
-                "category": "百貨美食街",
-                "area": "三民區",
-                "market_address": "高雄市三民區本揚里澄清路６３５號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.34588158821,
-                    22.643883235198
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福 高雄天祥店",
-                "category": "百貨美食街",
-                "area": "三民區",
-                "market_address": "高雄市三民區鼎力里天祥一路１０２號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.32033884587,
-                    22.667636936963
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福 鼎山店",
-                "category": "百貨美食街",
-                "area": "三民區",
-                "market_address": "高雄市三民區灣成里大順二路８４９號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.31891191835,
-                    22.652691980466
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福 高雄九如一店",
-                "category": "百貨美食街",
-                "area": "三民區",
-                "market_address": "高雄市三民區安發里九如一路８８６號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.31722365992,
-                    22.639890847446
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "大樂購物中心",
                 "category": "百貨美食街",
                 "area": "三民區",
@@ -89,51 +21,17 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "家樂福 高雄鼎金店",
+                "shop": "杏一高醫商場",
                 "category": "百貨美食街",
                 "area": "三民區",
-                "market_address": "高雄市三民區灣成里鼎山街２５９號及２６１號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
+                "market_address": "高雄市三民區安生里十全一路１００號１Ｆ、Ｂ１",
+                "pay_list": "悠遊卡\/LINE Pay Money\/信用卡"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.32170225899,
-                    22.659414782005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福 高雄愛河店",
-                "category": "百貨美食街",
-                "area": "三民區",
-                "market_address": "高雄市三民區立德里河東路３５６號１－２樓及地下１樓",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.28594994876,
-                    22.634149031141
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福  三民建工店",
-                "category": "百貨美食街",
-                "area": "三民區",
-                "market_address": "高雄市三民區正順里建工路４９７號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.32258,
-                    22.648768
+                    120.31000123422,
+                    22.64517809632
                 ]
             }
         },
@@ -12295,6 +12193,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "CoCo壹番屋 漢本KITCHEN店",
+                "category": "百貨美食街",
+                "area": "前金區",
+                "market_address": "高雄市前金區成功一路266-1號B3",
+                "pay_list": "信用卡\/街口\/LINE Pay Money\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.296032,
+                    22.619333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "漢神百貨",
                 "category": "百貨美食街",
                 "area": "前金區",
@@ -13281,7 +13196,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鼎碩商行",
+                "shop": "一燒十味昭和園(日式燒肉屋)",
                 "category": "餐飲",
                 "area": "前金區",
                 "market_address": "高雄市前金區榮復里新田路２８２號",
@@ -16052,57 +15967,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "家樂福 成功店",
-                "category": "百貨美食街",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區忠純里中華五路１１１１號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.304216,
-                    22.604966
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福 光華店",
-                "category": "百貨美食街",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區興東里光華二路１５７號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.317216,
-                    22.611325
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "好市多股份有限公司",
-                "category": "百貨美食街",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區建隆里中華五路６５６號１樓及地下１樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.30637164135,
-                    22.603726452801
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "夢時代購物中心",
                 "category": "百貨美食街",
                 "area": "前鎮區",
@@ -18568,6 +18432,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "香草工坊光華店",
+                "category": "餐飲",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區興東里光華二路１５７號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317216,
+                    22.611325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "巴沙諾瓦股份有限公司光華店",
                 "category": "餐飲",
                 "area": "前鎮區",
@@ -20115,23 +19996,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "晟暘食品坊",
-                "category": "餐飲",
-                "area": "前鎮區",
-                "market_address": "高雄市前鎮區忠純里中華五路１１１１號１樓（家樂福成功店１樓）",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.304216,
-                    22.604966
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "徐記醬鴨",
                 "category": "餐飲",
                 "area": "前鎮區",
@@ -20680,7 +20544,7 @@
                 "category": "餐飲",
                 "area": "大寮區",
                 "market_address": "高雄市大寮區會社里力行路１０５號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -23039,40 +22903,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "家樂福 高雄小港店",
-                "category": "百貨美食街",
-                "area": "小港區",
-                "market_address": "高雄市小港區順苓里宏平路４１１號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.3578223209,
-                    22.56967547191
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福 小港漢民店",
-                "category": "百貨美食街",
-                "area": "小港區",
-                "market_address": "高雄市小港區山明里漢民路７９８號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.36445587297,
-                    22.568451158373
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "龍帛麒麟企業行",
                 "category": "糕餅",
                 "area": "小港區",
@@ -24335,7 +24165,7 @@
                 "category": "餐飲",
                 "area": "小港區",
                 "market_address": "高雄市小港區二苓里二苓路２１５號",
-                "pay_list": "LINE Pay Money\/iPASS 一卡通\/信用卡\/悠遊卡\/台灣pay\/街口"
+                "pay_list": "LINE Pay Money\/iPASS 一卡通\/信用卡\/悠遊卡\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -25107,23 +24937,6 @@
                 "coordinates": [
                     120.356966,
                     22.584647
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福 高雄岡山店",
-                "category": "百貨美食街",
-                "area": "岡山區",
-                "market_address": "高雄市岡山區岡山里岡山路２８８號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.29639404794,
-                    22.793279611133
                 ]
             }
         },
@@ -26422,7 +26235,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "唯賀國際餐飲股份有限公司岡山門市部",
+                "shop": "NU PASTA 岡山門市部",
                 "category": "餐飲",
                 "area": "岡山區",
                 "market_address": "高雄市岡山區壽天里壽華路８號",
@@ -27510,51 +27323,17 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "家樂福 高雄自由二路店",
+                "shop": "CoCo壹番屋 漢神巨蛋店",
                 "category": "百貨美食街",
                 "area": "左營區",
-                "market_address": "高雄市左營區新上里自由二路１４８號及１５０號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
+                "market_address": "高雄市左營區博愛二路777號4樓",
+                "pay_list": "信用卡\/街口\/LINE Pay Money\/iPASS 一卡通\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.30894444,
-                    22.662111277386
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福 左營南屏店",
-                "category": "百貨美食街",
-                "area": "左營區",
-                "market_address": "高雄市左營區新下里南屏路３６９號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.29986032786,
-                    22.668197140495
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福 左營自由店",
-                "category": "百貨美食街",
-                "area": "左營區",
-                "market_address": "高雄市左營區菜公里自由三路２５０號及２５２號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.31170462309,
-                    22.672826378365
+                    120.303118,
+                    22.670155
                 ]
             }
         },
@@ -27595,40 +27374,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "家樂福 左營崇德店",
-                "category": "百貨美食街",
-                "area": "左營區",
-                "market_address": "高雄市左營區新光里崇德路３６０號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.30207627332,
-                    22.677072635276
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福 左營重和店",
-                "category": "百貨美食街",
-                "area": "左營區",
-                "market_address": "高雄市左營區福山里重和路１３０號及１３２號以及高雄市左營區文川路３２３號、３２５號及３２７號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.31236929206,
-                    22.684763044625
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "新光三越高雄左營店",
                 "category": "百貨美食街",
                 "area": "左營區",
@@ -27646,7 +27391,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "Global Mall",
+                "shop": "Global Mall新左營車站",
                 "category": "百貨美食街",
                 "area": "左營區",
                 "market_address": "高雄市左營區站前北路1號1-4樓",
@@ -28099,6 +27844,40 @@
                 "coordinates": [
                     120.317511,
                     22.672136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "金湛咖啡",
+                "category": "餐飲",
+                "area": "左營區",
+                "market_address": "高雄市左營區新上里光興街２２１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311286,
+                    22.663461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo壹番屋 左營EXP店",
+                "category": "餐飲",
+                "area": "左營區",
+                "market_address": "高雄市左營區高鐵路105號2樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308728,
+                    22.687374
                 ]
             }
         },
@@ -35171,23 +34950,6 @@
                 "coordinates": [
                     120.30915624889,
                     22.684477931821
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "馬蹄鐵咖啡館",
-                "category": "餐飲",
-                "area": "左營區",
-                "market_address": "高雄市左營區新上里裕誠路２１３號",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.31028211816,
-                    22.664360978649
                 ]
             }
         },
@@ -43660,57 +43422,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "家福股份有限公司楠梓分公司",
-                "category": "百貨美食街",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區藍田里藍田路２８８號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.290432,
-                    22.727899
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福 新楠店",
-                "category": "百貨美食街",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區土庫一路６０號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.330967,
-                    22.73617
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家福股份有限公司楠梓益群分公司",
-                "category": "百貨美食街",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區翠屏里益群路５０號、５２號、５６號、５８號及６０號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.29734172352,
-                    22.724509338576
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "德賢蛋糕店",
                 "category": "糕餅",
                 "area": "楠梓區",
@@ -47683,6 +47394,23 @@
                 "coordinates": [
                     120.298961,
                     22.708292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "夷粥麵坊右昌店",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區右昌一巷１號邊",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.289096,
+                    22.71093
                 ]
             }
         },
@@ -60286,23 +60014,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "湖畔汽車旅館股份有限公司",
-                "category": "餐飲",
-                "area": "鳥松區",
-                "market_address": "高雄市鳥松區鳥松里忠孝路２１號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.363252,
-                    22.657814
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "和德昌股份有限公司高雄長庚門市部",
                 "category": "餐飲",
                 "area": "鳥松區",
@@ -60331,91 +60042,6 @@
                 "coordinates": [
                     120.339943,
                     22.652276
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "大潤發 鳳山店",
-                "category": "百貨美食街",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區文華里文化路５９號地下１樓至３樓",
-                "pay_list": "悠遊卡\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.35517741419,
-                    22.633478466689
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福 鳳山甲一店",
-                "category": "百貨美食街",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區和興里五甲一路２６１號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.35441903352,
-                    22.617176980372
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福 高屏店",
-                "category": "百貨美食街",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區忠義里中山西路２３６號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.34800356264,
-                    22.628409135822
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福 高雄鳳山店",
-                "category": "百貨美食街",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區忠義里中山西路２３６號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.34800356264,
-                    22.628409135822
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福 五甲店",
-                "category": "百貨美食街",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區富榮里林森路２９１號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.33674094349,
-                    22.596651495773
                 ]
             }
         },
@@ -62177,7 +61803,7 @@
                 "category": "餐飲",
                 "area": "鳳山區",
                 "market_address": "高雄市鳳山區文德里青年路二段５５８號",
-                "pay_list": "台灣pay"
+                "pay_list": "台灣pay\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -63010,7 +62636,7 @@
                 "category": "餐飲",
                 "area": "鳳山區",
                 "market_address": "高雄市鳳山區文德里文龍路６５號１樓",
-                "pay_list": "街口\/悠遊卡\/Pi 拍錢包"
+                "pay_list": "街口\/悠遊卡\/Pi 拍錢包\/信用卡\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -63969,23 +63595,6 @@
                 "coordinates": [
                     120.32668,
                     22.598794
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "九鼎蒸霸養生匯館",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區文德里文衡路５９６號１樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.34661,
-                    22.641909
                 ]
             }
         },
@@ -69670,23 +69279,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "大摳胖碳烤三明治",
-                "category": "餐飲",
-                "area": "鹽埕區",
-                "market_address": "高雄市鹽埕區中原里大公路７８號１樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.283244,
-                    22.627573
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "貢茶國際股份有限公司五福店",
                 "category": "餐飲",
                 "area": "鹽埕區",
@@ -70174,23 +69766,6 @@
                 "coordinates": [
                     120.27733357788,
                     22.618583405988
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "好市多 大順店",
-                "category": "百貨美食街",
-                "area": "鼓山區",
-                "market_address": "高雄市鼓山區龍子里大順一路１１１號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.30692674929,
-                    22.656705029853
                 ]
             }
         },
@@ -70762,7 +70337,7 @@
                 "category": "餐飲",
                 "area": "鼓山區",
                 "market_address": "高雄市鼓山區龍水里龍水二路５號",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",

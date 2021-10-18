@@ -8,7 +8,7 @@
                 "category": "餐飲",
                 "area": "三灣鄉",
                 "market_address": "苗栗縣三灣鄉頂寮村３鄰祭山湖１５－１號",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -1657,7 +1657,7 @@
                 "category": "餐飲",
                 "area": "大湖鄉",
                 "market_address": "苗栗縣大湖鄉義和村８鄰淋漓坪１２６號１樓",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -2208,23 +2208,6 @@
                 "coordinates": [
                     120.87454,
                     24.688751
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家樂福 竹南民族店",
-                "category": "百貨美食街",
-                "area": "竹南鎮",
-                "market_address": "苗栗縣竹南鎮竹南里民族街１０６號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.87837637348,
-                    24.68723041005
                 ]
             }
         },
@@ -4237,7 +4220,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "唯賀國際餐飲股份有限公司竹南門市部",
+                "shop": "NU PASTA 竹南門市部",
                 "category": "餐飲",
                 "area": "竹南鎮",
                 "market_address": "苗栗縣竹南鎮營盤里博愛街３１４號",
@@ -5699,23 +5682,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "家樂福 苗栗店",
-                "category": "百貨美食街",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市文聖里３鄰國華路５９９號",
-                "pay_list": "悠遊卡\/台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.817621,
-                    24.574051
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "烏色咖啡",
                 "category": "餐飲\/糕餅",
                 "area": "苗栗市",
@@ -5948,6 +5914,23 @@
                 "coordinates": [
                     120.821456,
                     24.562743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "Bonbons法式甜食工作室",
+                "category": "糕餅",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市縣府路102號2樓",
+                "pay_list": "LINE Pay Money\/台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.820635,
+                    24.564734
                 ]
             }
         },
@@ -9303,28 +9286,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "大潤發 頭份店",
-                "category": "百貨美食街",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市東庄里１８鄰自強路２３０號１樓及地下一樓",
-                "pay_list": "悠遊卡\/信用卡\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.90383000532,
-                    24.686606475236
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "尚順購物廣場育樂世界",
                 "category": "百貨美食街",
                 "area": "頭份市",
                 "market_address": "苗栗縣頭份市東庄里１５鄰育樂街６號\n苗栗縣頭份市育樂街8號1樓,6號1-3樓6-6號1樓",
-                "pay_list": "悠遊卡\/信用卡"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -12533,7 +12499,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "唯賀國際餐飲股份有限公司苗栗頭份門市部",
+                "shop": "NU PASTA 苗栗頭份門市部",
                 "category": "餐飲",
                 "area": "頭份市",
                 "market_address": "苗栗縣頭份市中興里６鄰中央路２５０號",
