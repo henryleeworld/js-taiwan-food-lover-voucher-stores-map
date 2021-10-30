@@ -11,8 +11,8 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/PuMegH5.png)
+![](https://i.imgur.com/mNZnDV7.png)
 > 點選所在縣市，接著適用於好食券的店家會以圓點顯示，除了列出地址、店名以外，更能查看可以使用的支付方式
 
-![](https://i.imgur.com/xCp2xES.png)
+![](https://i.imgur.com/3RyHvwx.png)
 > 包含百貨公司美食街、糕餅觀光工廠等，都是好食券適用店家
