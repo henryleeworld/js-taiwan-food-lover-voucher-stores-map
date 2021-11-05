@@ -871,23 +871,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "詠岳烘焙坊",
-                "category": "糕餅",
-                "area": "大林鎮",
-                "market_address": "嘉義縣大林鎮東林里００７鄰中興路６２號",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.455841,
-                    23.603698
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "老楊食品股份有限公司老楊方城市",
                 "category": "糕餅",
                 "area": "大林鎮",
@@ -1749,23 +1732,6 @@
                 "coordinates": [
                     120.322818,
                     23.459244
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "築日食堂",
-                "category": "餐飲",
-                "area": "太保市",
-                "market_address": "嘉義縣太保市安仁里０１０鄰祥和一路東段２７號１樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.296179,
-                    23.458819
                 ]
             }
         },
