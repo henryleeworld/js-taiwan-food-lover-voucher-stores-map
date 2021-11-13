@@ -14794,7 +14794,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "德記茶行",
+                "shop": "清心福全 熱河店(德記茶行)",
                 "category": "餐飲",
                 "area": "三民區",
                 "market_address": "高雄市三民區德智里熱河一街１４２號１樓",
@@ -16477,7 +16477,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "兆洋餐飲事業股份有限公司仁武仁雄分公司",
+                "shop": "築間幸福鍋物 仁武仁雄店",
                 "category": "餐飲",
                 "area": "仁武區",
                 "market_address": "高雄市仁武區赤山里仁雄路８７－２號",
@@ -22716,7 +22716,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "兆洋餐飲事業股份有限公司高雄大立分公司",
+                "shop": "築間幸福鍋物 高雄大立店(蔬食自助吧)",
                 "category": "餐飲",
                 "area": "前金區",
                 "market_address": "高雄市前金區文西里五福三路５７號１０樓",
@@ -23101,6 +23101,23 @@
                 "coordinates": [
                     120.317687,
                     22.612767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "新光三越高雄三多店",
+                "category": "百貨美食街",
+                "area": "前鎮區",
+                "market_address": "高雄市前鎮區盛興里三多三路２１３號",
+                "pay_list": "悠遊卡\/LINE Pay Money\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306648,
+                    22.614449
                 ]
             }
         },
@@ -35653,7 +35670,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "可笙企業社",
+                "shop": "老賴茶棧 小港店 (可笙企業社)",
                 "category": "餐飲",
                 "area": "小港區",
                 "market_address": "高雄市小港區正苓里漢民路２６４號１樓",
@@ -40685,23 +40702,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "安妮菓子工房股份有限公司高雄店",
-                "category": "糕餅",
-                "area": "左營區",
-                "market_address": "高雄市左營區福山里華夏路１４１６號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.313866,
-                    22.687255
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "美村屋食品行",
                 "category": "糕餅",
                 "area": "左營區",
@@ -44646,7 +44646,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "岩誠商行",
+                "shop": "岩涼手作(岩誠商行)",
                 "category": "餐飲",
                 "area": "左營區",
                 "market_address": "高雄市左營區新上里裕誠路１５２號１樓",
@@ -44980,23 +44980,6 @@
                 "coordinates": [
                     120.308668,
                     22.685576
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "發式小火鍋",
-                "category": "餐飲",
-                "area": "左營區",
-                "market_address": "高雄市左營區新上里富民路６８號１樓",
-                "pay_list": "LINE Pay Money\/台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.305432,
-                    22.658691
                 ]
             }
         },
@@ -47196,7 +47179,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "兆洋餐飲事業股份有限公司高雄左營分公司",
+                "shop": "築間幸福鍋物 高雄左營店",
                 "category": "餐飲",
                 "area": "左營區",
                 "market_address": "高雄市左營區新上里安吉街４０３號",
@@ -70979,7 +70962,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "本格餐飲事業股份有限公司高雄楠梓分公司",
+                "shop": "本格和牛燒肉放題 高雄楠梓店",
                 "category": "餐飲",
                 "area": "楠梓區",
                 "market_address": "高雄市楠梓區翠屏里德惠路６８號２樓",
@@ -74764,23 +74747,6 @@
                 "coordinates": [
                     120.330428,
                     22.630652
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "卡司小吃部",
-                "category": "餐飲",
-                "area": "苓雅區",
-                "market_address": "高雄市苓雅區林泉里林泉街５７號",
-                "pay_list": "台灣pay\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.318305,
-                    22.623006
                 ]
             }
         },
@@ -82805,23 +82771,6 @@
                 "coordinates": [
                     120.294832,
                     22.620729
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "安妮菓子工房股份有限公司高雄苓雅店",
-                "category": "餐飲",
-                "area": "苓雅區",
-                "market_address": "高雄市苓雅區青年二路８９號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.298776,
-                    22.618649
                 ]
             }
         },
@@ -90954,7 +90903,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "享彥小吃店",
+                "shop": "貴族世家-高雄五甲店",
                 "category": "餐飲",
                 "area": "鳳山區",
                 "market_address": "高雄市鳳山區興仁里五甲一路２９８號",
@@ -91124,7 +91073,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "兆洋餐飲事業股份有限公司鳳山鳳捷分公司",
+                "shop": "築間幸福鍋物 鳳山鳳捷店",
                 "category": "餐飲",
                 "area": "鳳山區",
                 "market_address": "高雄市鳳山區鳳東里鳳捷路１２２號１、２樓",
@@ -98434,7 +98383,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "兆洋餐飲事業股份有限公司高雄鳳山分公司",
+                "shop": "築間幸福鍋物 高雄鳳山店",
                 "category": "餐飲",
                 "area": "鳳山區",
                 "market_address": "高雄市鳳山區文德里文濱路７９號１－２樓",
@@ -109331,7 +109280,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "萬波島嶼紅茶",
+                "shop": "萬波島嶼紅茶 高雄華榮店(合棠商行)",
                 "category": "餐飲",
                 "area": "鼓山區",
                 "market_address": "高雄市鼓山區華豐里華榮路３１３號",

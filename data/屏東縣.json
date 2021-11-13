@@ -4390,7 +4390,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "兆洋餐飲事業股份有限公司屏東崇朝分公司",
+                "shop": "築間幸福鍋物 屏東崇朝店",
                 "category": "餐飲",
                 "area": "屏東市",
                 "market_address": "屏東縣屏東市崇蘭里崇朝一路８３號",
@@ -10912,6 +10912,23 @@
                 "coordinates": [
                     120.743166,
                     22.003336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "墾丁壹號",
+                "category": "百貨美食街",
+                "area": "恆春鎮",
+                "market_address": "屏東縣恆春鎮墾丁路2號",
+                "pay_list": "悠遊付\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.807539,
+                    21.941687
                 ]
             }
         },
@@ -21078,23 +21095,6 @@
                 "coordinates": [
                     120.748599,
                     22.094662
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "清泉日式溫泉館",
-                "category": "餐飲",
-                "area": "車城鄉",
-                "market_address": "屏東縣車城鄉溫泉村文化路５號",
-                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.748164,
-                    22.094884
                 ]
             }
         },

@@ -6770,7 +6770,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "希望茶飲店",
+                "shop": "Mr. Wish 斗六中山店 (希望茶飲店)",
                 "category": "餐飲",
                 "area": "斗六市",
                 "market_address": "雲林縣斗六市鎮南里中山路２８８―１號",
@@ -8198,7 +8198,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "兆洋餐飲事業股份有限公司雲林斗六分公司",
+                "shop": "築間幸福鍋物 雲林斗六店",
                 "category": "餐飲",
                 "area": "斗六市",
                 "market_address": "雲林縣斗六市鎮東里一流街８號",
@@ -9943,23 +9943,6 @@
                 "coordinates": [
                     120.439426,
                     23.71003
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "安妮菓子工房股份有限公司雲林虎尾店",
-                "category": "糕餅",
-                "area": "虎尾鎮",
-                "market_address": "雲林縣虎尾鎮立仁里０１４鄰林森路二段１２８號１３０號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.428916,
-                    23.705081
                 ]
             }
         },
@@ -12567,7 +12550,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "兆洋餐飲事業股份有限公司雲林虎尾分公司",
+                "shop": "築間幸福鍋物 雲林虎尾店",
                 "category": "餐飲",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮西安里忠孝路８號",
