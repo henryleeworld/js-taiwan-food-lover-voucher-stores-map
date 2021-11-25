@@ -769,23 +769,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "易盈商行",
-                "category": "餐飲",
-                "area": "金城鎮",
-                "market_address": "金門縣金城鎮南門里民族路２５２號",
-                "pay_list": "LINE Pay Money\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    118.315434,
-                    24.430375
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "喝茶小舖",
                 "category": "餐飲",
                 "area": "金城鎮",
@@ -1018,23 +1001,6 @@
                 "coordinates": [
                     118.318702,
                     24.434346
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "美華茶行",
-                "category": "餐飲",
-                "area": "金城鎮",
-                "market_address": "金門縣金城鎮北門里中興路１４６巷２０號一樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    118.319219,
-                    24.433789
                 ]
             }
         },
@@ -2826,7 +2792,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "美華茶行",
+                "shop": "茶湯會 金門金城店",
                 "category": "餐飲",
                 "area": "金城鎮",
                 "market_address": "金門縣金城鎮北門里中興路１４６巷２０號一樓",
@@ -3965,7 +3931,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "易盈商行",
+                "shop": "85度C 金門民族店",
                 "category": "餐飲",
                 "area": "金城鎮",
                 "market_address": "金門縣金城鎮南門里民族路２５２號",

@@ -1483,23 +1483,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鑫鑫茶行",
-                "category": "餐飲",
-                "area": "公館鄉",
-                "market_address": "苗栗縣公館鄉館中村大同路２３１―５號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.82693025489,
-                    24.505333795853
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "公館排餐店",
                 "category": "餐飲",
                 "area": "公館鄉",
@@ -1806,7 +1789,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鑫鑫茶行",
+                "shop": "苗栗公館50嵐門市",
                 "category": "餐飲",
                 "area": "公館鄉",
                 "market_address": "苗栗縣公館鄉館中村大同路２３１―５號",
@@ -5580,23 +5563,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "長春茶行",
-                "category": "餐飲",
-                "area": "竹南鎮",
-                "market_address": "苗栗縣竹南鎮竹南里１０鄰光復路１３３號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.879086,
-                    24.686496
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "祐成餐飲店",
                 "category": "餐飲",
                 "area": "竹南鎮",
@@ -5744,23 +5710,6 @@
                 "coordinates": [
                     120.874486,
                     24.687051
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "怡津商行",
-                "category": "餐飲",
-                "area": "竹南鎮",
-                "market_address": "苗栗縣竹南鎮竹南里００９鄰光復路１２９號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.879064,
-                    24.686426
                 ]
             }
         },
@@ -8096,7 +8045,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "長春茶行",
+                "shop": "竹南光復50嵐門市",
                 "category": "餐飲",
                 "area": "竹南鎮",
                 "market_address": "苗栗縣竹南鎮竹南里１０鄰光復路１３３號",
@@ -8691,7 +8640,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "怡津商行",
+                "shop": "茶湯會 竹南光復店",
                 "category": "餐飲",
                 "area": "竹南鎮",
                 "market_address": "苗栗縣竹南鎮竹南里００９鄰光復路１２９號",
@@ -9558,23 +9507,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "文欣茶行",
-                "category": "餐飲",
-                "area": "苑裡鎮",
-                "market_address": "苗栗縣苑裡鎮苑南里１１鄰為公路８５號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.652001,
-                    24.44311
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "品盈冷飲站",
                 "category": "餐飲",
                 "area": "苑裡鎮",
@@ -9688,23 +9620,6 @@
                 "coordinates": [
                     120.652417,
                     24.441922
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "采果茶坊",
-                "category": "餐飲",
-                "area": "苑裡鎮",
-                "market_address": "苗栗縣苑裡鎮苑南里為公路７３號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.652237,
-                    24.443023
                 ]
             }
         },
@@ -10187,7 +10102,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "采果茶坊",
+                "shop": "茶湯會 苑裡為公店",
                 "category": "餐飲",
                 "area": "苑裡鎮",
                 "market_address": "苗栗縣苑裡鎮苑南里為公路７３號１樓",
@@ -10306,7 +10221,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "文欣茶行",
+                "shop": "苗栗苑裡50嵐門市",
                 "category": "餐飲",
                 "area": "苑裡鎮",
                 "market_address": "苗栗縣苑裡鎮苑南里１１鄰為公路８５號１樓",
@@ -11632,23 +11547,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "笑喝喝茶行",
-                "category": "餐飲",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市勝利里２２鄰中正路１０７７號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.816362,
-                    24.547699
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "吉豐商行",
                 "category": "餐飲\/糕餅",
                 "area": "苗栗市",
@@ -11915,23 +11813,6 @@
                 "coordinates": [
                     120.817824,
                     24.559849
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "水來發茶行",
-                "category": "餐飲",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市建功里２２鄰府前路８６－２號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.818764,
-                    24.561108
                 ]
             }
         },
@@ -12238,23 +12119,6 @@
                 "coordinates": [
                     120.817654,
                     24.558309
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "巧果茶行",
-                "category": "餐飲",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市勝利里００１鄰中正路９２５號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.815994,
-                    24.550962
                 ]
             }
         },
@@ -14233,7 +14097,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "水來發茶行",
+                "shop": "苗栗府前50嵐門市",
                 "category": "餐飲",
                 "area": "苗栗市",
                 "market_address": "苗栗縣苗栗市建功里２２鄰府前路８６－２號１樓",
@@ -14369,7 +14233,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "笑喝喝茶行",
+                "shop": "苗栗中正50嵐門市",
                 "category": "餐飲",
                 "area": "苗栗市",
                 "market_address": "苗栗縣苗栗市勝利里２２鄰中正路１０７７號",
@@ -14743,7 +14607,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "巧果茶行",
+                "shop": "茶湯會 苗栗中正店",
                 "category": "餐飲",
                 "area": "苗栗市",
                 "market_address": "苗栗縣苗栗市勝利里００１鄰中正路９２５號１樓",
@@ -15780,7 +15644,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "水噹噹茶行",
+                "shop": "苗栗為公50嵐門市",
                 "category": "餐飲",
                 "area": "苗栗市",
                 "market_address": "苗栗縣苗栗市清華里１０鄰爲公路１５６號",
@@ -18330,23 +18194,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鑫義商行",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市成功里０１０鄰建國路１５９號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.908917,
-                    24.696154
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "精進健康素食緣",
                 "category": "餐飲",
                 "area": "頭份市",
@@ -18732,23 +18579,6 @@
                 "coordinates": [
                     120.903808,
                     24.687821
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "豊御號",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市信義里０１１鄰中正路４３號１樓",
-                "pay_list": "LINE Pay Money\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.907403,
-                    24.684761
                 ]
             }
         },
@@ -19265,23 +19095,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "佳詅茶行",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市自強里４鄰仁愛路１０３號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.90833,
-                    24.686955
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "永春豆漿",
                 "category": "餐飲",
                 "area": "頭份市",
@@ -19350,11 +19163,11 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "豊御號",
+                "shop": "茶湯會 頭份中正店",
                 "category": "餐飲",
                 "area": "頭份市",
                 "market_address": "苗栗縣頭份市信義里０１１鄰中正路４３號１樓",
-                "pay_list": "台灣Pay\/信用卡\/悠遊卡\/街口\/橘子支付"
+                "pay_list": "台灣Pay\/信用卡\/悠遊卡\/街口\/橘子支付\/LINE Pay Money"
             },
             "geometry": {
                 "type": "Point",
@@ -21033,7 +20846,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "佳詅茶行",
+                "shop": "頭份仁愛50嵐門市",
                 "category": "餐飲",
                 "area": "頭份市",
                 "market_address": "苗栗縣頭份市自強里４鄰仁愛路１０３號１樓",
@@ -22835,7 +22648,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "子詅茶行",
+                "shop": "頭份建國50嵐門市",
                 "category": "餐飲",
                 "area": "頭份市",
                 "market_address": "苗栗縣頭份市忠孝里００１鄰建國路７７號",
