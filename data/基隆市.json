@@ -310,6 +310,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "路易莎咖啡 基隆七堵店",
+                "category": "餐飲",
+                "area": "七堵區",
+                "market_address": "基隆市七堵區福五街28號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.699217,
+                    25.083172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "超牛牛肉麵",
                 "category": "餐飲",
                 "area": "七堵區",
@@ -661,23 +678,6 @@
                 "coordinates": [
                     121.697641,
                     25.081727
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "弗爾斯商行",
-                "category": "餐飲",
-                "area": "七堵區",
-                "market_address": "基隆市七堵區永安里明德一路２１４號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.712293,
-                    25.09721
                 ]
             }
         },
@@ -1058,23 +1058,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "乘富商行",
-                "category": "餐飲",
-                "area": "七堵區",
-                "market_address": "基隆市七堵區福五街28號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.699217,
-                    25.083172
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "三亦串燒",
                 "category": "餐飲",
                 "area": "七堵區",
@@ -1137,6 +1120,23 @@
                 "coordinates": [
                     121.716009,
                     25.098286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 七堵明德店",
+                "category": "餐飲",
+                "area": "七堵區",
+                "market_address": "基隆市七堵區永安里明德一路２１４號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.712293,
+                    25.09721
                 ]
             }
         },
@@ -2503,23 +2503,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "麻甲有限公司",
-                "category": "餐飲",
-                "area": "中正區",
-                "market_address": "基隆市中正區新豐街233號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.788313,
-                    25.136752
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "麥當勞基隆新豐分公司",
                 "category": "餐飲",
                 "area": "中正區",
@@ -2837,6 +2820,40 @@
                 "coordinates": [
                     121.744474,
                     25.132574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎咖啡 基隆新豐店",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區新豐街233號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.788313,
+                    25.136752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎咖啡 基隆信一店",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區信一路168號1樓",
+                "pay_list": "信用卡\/台灣pay\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745405,
+                    25.130337
                 ]
             }
         },
@@ -3357,7 +3374,7 @@
                 "category": "餐飲",
                 "area": "中正區",
                 "market_address": "基隆市中正區長潭里北寧路３６９巷４５―６號１樓",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -4509,23 +4526,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "均得商行",
-                "category": "餐飲",
-                "area": "中正區",
-                "market_address": "基隆市中正區新豐里新豐街３００號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.787169,
-                    25.135926
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "圖們思所咖啡廳",
                 "category": "餐飲",
                 "area": "中正區",
@@ -4713,23 +4713,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "和奕早餐店",
-                "category": "餐飲",
-                "area": "中正區",
-                "market_address": "基隆市中正區信一路168號1樓",
-                "pay_list": "信用卡\/台灣pay\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.745405,
-                    25.130337
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "名屋火鍋城",
                 "category": "餐飲",
                 "area": "中正區",
@@ -4758,23 +4741,6 @@
                 "coordinates": [
                     121.74597,
                     25.131259
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "又加商行",
-                "category": "餐飲",
-                "area": "中正區",
-                "market_address": "基隆市中正區德義里信一路１７３號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.745159,
-                    25.130441
                 ]
             }
         },
@@ -5319,6 +5285,40 @@
                 "coordinates": [
                     121.795828,
                     25.139706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 基隆義二店",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區德義里信一路１７３號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745159,
+                    25.130441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 基隆新豐店",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區新豐里新豐街３００號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.787169,
+                    25.135926
                 ]
             }
         },
@@ -6209,23 +6209,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "金磚商行",
-                "category": "餐飲",
-                "area": "仁愛區",
-                "market_address": "基隆市仁愛區水錦里仁二路６６號（１－２樓）",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.749303,
-                    25.127791
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "金水昇小吃店",
                 "category": "餐飲",
                 "area": "仁愛區",
@@ -6430,6 +6413,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "迷客夏 基隆廟口店",
+                "category": "餐飲",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區仁德里仁三路８０號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742282,
+                    25.128985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "迪富迪股份有限公司",
                 "category": "餐飲",
                 "area": "仁愛區",
@@ -6492,6 +6492,40 @@
                 "coordinates": [
                     121.73961,
                     25.129985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎咖啡 基隆站前店",
+                "category": "餐飲",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區孝三路109號",
+                "pay_list": "信用卡\/台灣pay\/悠遊卡\/LINE Pay Money\/iPASS一卡通"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739829,
+                    25.131104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎咖啡 基隆仁二店",
+                "category": "餐飲",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區水錦里仁二路６６號（１－２樓）",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749303,
+                    25.127791
                 ]
             }
         },
@@ -7444,23 +7478,6 @@
                 "coordinates": [
                     121.738438,
                     25.129832
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "瑜嵐慶君商行",
-                "category": "餐飲",
-                "area": "仁愛區",
-                "market_address": "基隆市仁愛區孝三路109號",
-                "pay_list": "信用卡\/台灣pay\/悠遊卡\/LINE Pay Money\/iPASS一卡通"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.739829,
-                    25.131104
                 ]
             }
         },
@@ -9286,23 +9303,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "品舜商行",
-                "category": "餐飲",
-                "area": "仁愛區",
-                "market_address": "基隆市仁愛區新店里忠三路２號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.740433,
-                    25.128765
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "品味咖啡店",
                 "category": "餐飲",
                 "area": "仁愛區",
@@ -9620,23 +9620,6 @@
                 "coordinates": [
                     121.743606,
                     25.129262
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "優優飲品屋",
-                "category": "餐飲",
-                "area": "仁愛區",
-                "market_address": "基隆市仁愛區仁德里仁三路８０號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.742282,
-                    25.128985
                 ]
             }
         },
@@ -10045,6 +10028,23 @@
                 "coordinates": [
                     121.753463,
                     25.127658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 基隆孝一店",
+                "category": "餐飲",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區新店里忠三路２號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.740433,
+                    25.128765
                 ]
             }
         },
@@ -10657,23 +10657,6 @@
                 "coordinates": [
                     121.780137,
                     25.12818
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "立加商行",
-                "category": "餐飲",
-                "area": "信義區",
-                "market_address": "基隆市信義區信綠里東信路３１６號（１樓）",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.760498,
-                    25.128731
                 ]
             }
         },
@@ -12023,6 +12006,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "85度C 基隆東信店",
+                "category": "餐飲",
+                "area": "信義區",
+                "market_address": "基隆市信義區信綠里東信路３１６號（１樓）",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760498,
+                    25.128731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "蔡家虱目魚店",
                 "category": "餐飲\/夜市\/市場攤販",
                 "area": "安樂區",
@@ -12431,6 +12431,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "路易莎咖啡 大武崙店",
+                "category": "餐飲",
+                "area": "安樂區",
+                "market_address": "基隆市安樂區武嶺街136號",
+                "pay_list": "信用卡\/iPASS一卡通"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.710454,
+                    25.139955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎咖啡 基隆城上城店",
+                "category": "餐飲",
+                "area": "安樂區",
+                "market_address": "基隆市安樂區鶯安里麥金路２３１─５號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.721041,
+                    25.120709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "豪記一碗小羊肉小吃店",
                 "category": "餐飲",
                 "area": "安樂區",
@@ -12816,23 +12850,6 @@
                 "coordinates": [
                     121.721052,
                     25.121775
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "毅汌咖啡行",
-                "category": "餐飲",
-                "area": "安樂區",
-                "market_address": "基隆市安樂區武嶺街136號",
-                "pay_list": "信用卡\/iPASS一卡通"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.710454,
-                    25.139955
                 ]
             }
         },
@@ -13326,23 +13343,6 @@
                 "coordinates": [
                     121.71210650353,
                     25.140041161408
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "南田商行",
-                "category": "餐飲",
-                "area": "安樂區",
-                "market_address": "基隆市安樂區鶯安里麥金路２３１─５號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.721041,
-                    25.120709
                 ]
             }
         },
@@ -14403,23 +14403,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "偵葳商行",
-                "category": "餐飲",
-                "area": "暖暖區",
-                "market_address": "基隆市暖暖區暖同里東勢街２－２號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.735855,
-                    25.100546
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "亨達食品有限公司",
                 "category": "餐飲",
                 "area": "暖暖區",
@@ -14516,6 +14499,23 @@
                 "coordinates": [
                     121.73651,
                     25.093294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 基隆暖暖",
+                "category": "餐飲",
+                "area": "暖暖區",
+                "market_address": "基隆市暖暖區暖同里東勢街２－２號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735855,
+                    25.100546
                 ]
             }
         }

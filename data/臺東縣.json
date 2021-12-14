@@ -4135,23 +4135,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "柚子企業社",
-                "category": "餐飲\/糕餅",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市馬蘭里更生路７３５號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.136295,
-                    22.767818
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "東海堂麵包店",
                 "category": "糕餅",
                 "area": "臺東市",
@@ -4418,6 +4401,40 @@
                 "coordinates": [
                     121.154469,
                     22.754769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "Eureka Taitung 悠瑞客禮品工坊",
+                "category": "糕餅",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市中山里大同路１９３號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15240355216,
+                    22.753788840544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 台東更生店",
+                "category": "餐飲\/糕餅",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市馬蘭里更生路７３５號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.136295,
+                    22.767818
                 ]
             }
         },
@@ -5546,6 +5563,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "迷客夏 台東中華店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市興國里中華路一段５１２號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.150527,
+                    22.75176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "迷夏小館",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -5625,6 +5659,23 @@
                 "coordinates": [
                     121.1483,
                     22.759025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "路易莎咖啡 台東中華店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市中正里中華路一段３５０號一樓",
+                "pay_list": "信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.153481,
+                    22.754771
                 ]
             }
         },
@@ -6492,23 +6543,6 @@
                 "coordinates": [
                     121.120521,
                     22.7822
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "翔丰商行",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市興國里中華路一段５１２號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.150527,
-                    22.75176
                 ]
             }
         },
@@ -8005,23 +8039,6 @@
                 "coordinates": [
                     121.141653,
                     22.759464
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "柚子企業社",
-                "category": "餐飲\/糕餅",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市馬蘭里更生路７３５號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.136295,
-                    22.767818
                 ]
             }
         },
@@ -9987,7 +10004,7 @@
                 "category": "餐飲",
                 "area": "臺東市",
                 "market_address": "臺東縣臺東市新生里更生路６３８號",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -10357,23 +10374,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "啡比尋常食品行",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市中正里中華路一段３５０號一樓",
-                "pay_list": "信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.153481,
-                    22.754771
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "唐飲茶點心複合店",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -10538,23 +10538,6 @@
                 "coordinates": [
                     121.150336,
                     22.750596
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "同豪企業社",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市中山里中華路１段４０１號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.152623,
-                    22.753572
                 ]
             }
         },
@@ -11915,6 +11898,40 @@
                 "coordinates": [
                     121.134598,
                     22.742425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 台東更生店",
+                "category": "餐飲\/糕餅",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市馬蘭里更生路７３５號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.136295,
+                    22.767818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "85度C 台東中華店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市中山里中華路１段４０１號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.152623,
+                    22.753572
                 ]
             }
         },
