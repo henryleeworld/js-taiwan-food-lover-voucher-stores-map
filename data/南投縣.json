@@ -2520,40 +2520,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "穎冠茶飲企業股份有限公司南投民族店",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市民族路307號1樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.685436,
-                    23.908035
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "穎冠茶飲企業股份有限公司南投民族二店",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市民族路41號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.692699,
-                    23.910488
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "禾田舍商行",
                 "category": "餐飲",
                 "area": "南投市",
@@ -2633,6 +2599,23 @@
                 "coordinates": [
                     120.684749,
                     23.908187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "白巷子 南投民族店",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市南投里００８鄰民族路３３６號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685259,
+                    23.908297
                 ]
             }
         },
@@ -2786,23 +2769,6 @@
                 "coordinates": [
                     120.685181,
                     23.90827
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "溱品茶飲",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市南投里００８鄰民族路３３６號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.685259,
-                    23.908297
                 ]
             }
         },
@@ -3336,23 +3302,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "成沄商行",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市三興里集賢路１０７號",
-                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.683015,
-                    23.903883
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "成昕小吃店",
                 "category": "餐飲",
                 "area": "南投市",
@@ -3625,6 +3574,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "孫東寶台式牛排教父 南投集賢店",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市三興里集賢路１０７號",
+                "pay_list": "信用卡\/LINE Pay Money\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683015,
+                    23.903883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "妙品股份有限公司",
                 "category": "餐飲",
                 "area": "南投市",
@@ -3755,23 +3721,6 @@
                 "coordinates": [
                     120.685847,
                     23.904451
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "壹零捌飲料店",
-                "category": "餐飲",
-                "area": "南投市",
-                "market_address": "南投縣南投市崇文里００１鄰復興路１８７號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.686991,
-                    23.906946
                 ]
             }
         },
@@ -4424,6 +4373,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "TEA'S 原味 南投復興店",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市崇文里００１鄰復興路１８７號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686991,
+                    23.906946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "TEA TOP 第一味 南投民族店(豪飲茶行)",
                 "category": "餐飲",
                 "area": "南投市",
@@ -4486,6 +4452,40 @@
                 "coordinates": [
                     120.692034,
                     23.946632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 南投民族店",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市民族路307號1樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685436,
+                    23.908035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 南投民族二店",
+                "category": "餐飲",
+                "area": "南投市",
+                "market_address": "南投縣南投市民族路41號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.692699,
+                    23.910488
                 ]
             }
         },
@@ -4588,23 +4588,6 @@
                 "coordinates": [
                     120.634741,
                     23.833518
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "穎冠茶飲企業股份有限公司南投名間店",
-                "category": "餐飲",
-                "area": "名間鄉",
-                "market_address": "南投縣名間鄉中正村南雅街145號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.701919,
-                    23.838471
                 ]
             }
         },
@@ -4775,6 +4758,23 @@
                 "coordinates": [
                     120.703719,
                     23.836611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 南投名間店",
+                "category": "餐飲",
+                "area": "名間鄉",
+                "market_address": "南投縣名間鄉中正村南雅街145號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.701919,
+                    23.838471
                 ]
             }
         },
@@ -8657,23 +8657,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "穎冠茶飲企業股份有限公司南投水里店",
-                "category": "餐飲",
-                "area": "水里鄉",
-                "market_address": "南投縣水里鄉民生路359號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.854229,
-                    23.816307
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "百順滑口燒鴨",
                 "category": "餐飲",
                 "area": "水里鄉",
@@ -8906,6 +8889,23 @@
                 "coordinates": [
                     120.855508,
                     23.813103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 南投水里店",
+                "category": "餐飲",
+                "area": "水里鄉",
+                "market_address": "南投縣水里鄉民生路359號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.854229,
+                    23.816307
                 ]
             }
         },
@@ -9433,23 +9433,6 @@
                 "coordinates": [
                     120.720491,
                     23.763082
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "穎冠茶飲企業股份有限公司竹山店",
-                "category": "餐飲",
-                "area": "竹山鎮",
-                "market_address": "南投縣竹山鎮集山路三段897號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.683141,
-                    23.756983
                 ]
             }
         },
@@ -10011,6 +9994,23 @@
                 "coordinates": [
                     120.683286,
                     23.759702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 竹山店",
+                "category": "餐飲",
+                "area": "竹山鎮",
+                "market_address": "南投縣竹山鎮集山路三段897號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683141,
+                    23.756983
                 ]
             }
         },
@@ -14437,23 +14437,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "穎冠茶飲企業股份有限公司南投魚池店",
-                "category": "餐飲",
-                "area": "魚池鄉",
-                "market_address": "南投縣魚池鄉魚池街347號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.937524,
-                    23.896569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "福霖園藝有限公司竹石園分公司",
                 "category": "餐飲",
                 "area": "魚池鄉",
@@ -15842,6 +15825,23 @@
                 "coordinates": [
                     120.911109,
                     23.86478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 南投魚池店",
+                "category": "餐飲",
+                "area": "魚池鄉",
+                "market_address": "南投縣魚池鄉魚池街347號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.937524,
+                    23.896569
                 ]
             }
         },

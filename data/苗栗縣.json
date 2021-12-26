@@ -93,7 +93,7 @@
                 "category": "糕餅",
                 "area": "三義鄉",
                 "market_address": "苗栗縣三義鄉龍騰村１３鄰龍騰３號",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -10850,6 +10850,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "孫東寶台式牛排教父 苗栗府東店",
+                "category": "餐飲",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市建功里府東路８３號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.821569,
+                    24.562964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "娸娸廚房",
                 "category": "餐飲",
                 "area": "苗栗市",
@@ -11422,23 +11439,6 @@
                 "coordinates": [
                     120.835256,
                     24.562688
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "加加小吃店",
-                "category": "餐飲",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市建功里府東路８３號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.821569,
-                    24.562964
                 ]
             }
         },
@@ -14233,23 +14233,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "艾固得商行",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市建國里０１１鄰建國路８０巷１７弄１９號１樓",
-                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.911214,
-                    24.695882
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "舒苡咖啡坊",
                 "category": "餐飲",
                 "area": "頭份市",
@@ -14363,6 +14346,23 @@
                 "coordinates": [
                     120.90936,
                     24.689882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "紅茶洋行 頭份建國店",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市建國里０１１鄰建國路８０巷１７弄１９號１樓",
+                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.911214,
+                    24.695882
                 ]
             }
         },

@@ -497,23 +497,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "青森實業社",
-                "category": "餐飲",
-                "area": "北港鎮",
-                "market_address": "雲林縣北港鎮樹腳里文仁路３８４號１樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.293004,
-                    23.5749
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "隆昌茶飲專賣店",
                 "category": "餐飲",
                 "area": "北港鎮",
@@ -1296,23 +1279,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "冰緣企業社",
-                "category": "餐飲",
-                "area": "北港鎮",
-                "market_address": "雲林縣北港鎮新街里新德路１２３號Ｂ１樓",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.30782,
-                    23.591763
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "六九生猛海鮮",
                 "category": "餐飲",
                 "area": "北港鎮",
@@ -1494,6 +1460,40 @@
                 "coordinates": [
                     120.299428,
                     23.570637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味 馬祖醫院店",
+                "category": "餐飲",
+                "area": "北港鎮",
+                "market_address": "雲林縣北港鎮新街里新德路１２３號Ｂ１樓",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.30782,
+                    23.591763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味 北港文仁店",
+                "category": "餐飲",
+                "area": "北港鎮",
+                "market_address": "雲林縣北港鎮樹腳里文仁路３８４號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293004,
+                    23.5749
                 ]
             }
         },
@@ -2673,40 +2673,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "豪麟冷飲店",
-                "category": "餐飲",
-                "area": "土庫鎮",
-                "market_address": "雲林縣土庫鎮順天里中正路９９號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.390522,
-                    23.676217
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "豪羿冷飲店",
-                "category": "餐飲",
-                "area": "土庫鎮",
-                "market_address": "雲林縣土庫鎮北平里１５鄰馬光路８６號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.355695,
-                    23.705741
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "芳榖餐飲店",
                 "category": "餐飲",
                 "area": "土庫鎮",
@@ -2894,6 +2860,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "TEA'S 原味 土庫馬光店",
+                "category": "餐飲",
+                "area": "土庫鎮",
+                "market_address": "雲林縣土庫鎮北平里１５鄰馬光路８６號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.355695,
+                    23.705741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味 土庫中正店",
+                "category": "餐飲",
+                "area": "土庫鎮",
+                "market_address": "雲林縣土庫鎮順天里中正路９９號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.390522,
+                    23.676217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "靚軒昕烘焙",
                 "category": "糕餅",
                 "area": "大埤鄉",
@@ -2973,23 +2973,6 @@
                 "coordinates": [
                     120.354502,
                     23.75963
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "賓盈商行",
-                "category": "餐飲",
-                "area": "崙背鄉",
-                "market_address": "雲林縣崙背鄉南陽村０１１鄰中山路３４１－６號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.351883,
-                    23.760764
                 ]
             }
         },
@@ -3109,6 +3092,23 @@
                 "coordinates": [
                     120.354371,
                     23.76107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味 雲林崙背店",
+                "category": "餐飲",
+                "area": "崙背鄉",
+                "market_address": "雲林縣崙背鄉南陽村０１１鄰中山路３４１－６號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.351883,
+                    23.760764
                 ]
             }
         },
@@ -4322,23 +4322,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鎮東冷飲店",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市文化里鎮東路１６０號",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.552374,
-                    23.708918
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鎮北冷飲店",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -4367,23 +4350,6 @@
                 "coordinates": [
                     120.54294,
                     23.709626
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "銓方冷飲店",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市虎溪里３鄰西平路６３９號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.524407,
-                    23.724239
                 ]
             }
         },
@@ -4486,23 +4452,6 @@
                 "coordinates": [
                     120.548406,
                     23.710878
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "金珊行茶飲",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市公誠里上海路２８５號一樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.542627,
-                    23.715198
                 ]
             }
         },
@@ -5495,23 +5444,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "穎冠茶飲企業股份有限公司斗六石榴店",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市榴中里石榴路95號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.584078,
-                    23.723471
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "秀霞小吃店",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -5710,6 +5642,40 @@
                 "coordinates": [
                     120.53106227139,
                     23.712572615952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "白巷子 雲林斗六店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮南里中山路３２８之８號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538123,
+                    23.70051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "白巷子 斗六上海店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市公誠里上海路２８５號一樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542627,
+                    23.715198
                 ]
             }
         },
@@ -6175,23 +6141,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清鑽飲料店",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市龍潭里００６鄰龍潭路１４―１１號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.529311,
-                    23.691763
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "清心冷飲站",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -6424,23 +6373,6 @@
                 "coordinates": [
                     120.542303,
                     23.711973
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "欣恆商店",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市鎮南里中山路３２８之８號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.538123,
-                    23.70051
                 ]
             }
         },
@@ -8844,6 +8776,57 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "TEA'S 原味 斗六龍潭店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市龍潭里００６鄰龍潭路１４―１１號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.529311,
+                    23.691763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味 斗六鎮東店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市文化里鎮東路１６０號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.552374,
+                    23.708918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味 斗六西平店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市虎溪里３鄰西平路６３９號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.524407,
+                    23.724239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "Starbucks星巴克雲林縣第二分公司",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -9008,6 +8991,23 @@
                 "coordinates": [
                     120.536924,
                     23.700195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "50嵐 斗六石榴店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市榴中里石榴路95號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.584078,
+                    23.723471
                 ]
             }
         },
@@ -10748,23 +10748,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "長榮小吃店",
-                "category": "餐飲",
-                "area": "虎尾鎮",
-                "market_address": "雲林縣虎尾鎮西安里林森路二段１８７號１樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.428651,
-                    23.704305
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鐘家咖哩",
                 "category": "餐飲",
                 "area": "虎尾鎮",
@@ -10963,23 +10946,6 @@
                 "coordinates": [
                     120.43035,
                     23.705331
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "虎科飲料店",
-                "category": "餐飲",
-                "area": "虎尾鎮",
-                "market_address": "雲林縣虎尾鎮西安里林森路二段２９１號一樓",
-                "pay_list": "台灣pay\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.427564,
-                    23.702805
                 ]
             }
         },
@@ -11643,23 +11609,6 @@
                 "coordinates": [
                     120.430158,
                     23.704872
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "祥好茶飲",
-                "category": "餐飲",
-                "area": "虎尾鎮",
-                "market_address": "雲林縣虎尾鎮立仁里工專路１２８號一樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.425124,
-                    23.702608
                 ]
             }
         },
@@ -12703,6 +12652,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "孫東寶台式牛排教父 虎尾林森店",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮西安里林森路二段１８７號１樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.428651,
+                    23.704305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "媽祖埔豆腐張",
                 "category": "餐飲",
                 "area": "虎尾鎮",
@@ -13247,11 +13213,45 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "TEA'S 原味 虎尾科大店",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮西安里林森路二段２９１號一樓",
+                "pay_list": "台灣pay\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.427564,
+                    23.702805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "TEA'S 原味 虎尾工專店",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮立仁里工專路１２８號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.425124,
+                    23.702608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "Sunny Q 陽光公主義國餐廳",
                 "category": "餐飲",
                 "area": "虎尾鎮",
                 "market_address": "雲林縣虎尾鎮東仁里信義路６９號１樓",
-                "pay_list": "信用卡\/台灣pay"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",
