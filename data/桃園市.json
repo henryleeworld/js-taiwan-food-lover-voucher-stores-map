@@ -3829,23 +3829,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "銘桃商行",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區篤行里新中北路２段４８１號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.264183,
-                    24.955857
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "銀錦泰式料理",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -4248,23 +4231,6 @@
                 "coordinates": [
                     121.26345606029,
                     24.96989678337
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "都園商行",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區永福里南園二路３２號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.235161,
-                    24.97182
                 ]
             }
         },
@@ -6821,23 +6787,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "耕源商行",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區中原里忠孝路６９號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.25592331675,
-                    24.974180244493
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "老饕屋",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -6883,6 +6832,23 @@
                 "coordinates": [
                     121.222781,
                     24.96179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "老賴茶棧 中壢忠貞店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區龍安里龍東路４８２號",
+                "pay_list": "悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.256775,
+                    24.934467
                 ]
             }
         },
@@ -6968,6 +6934,23 @@
                 "coordinates": [
                     121.259173,
                     24.979099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "老先覺功夫窯燒鍋 中壢中山東店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區仁美里中山東路３段５７號",
+                "pay_list": "台灣pay\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.24793,
+                    24.945235
                 ]
             }
         },
@@ -7393,23 +7376,6 @@
                 "coordinates": [
                     121.25250426892,
                     24.963974461987
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "綠香茶行",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區文化里長春路６號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.25019663121,
-                    24.97919412515
                 ]
             }
         },
@@ -8742,6 +8708,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "田季發爺燒肉 桃園中壢店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區興國里中美路２段１３６號１樓及１３８號１－２樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.22083986654,
+                    24.960179866124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "甚春天鄉村餐廳",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -9025,23 +9008,6 @@
                 "coordinates": [
                     121.24837888493,
                     24.976060718853
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "玓樂茶行",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區龍安里龍東路４８２號",
-                "pay_list": "悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.256775,
-                    24.934467
                 ]
             }
         },
@@ -11190,23 +11156,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "水悦都冷飲站",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區龍德里龍岡路３段２０１號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.234105,
-                    24.93567
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "水悅莊園股份有限公司",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -11938,6 +11887,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "柒盞茶中壢龍岡店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區龍東里龍東路３５７號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.255275,
+                    24.932569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "柑萃小舖",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -12510,23 +12476,6 @@
                 "coordinates": [
                     121.255366,
                     24.975868
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "有宏茶號coco都可",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區民族路5段482號1樓前段",
-                "pay_list": "悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.166539,
-                    24.958147
                 ]
             }
         },
@@ -13139,23 +13088,6 @@
                 "coordinates": [
                     121.22922636066,
                     24.948837918311
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "旭昇茶行",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區內厝里中正路４段６２號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.18109334269,
-                    24.988513106438
                 ]
             }
         },
@@ -15083,6 +15015,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "康青龍 內壢興農店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區中原里興農路１０４號",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.257351,
+                    24.973496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "康董農產企業社",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -15763,6 +15712,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "小木屋鬆餅 中央店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區五權里中大路３００號﹝志希館前咖啡吧﹞",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.195635,
+                    24.968426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "小木屋簡餐",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -16001,23 +15967,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "富發商行",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區新明里新明路１７號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.21445343351,
-                    24.957509481874
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "富恩商行",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -16080,23 +16029,6 @@
                 "coordinates": [
                     121.258686,
                     24.973002
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "富信商行coco都可",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區中華路一段450號",
-                "pay_list": "悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.25354,
-                    24.972107
                 ]
             }
         },
@@ -16301,23 +16233,6 @@
                 "coordinates": [
                     121.22525144367,
                     24.950764411561
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "宜誠晉企業社",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區中原里興農路１０４號",
-                "pay_list": "信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.257351,
-                    24.973496
                 ]
             }
         },
@@ -16624,23 +16539,6 @@
                 "coordinates": [
                     121.25581897322,
                     24.972146154439
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "子池商行",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區自強里莊敬路１０３號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.25742025272,
-                    24.970245091784
                 ]
             }
         },
@@ -17423,23 +17321,6 @@
                 "coordinates": [
                     121.240053,
                     24.957215
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "壢貴商行",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區幸福里福州一街２４５號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.232857,
-                    24.967447
                 ]
             }
         },
@@ -18375,6 +18256,125 @@
                 "coordinates": [
                     121.221034,
                     24.96016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "和聖有限公司",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區新街里元化路２７１巷６號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.22620511627,
+                    24.962159773988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "和璟小吃店",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區中央里中美路３１號１樓",
+                "pay_list": "icash pay\/信用卡\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.226675,
+                    24.958141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "和熹商行",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區莊敬里莊敬路７６２號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.256489,
+                    24.965855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "和煦私藏餐飲工作室",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區金華里九和六街１０號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.223702,
+                    24.96497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "和幸居酒屋",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區永興里興國路４７號１樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.22060562302,
+                    24.958944768604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "和太興有限公司",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區新街里慈惠三街１１０號５樓",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.225674,
+                    24.963242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "和也串燒",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區自信里莊敬路８７４號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.253699,
+                    24.963715
                 ]
             }
         },
@@ -19877,23 +19877,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鳳鳴商行",
-                "category": "餐飲",
-                "area": "八德區",
-                "market_address": "桃園市八德區大明里２２鄰桃鶯路６２號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.327174,
-                    24.970724
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鱻宴食品行",
                 "category": "餐飲",
                 "area": "八德區",
@@ -21016,23 +20999,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "禾唐商行",
-                "category": "餐飲",
-                "area": "八德區",
-                "market_address": "桃園市八德區大昌里介壽路二段３５６號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.297456,
-                    24.948298
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "禾佳餐飲股份有限公司",
                 "category": "餐飲",
                 "area": "八德區",
@@ -21475,23 +21441,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "湧泉商行",
-                "category": "餐飲",
-                "area": "八德區",
-                "market_address": "桃園市八德區興仁里興豐路３１６號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.286778,
-                    24.929209
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "清華小吃店",
                 "category": "餐飲",
                 "area": "八德區",
@@ -21656,23 +21605,6 @@
                 "coordinates": [
                     121.27153,
                     24.975242
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "泳興商行",
-                "category": "餐飲",
-                "area": "八德區",
-                "market_address": "桃園市八德區永豐里永豐路５８９之２號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.271148,
-                    24.975463
                 ]
             }
         },
@@ -23787,6 +23719,74 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "CoCo都可 茶飲鳳鳴店",
+                "category": "餐飲",
+                "area": "八德區",
+                "market_address": "桃園市八德區大明里２２鄰桃鶯路６２號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.327174,
+                    24.970724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 永豐店",
+                "category": "餐飲",
+                "area": "八德區",
+                "market_address": "桃園市八德區永豐里永豐路５８９之２號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.271148,
+                    24.975463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 桃園興豐店",
+                "category": "餐飲",
+                "area": "八德區",
+                "market_address": "桃園市八德區興仁里興豐路３１６號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.286778,
+                    24.929209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 桃園大湳店",
+                "category": "餐飲",
+                "area": "八德區",
+                "market_address": "桃園市八德區大昌里介壽路二段３５６號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.297456,
+                    24.948298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "CoCo都可 桃園八德店",
                 "category": "餐飲",
                 "area": "八德區",
@@ -23798,6 +23798,23 @@
                 "coordinates": [
                     121.303781,
                     24.963539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 廣福店",
+                "category": "餐飲",
+                "area": "八德區",
+                "market_address": "桃園市八德區廣福路126號",
+                "pay_list": "悠遊卡\/悠遊付\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.296527,
+                    24.959443
                 ]
             }
         },
@@ -24926,23 +24943,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "爵渴茶行",
-                "category": "餐飲",
-                "area": "大園區",
-                "market_address": "桃園市大園區菓林里２鄰菓林路５０號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.259361,
-                    25.074732
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "濃和坊",
                 "category": "餐飲",
                 "area": "大園區",
@@ -25589,23 +25589,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "定紘茶坊",
-                "category": "餐飲",
-                "area": "大園區",
-                "market_address": "桃園市大園區橫峰里３５鄰青埔路二段３２號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.213917,
-                    25.009505
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "宏祥國際商行",
                 "category": "餐飲",
                 "area": "大園區",
@@ -25917,23 +25900,6 @@
                 "area": "大園區",
                 "market_address": "桃園市大園區大園里中山北路２３號１樓",
                 "pay_list": "悠遊付\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.196945,
-                    25.06462
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "向陽餐飲有限公司coco都可",
-                "category": "餐飲",
-                "area": "大園區",
-                "market_address": "桃園市大園區中山北路23號",
-                "pay_list": "悠遊付"
             },
             "geometry": {
                 "type": "Point",
@@ -26348,6 +26314,57 @@
                 "coordinates": [
                     121.237422,
                     25.081382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 菓林店",
+                "category": "餐飲",
+                "area": "大園區",
+                "market_address": "桃園市大園區菓林里２鄰菓林路５０號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.259361,
+                    25.074732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 桃園青埔店",
+                "category": "餐飲",
+                "area": "大園區",
+                "market_address": "桃園市大園區橫峰里３５鄰青埔路二段３２號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.213917,
+                    25.009505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 大園店",
+                "category": "餐飲",
+                "area": "大園區",
+                "market_address": "桃園市大園區中山北路23號",
+                "pay_list": "悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.196945,
+                    25.06462
                 ]
             }
         },
@@ -27595,40 +27612,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "富旺商行",
-                "category": "餐飲",
-                "area": "大溪區",
-                "market_address": "桃園市大溪區仁武里介壽路８４４－５號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.283607,
-                    24.900848
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "富友飲料店",
-                "category": "餐飲",
-                "area": "大溪區",
-                "market_address": "桃園市大溪區一心里２５鄰慈湖路１１７號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.288973,
-                    24.88135
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "客滿堂鵝肉麵食館",
                 "category": "餐飲",
                 "area": "大溪區",
@@ -27861,6 +27844,23 @@
                 "coordinates": [
                     121.287882,
                     24.88117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "卡薩義式披薩",
+                "category": "餐飲",
+                "area": "大溪區",
+                "market_address": "桃園市大溪區興和里登龍路１２號",
+                "pay_list": "LINE Pay Money\/台灣Pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.28634,
+                    24.8827
                 ]
             }
         },
@@ -28167,6 +28167,40 @@
                 "coordinates": [
                     121.288731,
                     24.87993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 大溪店",
+                "category": "餐飲",
+                "area": "大溪區",
+                "market_address": "桃園市大溪區一心里２５鄰慈湖路１１７號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.288973,
+                    24.88135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 大溪崎頂店",
+                "category": "餐飲",
+                "area": "大溪區",
+                "market_address": "桃園市大溪區仁武里介壽路８４４－５號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.283607,
+                    24.900848
                 ]
             }
         },
@@ -30094,23 +30128,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "祥發商行",
-                "category": "餐飲",
-                "area": "平鎮區",
-                "market_address": "桃園市平鎮區北勢里和平路２０５號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.219551,
-                    24.9458
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "瞎仔巷老麵店",
                 "category": "餐飲",
                 "area": "平鎮區",
@@ -30774,23 +30791,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "梅森茶行",
-                "category": "餐飲",
-                "area": "平鎮區",
-                "market_address": "桃園市平鎮區東社里龍南路３３６號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.25121,
-                    24.921848
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "柚樂商行",
                 "category": "餐飲",
                 "area": "平鎮區",
@@ -30802,40 +30802,6 @@
                 "coordinates": [
                     121.210911,
                     24.918032
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "朋朋茶莊",
-                "category": "餐飲",
-                "area": "平鎮區",
-                "market_address": "桃園市平鎮區廣達里育達路１２４號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.210328,
-                    24.951919
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "月月茶行",
-                "category": "餐飲",
-                "area": "平鎮區",
-                "market_address": "桃園市平鎮區復興里文化街２１７號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.203362,
-                    24.951968
                 ]
             }
         },
@@ -32474,23 +32440,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "冠品茶莊",
-                "category": "餐飲",
-                "area": "平鎮區",
-                "market_address": "桃園市平鎮區北貴里０１３鄰金陵路三段６６―５號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.22716059358,
-                    24.92887791178
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "六十甲麵飯館",
                 "category": "餐飲",
                 "area": "平鎮區",
@@ -32621,23 +32570,6 @@
                 "coordinates": [
                     121.203457,
                     24.950429
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "億美商行",
-                "category": "餐飲",
-                "area": "平鎮區",
-                "market_address": "桃園市平鎮區金星里中豐路南勢２段１５６號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.210397,
-                    24.915402
                 ]
             }
         },
@@ -33131,6 +33063,108 @@
                 "coordinates": [
                     121.211742,
                     24.901902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 平鎮龍南店",
+                "category": "餐飲",
+                "area": "平鎮區",
+                "market_address": "桃園市平鎮區東社里龍南路３３６號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.25121,
+                    24.921848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 平鎮金陵店",
+                "category": "餐飲",
+                "area": "平鎮區",
+                "market_address": "桃園市平鎮區北貴里０１３鄰金陵路三段６６―５號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.22716059358,
+                    24.92887791178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 平鎮育達店",
+                "category": "餐飲",
+                "area": "平鎮區",
+                "market_address": "桃園市平鎮區廣達里育達路１２４號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210328,
+                    24.951919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 平鎮文化店",
+                "category": "餐飲",
+                "area": "平鎮區",
+                "market_address": "桃園市平鎮區復興里文化街２１７號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.203362,
+                    24.951968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 平鎮和平店",
+                "category": "餐飲",
+                "area": "平鎮區",
+                "market_address": "桃園市平鎮區北勢里和平路２０５號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.219551,
+                    24.9458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 平鎮南勢店",
+                "category": "餐飲",
+                "area": "平鎮區",
+                "market_address": "桃園市平鎮區金星里中豐路南勢２段１５６號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210397,
+                    24.915402
                 ]
             }
         },
@@ -33936,23 +33970,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "斯婷茶行",
-                "category": "餐飲",
-                "area": "新屋區",
-                "market_address": "桃園市新屋區永安里中山西路三段６５２號（１樓）",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.030505,
-                    24.989169
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "慶賢小吃店",
                 "category": "餐飲",
                 "area": "新屋區",
@@ -34032,23 +34049,6 @@
                 "coordinates": [
                     121.09161,
                     24.960857
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "宥宏茶莊",
-                "category": "餐飲",
-                "area": "新屋區",
-                "market_address": "桃園市新屋區新生里中山路３４６號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.104764,
-                    24.972871
                 ]
             }
         },
@@ -34151,6 +34151,40 @@
                 "coordinates": [
                     121.109433,
                     24.971927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 永安中山店",
+                "category": "餐飲",
+                "area": "新屋區",
+                "market_address": "桃園市新屋區永安里中山西路三段６５２號（１樓）",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.030505,
+                    24.989169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 新屋中山店",
+                "category": "餐飲",
+                "area": "新屋區",
+                "market_address": "桃園市新屋區新生里中山路３４６號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.104764,
+                    24.972871
                 ]
             }
         },
@@ -35783,23 +35817,6 @@
                 "coordinates": [
                     121.319545,
                     25.01077
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "鼎聖商行",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區中聖里國際路１段１１３９號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.28900052597,
-                    24.988019186316
                 ]
             }
         },
@@ -37795,40 +37812,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "都可商行民生店coco都可",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區光興里縣府路296號",
-                "pay_list": "悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.299741,
-                    24.99284
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "都可商行中正店",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區信光里４鄰中正路７０６號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.30342416519,
-                    25.006923190898
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "郁暉企業社",
                 "category": "餐飲",
                 "area": "桃園區",
@@ -37891,23 +37874,6 @@
                 "coordinates": [
                     121.29983982896,
                     25.000327975111
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "達客餐飲有限公司coco都可",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區莊敬里莊敬路一段315號1樓",
-                "pay_list": "悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.297303,
-                    25.023993
                 ]
             }
         },
@@ -41603,6 +41569,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "研果室 桃園桃鶯店",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區雲林里桃鶯路１１０號（１樓）",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31797525391,
+                    24.98489597884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "石磊之鄉水煎包",
                 "category": "餐飲",
                 "area": "桃園區",
@@ -41903,6 +41886,23 @@
                 "coordinates": [
                     121.31740321899,
                     24.980578686505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "田季發爺燒肉 桃園成功店",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區東門里朝陽街１段５９巷１號及３號、成功路２段１號１樓及１－１號１樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.313789,
+                    24.99405
                 ]
             }
         },
@@ -42793,23 +42793,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "滿盈餐飲有限公司",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區龍鳳里００１鄰龍安街１０８號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.280123,
-                    24.989756
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "滿月樓懷舊小館",
                 "category": "餐飲",
                 "area": "桃園區",
@@ -42821,23 +42804,6 @@
                 "coordinates": [
                     121.302525,
                     25.011022
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "滿心餐飲有限公司",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區雲林里００５鄰桃鶯路１４２號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.31851258087,
-                    24.983723045331
                 ]
             }
         },
@@ -43694,23 +43660,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "民安晨食館",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區中興里０１４鄰民安路５４號１樓",
-                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.299864,
-                    24.998196
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "正一排骨桃園總店",
                 "category": "餐飲",
                 "area": "桃園區",
@@ -44476,23 +44425,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "桃大商行",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區武陵里０１４鄰大同路４１號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.31257262772,
-                    24.989546079558
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "桃園金讚鵝肉店",
                 "category": "餐飲",
                 "area": "桃園區",
@@ -44504,23 +44436,6 @@
                 "coordinates": [
                     121.31426436612,
                     24.995546338495
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "桃園發爺股份有限公司",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區東門里朝陽街１段５９巷１號及３號、成功路２段１號１樓及１－１號１樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.313789,
-                    24.99405
                 ]
             }
         },
@@ -45326,23 +45241,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "春蕎國際有限公司",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區光興里中山路４８２號１至２樓",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.29858165139,
-                    24.991508042862
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "春綠咖啡館",
                 "category": "餐飲",
                 "area": "桃園區",
@@ -45643,6 +45541,23 @@
                 "coordinates": [
                     121.283775,
                     25.020492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安山丘 桃市民安店",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區中興里０１４鄰民安路５４號１樓",
+                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.299864,
+                    24.998196
                 ]
             }
         },
@@ -47842,23 +47757,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "尚澄商行",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區雲林里桃鶯路１１０號（１樓）",
-                "pay_list": "街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.31797525391,
-                    24.98489597884
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "尚亞企業社",
                 "category": "餐飲",
                 "area": "桃園區",
@@ -48533,23 +48431,6 @@
                 "coordinates": [
                     121.31209493546,
                     24.995027263523
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "宜明商行",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區大興里大興路１６１號（１樓）",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.31101,
-                    25.015523
                 ]
             }
         },
@@ -51191,23 +51072,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "南平食品行",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區寶安里南平路４４２號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.2954890786,
-                    25.017109355812
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "南平老客馥粥品店",
                 "category": "餐飲",
                 "area": "桃園區",
@@ -52058,23 +51922,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "億可商店",
-                "category": "餐飲",
-                "area": "桃園區",
-                "market_address": "桃園市桃園區文化里１２鄰中華路６１號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.3104573114,
-                    24.990689338615
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "傳世蒸鋪",
                 "category": "餐飲",
                 "area": "桃園區",
@@ -52545,6 +52392,176 @@
                 "coordinates": [
                     121.298368,
                     25.005202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "亭玉小吃店",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區中聖里國鼎一街２１號１樓之１",
+                "pay_list": "悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.28804793145,
+                    24.987020153212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "享麵館",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區文明里中華路１１４號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.30873485332,
+                    24.990333776149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "享巷咖啡館",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區武陵里０１４鄰武昌街２３號",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.311674,
+                    24.98881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "亦智企業社",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區北埔里中正路１３９５號（１樓）",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.294405,
+                    25.024383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "亞詮餐飲事業股份有限公司春日營業所",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區大業里春日路６１８－１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31138311357,
+                    25.009000671846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "亞洲藏壽司股份有限公司桃園春日路店",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區大業里春日路６１８－１號２樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31138311357,
+                    25.009000671846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "亞咪活力屋",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區北埔里敬二街３１號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2929072405,
+                    25.023177136151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "亞利桑那食品行",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區信光里中正路６８６號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.303788,
+                    25.006367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "亞佳達早餐店",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區朝陽里朝陽街５３號１樓之３",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31287335503,
+                    24.997365402933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "亞伯冬瓜茶飲品店",
+                "category": "餐飲",
+                "area": "桃園區",
+                "market_address": "桃園市桃園區民生里民生路１６１號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.31288392705,
+                    24.994185161784
                 ]
             }
         },
@@ -53214,23 +53231,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "長歡茶飲",
-                "category": "餐飲",
-                "area": "楊梅區",
-                "market_address": "桃園市楊梅區楊梅里０２６鄰大成路２３２號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.146137,
-                    24.913336
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "長旺企業社",
                 "category": "餐飲",
                 "area": "楊梅區",
@@ -53242,23 +53242,6 @@
                 "coordinates": [
                     121.172374,
                     24.909244
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "長信茶飲",
-                "category": "餐飲",
-                "area": "楊梅區",
-                "market_address": "桃園市楊梅區楊江里大成路１０―１號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.14567046932,
-                    24.908142303263
                 ]
             }
         },
@@ -53701,23 +53684,6 @@
                 "coordinates": [
                     121.08252,
                     24.936439
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "茉莉茶行",
-                "category": "餐飲",
-                "area": "楊梅區",
-                "market_address": "桃園市楊梅區中山里環東路５０６號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.156341,
-                    24.911012
                 ]
             }
         },
@@ -54319,23 +54285,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "百香茶行",
-                "category": "餐飲",
-                "area": "楊梅區",
-                "market_address": "桃園市楊梅區埔心里中興路８１號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.184833,
-                    24.9177
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "瑾晴早午餐",
                 "category": "餐飲",
                 "area": "楊梅區",
@@ -54540,23 +54489,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清暉茶莊",
-                "category": "餐飲",
-                "area": "楊梅區",
-                "market_address": "桃園市楊梅區瑞原里民豐路１號（１樓）",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.122985,
-                    24.93439
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "清原芋圓 楊梅大成店",
                 "category": "餐飲",
                 "area": "楊梅區",
@@ -54721,23 +54653,6 @@
                 "coordinates": [
                     121.18265,
                     24.910705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "楊芯茶行",
-                "category": "餐飲",
-                "area": "楊梅區",
-                "market_address": "桃園市楊梅區四維里文化街２５０號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.183206,
-                    24.911743
                 ]
             }
         },
@@ -55475,23 +55390,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "恩緹茶飲",
-                "category": "餐飲",
-                "area": "楊梅區",
-                "market_address": "桃園市楊梅區青山里青山一街２９號（１樓）",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.177476,
-                    24.922519
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "心韻小吃店",
                 "category": "餐飲",
                 "area": "楊梅區",
@@ -55894,23 +55792,6 @@
                 "coordinates": [
                     121.145844,
                     24.911615
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "喆喆茶行",
-                "category": "餐飲",
-                "area": "楊梅區",
-                "market_address": "桃園市楊梅區瑞溪里梅獅路二段１８２號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.176997,
-                    24.906275
                 ]
             }
         },
@@ -56438,6 +56319,142 @@
                 "coordinates": [
                     121.148134,
                     24.907501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 老飯店",
+                "category": "餐飲",
+                "area": "楊梅區",
+                "market_address": "桃園市楊梅區瑞原里民豐路１號（１樓）",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.122985,
+                    24.93439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 楊梅環東店",
+                "category": "餐飲",
+                "area": "楊梅區",
+                "market_address": "桃園市楊梅區中山里環東路５０６號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.156341,
+                    24.911012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 楊梅楊新店",
+                "category": "餐飲",
+                "area": "楊梅區",
+                "market_address": "桃園市楊梅區楊梅里０２６鄰大成路２３２號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.146137,
+                    24.913336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 楊梅梅獅店",
+                "category": "餐飲",
+                "area": "楊梅區",
+                "market_address": "桃園市楊梅區瑞溪里梅獅路二段１８２號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.176997,
+                    24.906275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 楊梅幼獅店",
+                "category": "餐飲",
+                "area": "楊梅區",
+                "market_address": "桃園市楊梅區青山里青山一街２９號（１樓）",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.177476,
+                    24.922519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 楊梅大成店",
+                "category": "餐飲",
+                "area": "楊梅區",
+                "market_address": "桃園市楊梅區楊江里大成路１０―１號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14567046932,
+                    24.908142303263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 埔心文化店",
+                "category": "餐飲",
+                "area": "楊梅區",
+                "market_address": "桃園市楊梅區四維里文化街２５０號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.183206,
+                    24.911743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 埔心中興店",
+                "category": "餐飲",
+                "area": "楊梅區",
+                "market_address": "桃園市楊梅區埔心里中興路８１號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.184833,
+                    24.9177
                 ]
             }
         },
@@ -57379,23 +57396,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "達客餐飲有限公司coco都可",
-                "category": "餐飲",
-                "area": "蘆竹區",
-                "market_address": "桃園市蘆竹區南崁路300號",
-                "pay_list": "悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.292463,
-                    25.049973
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "迷客夏 桃園南崁店",
                 "category": "餐飲",
                 "area": "蘆竹區",
@@ -57719,23 +57719,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "萬吉商行",
-                "category": "餐飲",
-                "area": "蘆竹區",
-                "market_address": "桃園市蘆竹區錦中里南崁路一段６６號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.288886,
-                    25.051462
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "茶湯會股份有限公司桃園台茂店",
                 "category": "餐飲",
                 "area": "蘆竹區",
@@ -57917,23 +57900,6 @@
                 "coordinates": [
                     121.292061,
                     25.045203
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "翃業茶行",
-                "category": "餐飲",
-                "area": "蘆竹區",
-                "market_address": "桃園市蘆竹區中山里中山路１１７號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.298213,
-                    25.055776
                 ]
             }
         },
@@ -58529,23 +58495,6 @@
                 "coordinates": [
                     121.288383,
                     25.053471
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "滿鴻茶行",
-                "category": "餐飲",
-                "area": "蘆竹區",
-                "market_address": "桃園市蘆竹區上竹里大竹路５２４號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.25971,
-                    25.023854
                 ]
             }
         },
@@ -59895,23 +59844,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "奕竹茶飲店",
-                "category": "餐飲",
-                "area": "蘆竹區",
-                "market_address": "桃園市蘆竹區上竹里大竹路３９４號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.265947,
-                    25.019743
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "大竹幸福企業社",
                 "category": "餐飲",
                 "area": "蘆竹區",
@@ -60031,6 +59963,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "四海遊龍 南崁店(南崁小吃店)",
+                "category": "餐飲",
+                "area": "蘆竹區",
+                "market_address": "桃園市蘆竹區錦中里南崁路３７６號１樓",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.290445,
+                    25.050795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "囍綠休閒開發有限公司",
                 "category": "餐飲",
                 "area": "蘆竹區",
@@ -60076,23 +60025,6 @@
                 "coordinates": [
                     121.293141,
                     25.049139
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "喜悦茶號",
-                "category": "餐飲",
-                "area": "蘆竹區",
-                "market_address": "桃園市蘆竹區山腳里０１４鄰南山路三段２９３號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.286053,
-                    25.084932
                 ]
             }
         },
@@ -60167,23 +60099,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "品暢茶行",
-                "category": "餐飲",
-                "area": "蘆竹區",
-                "market_address": "桃園市蘆竹區內厝里南山路二段１９５號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.286805,
-                    25.065671
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "和家國際企業股份有限公司",
                 "category": "餐飲",
                 "area": "蘆竹區",
@@ -60212,23 +60127,6 @@
                 "coordinates": [
                     121.278765,
                     25.056918
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "向陽餐飲有限公司coco都可",
-                "category": "餐飲",
-                "area": "蘆竹區",
-                "market_address": "桃園市蘆竹區福昌里忠孝西路189號1樓",
-                "pay_list": "悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.289331,
-                    25.039808
                 ]
             }
         },
@@ -60552,23 +60450,6 @@
                 "coordinates": [
                     121.295041,
                     25.04614
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "南崁小吃店",
-                "category": "餐飲",
-                "area": "蘆竹區",
-                "market_address": "桃園市蘆竹區錦中里南崁路３７６號１樓",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.290445,
-                    25.050795
                 ]
             }
         },
@@ -61272,6 +61153,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "ten tast ten 咖啡豆專賣店",
+                "category": "餐飲",
+                "area": "蘆竹區",
+                "market_address": "桃園市蘆竹區南榮里００９鄰洛陽街３號",
+                "pay_list": "LINE Pay Money\/信用卡\/iPASS一卡通\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.292574,
+                    25.045624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "cama café 蘆竹南福店",
                 "category": "餐飲",
                 "area": "蘆竹區",
@@ -61385,6 +61283,125 @@
                 "coordinates": [
                     121.292559,
                     25.04693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 蘆竹大竹店",
+                "category": "餐飲",
+                "area": "蘆竹區",
+                "market_address": "桃園市蘆竹區上竹里大竹路５２４號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.25971,
+                    25.023854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 桃園大竹2店",
+                "category": "餐飲",
+                "area": "蘆竹區",
+                "market_address": "桃園市蘆竹區上竹里大竹路３９４號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.265947,
+                    25.019743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 山腳店",
+                "category": "餐飲",
+                "area": "蘆竹區",
+                "market_address": "桃園市蘆竹區山腳里０１４鄰南山路三段２９３號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.286053,
+                    25.084932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 南崁公埔店",
+                "category": "餐飲",
+                "area": "蘆竹區",
+                "market_address": "桃園市蘆竹區內厝里南山路二段１９５號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.286805,
+                    25.065671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 南崁中山店",
+                "category": "餐飲",
+                "area": "蘆竹區",
+                "market_address": "桃園市蘆竹區中山里中山路１１７號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.298213,
+                    25.055776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 南崁3店",
+                "category": "餐飲",
+                "area": "蘆竹區",
+                "market_address": "桃園市蘆竹區南崁路300號",
+                "pay_list": "悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.292463,
+                    25.049973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 南崁2店",
+                "category": "餐飲",
+                "area": "蘆竹區",
+                "market_address": "桃園市蘆竹區福昌里忠孝西路189號1樓",
+                "pay_list": "悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.289331,
+                    25.039808
                 ]
             }
         },
@@ -61623,23 +61640,6 @@
                 "coordinates": [
                     121.116938,
                     25.05074
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "隆興茶行",
-                "category": "餐飲",
-                "area": "觀音區",
-                "market_address": "桃園市觀音區草漯里大觀路２段７２號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.142746,
-                    25.047528
                 ]
             }
         },
@@ -62139,23 +62139,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "成功茶行",
-                "category": "餐飲",
-                "area": "觀音區",
-                "market_address": "桃園市觀音區樹林里成功路２段８３３號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.118042,
-                    25.051524
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "憶家鄉店",
                 "category": "餐飲",
                 "area": "觀音區",
@@ -62428,23 +62411,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "咏昇茶行",
-                "category": "餐飲",
-                "area": "觀音區",
-                "market_address": "桃園市觀音區富源里中山東路２段１０２５號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.151011,
-                    24.964905
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "和亭企業商行",
                 "category": "餐飲",
                 "area": "觀音區",
@@ -62694,6 +62660,57 @@
                 "coordinates": [
                     121.139685,
                     25.045978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 觀音成功店",
+                "category": "餐飲",
+                "area": "觀音區",
+                "market_address": "桃園市觀音區樹林里成功路２段８３３號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.118042,
+                    25.051524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 草漯店",
+                "category": "餐飲",
+                "area": "觀音區",
+                "market_address": "桃園市觀音區草漯里大觀路２段７２號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.142746,
+                    25.047528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 富源店",
+                "category": "餐飲",
+                "area": "觀音區",
+                "market_address": "桃園市觀音區富源里中山東路２段１０２５號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.151011,
+                    24.964905
                 ]
             }
         },
@@ -63816,23 +63833,6 @@
                 "coordinates": [
                     121.217412,
                     24.868029
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "鉦鉦茶行",
-                "category": "餐飲",
-                "area": "龍潭區",
-                "market_address": "桃園市龍潭區百年里０２２鄰中豐路３１５號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.211498,
-                    24.878347
                 ]
             }
         },
@@ -65675,23 +65675,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "朝日食堂",
-                "category": "餐飲",
-                "area": "龍潭區",
-                "market_address": "桃園市龍潭區龍星里大同路１９９號（１樓）",
-                "pay_list": "街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.219515,
-                    24.862022
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "有你早餐屋",
                 "category": "餐飲",
                 "area": "龍潭區",
@@ -65822,6 +65805,23 @@
                 "coordinates": [
                     121.208771,
                     24.862576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安山丘 龍潭大同店",
+                "category": "餐飲",
+                "area": "龍潭區",
+                "market_address": "桃園市龍潭區龍星里大同路１９９號（１樓）",
+                "pay_list": "街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.219515,
+                    24.862022
                 ]
             }
         },
@@ -66264,57 +66264,6 @@
                 "coordinates": [
                     121.21905,
                     24.868914
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "富鴻飲料店coco都可",
-                "category": "餐飲",
-                "area": "龍潭區",
-                "market_address": "桃園市龍潭區龍潭里北龍路116號",
-                "pay_list": "悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.213913,
-                    24.865981
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "富成商行",
-                "category": "餐飲",
-                "area": "龍潭區",
-                "market_address": "桃園市龍潭區武漢里８鄰中興路２９７號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.233779,
-                    24.873795
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "富信商行coco都可",
-                "category": "餐飲",
-                "area": "龍潭區",
-                "market_address": "桃園市龍潭區中正路207號",
-                "pay_list": "悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.217177,
-                    24.864519
                 ]
             }
         },
@@ -67454,6 +67403,74 @@
                 "coordinates": [
                     121.215354,
                     24.866965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 百年店",
+                "category": "餐飲",
+                "area": "龍潭區",
+                "market_address": "桃園市龍潭區百年里０２２鄰中豐路３１５號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.211498,
+                    24.878347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 正潭店",
+                "category": "餐飲",
+                "area": "龍潭區",
+                "market_address": "桃園市龍潭區中正路207號",
+                "pay_list": "悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.217177,
+                    24.864519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 北潭店",
+                "category": "餐飲",
+                "area": "龍潭區",
+                "market_address": "桃園市龍潭區龍潭里北龍路116號",
+                "pay_list": "悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.213913,
+                    24.865981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 中潭店",
+                "category": "餐飲",
+                "area": "龍潭區",
+                "market_address": "桃園市龍潭區武漢里８鄰中興路２９７號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.233779,
+                    24.873795
                 ]
             }
         },
@@ -71200,6 +71217,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "植做茶-林口長庚店",
+                "category": "餐飲",
+                "area": "龜山區",
+                "market_address": "桃園市龜山區文化里復興北路６巷３７號",
+                "pay_list": "LINE Pay Money\/信用卡\/台灣Pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.367994,
+                    25.058547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "森發披薩",
                 "category": "餐飲",
                 "area": "龜山區",
@@ -71245,6 +71279,23 @@
                 "coordinates": [
                     121.363744,
                     25.056432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "桃園市龜山區山德里10鄰山鶯路40號",
+                "category": "餐飲",
+                "area": "龜山區",
+                "market_address": "桃園市龜山區山德里山鶯路４０號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.323186,
+                    24.990853
                 ]
             }
         },
@@ -73784,23 +73835,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "億濰商店",
-                "category": "餐飲",
-                "area": "龜山區",
-                "market_address": "桃園市龜山區山德里山鶯路４０號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.323186,
-                    24.990853
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "億國餐飲店",
                 "category": "餐飲",
                 "area": "龜山區",
@@ -74039,23 +74073,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "享達商行",
-                "category": "餐飲",
-                "area": "龜山區",
-                "market_address": "桃園市龜山區龍華里萬壽路一段３２３號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.4024,
-                    25.016915
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "五十棧飯包店",
                 "category": "餐飲",
                 "area": "龜山區",
@@ -74135,23 +74152,6 @@
                 "coordinates": [
                     121.367399,
                     25.057991
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "中興食品行",
-                "category": "餐飲",
-                "area": "龜山區",
-                "market_address": "桃園市龜山區新路里１２鄰中興路４４９號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.336879,
-                    24.993555
                 ]
             }
         },
@@ -74696,6 +74696,40 @@
                 "coordinates": [
                     121.367203,
                     25.057621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 龍華店",
+                "category": "餐飲",
+                "area": "龜山區",
+                "market_address": "桃園市龜山區龍華里萬壽路一段３２３號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4024,
+                    25.016915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 中興店",
+                "category": "餐飲",
+                "area": "龜山區",
+                "market_address": "桃園市龜山區新路里１２鄰中興路４４９號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.336879,
+                    24.993555
                 ]
             }
         },

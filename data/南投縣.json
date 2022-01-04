@@ -5410,6 +5410,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "Ｂ．Ｗ義式料理",
+                "category": "餐飲",
+                "area": "埔里鎮",
+                "market_address": "南投縣埔里鎮杷城里東興一街２１１號",
+                "pay_list": "信用卡\/台灣Pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.973912,
+                    23.95815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "黃記咖啡館",
                 "category": "餐飲",
                 "area": "埔里鎮",
@@ -5965,23 +5982,6 @@
                 "coordinates": [
                     120.966474,
                     23.96628
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "貳零壹捌飲料店",
-                "category": "餐飲",
-                "area": "埔里鎮",
-                "market_address": "南投縣埔里鎮東門里中正路３８６號１樓",
-                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.96817,
-                    23.964648
                 ]
             }
         },
@@ -7994,6 +7994,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "喬治派克Georg Peck 埔里中正店",
+                "category": "餐飲",
+                "area": "埔里鎮",
+                "market_address": "南投縣埔里鎮東門里中正路３８６號１樓",
+                "pay_list": "台灣pay\/信用卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96817,
+                    23.964648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "呈睿小吃店",
                 "category": "餐飲",
                 "area": "埔里鎮",
@@ -9694,7 +9711,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "晨午喰玐玐叄",
+                "shop": "早安山丘 竹山集山店",
                 "category": "餐飲",
                 "area": "竹山鎮",
                 "market_address": "南投縣竹山鎮竹山里００５鄰集山路三段８８３號",
@@ -13145,23 +13162,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "台灣卜蜂企業股份有限公司台灣卜蜂企業股份有限公司六星便當草屯太平店",
-                "category": "餐飲",
-                "area": "草屯鎮",
-                "market_address": "南投縣草屯鎮太平路二段336號",
-                "pay_list": "信用卡\/台灣Pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.684364,
-                    23.978612
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "双喜小吃部",
                 "category": "餐飲",
                 "area": "草屯鎮",
@@ -13275,6 +13275,23 @@
                 "coordinates": [
                     120.687087,
                     23.96666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "六星便當 草屯太平店",
+                "category": "餐飲",
+                "area": "草屯鎮",
+                "market_address": "南投縣草屯鎮太平路二段336號",
+                "pay_list": "信用卡\/台灣Pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684364,
+                    23.978612
                 ]
             }
         },

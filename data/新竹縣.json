@@ -633,23 +633,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "創勝商行",
-                "category": "餐飲",
-                "area": "北埔鄉",
-                "market_address": "新竹縣北埔鄉北埔村００７鄰南興街１５２號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.057318,
-                    24.701636
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "光君茶業有限公司",
                 "category": "餐飲",
                 "area": "北埔鄉",
@@ -695,6 +678,23 @@
                 "coordinates": [
                     121.055938,
                     24.701936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 新竹北埔店",
+                "category": "餐飲",
+                "area": "北埔鄉",
+                "market_address": "新竹縣北埔鄉北埔村００７鄰南興街１５２號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.057318,
+                    24.701636
                 ]
             }
         },
@@ -939,23 +939,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "吉品飲品",
-                "category": "餐飲",
-                "area": "寶山鄉",
-                "market_address": "新竹縣寶山鄉雙溪村雙園路２段３３９號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.990365,
-                    24.765149
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "初夏生活茶飲店",
                 "category": "餐飲",
                 "area": "寶山鄉",
@@ -984,6 +967,23 @@
                 "coordinates": [
                     120.987275,
                     24.764683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 園區寶山店",
+                "category": "餐飲",
+                "area": "寶山鄉",
+                "market_address": "新竹縣寶山鄉雙溪村雙園路２段３３９號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.990365,
+                    24.765149
                 ]
             }
         },
@@ -1823,23 +1823,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "睿涵茶飲",
-                "category": "餐飲",
-                "area": "新埔鎮",
-                "market_address": "新竹縣新埔鎮四座里中正路３０２號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.080571,
-                    24.82771
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "皇家品味",
                 "category": "餐飲",
                 "area": "新埔鎮",
@@ -2089,6 +2072,23 @@
                 "coordinates": [
                     121.079046,
                     24.824874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 新竹新埔店",
+                "category": "餐飲",
+                "area": "新埔鎮",
+                "market_address": "新竹縣新埔鎮四座里中正路３０２號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.080571,
+                    24.82771
                 ]
             }
         },
@@ -3098,23 +3098,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "家宸商行",
-                "category": "餐飲",
-                "area": "新豐鄉",
-                "market_address": "新竹縣新豐鄉重興村新市路２０號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.986546,
-                    24.899683
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "家勝商行CoCo都可",
                 "category": "餐飲",
                 "area": "新豐鄉",
@@ -3625,6 +3608,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "CoCo都可 新豐新市店",
+                "category": "餐飲",
+                "area": "新豐鄉",
+                "market_address": "新竹縣新豐鄉重興村新市路２０號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.986546,
+                    24.899683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "85度C 新豐建興店",
                 "category": "餐飲",
                 "area": "新豐鄉",
@@ -4067,23 +4067,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "雅新茶飲",
-                "category": "餐飲",
-                "area": "湖口鄉",
-                "market_address": "新竹縣湖口鄉工業一路１６號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.026356,
-                    24.869893
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "雅嵐股份有限公司湖口中正50嵐門市",
                 "category": "餐飲",
                 "area": "湖口鄉",
@@ -4282,23 +4265,6 @@
                 "coordinates": [
                     121.014391,
                     24.872921
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "茗柚飲料店",
-                "category": "餐飲",
-                "area": "湖口鄉",
-                "market_address": "新竹縣湖口鄉中正村中正路１段１９９號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.047348,
-                    24.899985
                 ]
             }
         },
@@ -4571,40 +4537,6 @@
                 "coordinates": [
                     121.044521,
                     24.901921
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "睿誠商行",
-                "category": "餐飲",
-                "area": "湖口鄉",
-                "market_address": "新竹縣湖口鄉中正村中正路一段１２２號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.046829,
-                    24.901005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "睿捷茶飲",
-                "category": "餐飲",
-                "area": "湖口鄉",
-                "market_address": "新竹縣湖口鄉鳳凰村仁和路１３３號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.014814,
-                    24.873035
                 ]
             }
         },
@@ -4962,6 +4894,23 @@
                 "coordinates": [
                     121.02655,
                     24.869503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "杜芳子古味茶鋪 新竹湖口店",
+                "category": "餐飲",
+                "area": "湖口鄉",
+                "market_address": "新竹縣湖口鄉中正村中正路１段１９９號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.047348,
+                    24.899985
                 ]
             }
         },
@@ -5818,6 +5767,57 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "CoCo都可 湖口光復店",
+                "category": "餐飲",
+                "area": "湖口鄉",
+                "market_address": "新竹縣湖口鄉工業一路１６號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026356,
+                    24.869893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 湖口仁和店",
+                "category": "餐飲",
+                "area": "湖口鄉",
+                "market_address": "新竹縣湖口鄉鳳凰村仁和路１３３號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.014814,
+                    24.873035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 湖口中正2店",
+                "category": "餐飲",
+                "area": "湖口鄉",
+                "market_address": "新竹縣湖口鄉中正村中正路一段１２２號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.046829,
+                    24.901005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "85度C 湖口中華店",
                 "category": "餐飲",
                 "area": "湖口鄉",
@@ -6107,6 +6107,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "香帥蛋糕",
+                "category": "糕餅",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市東平里文興路一段３３６號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.030979,
+                    24.809004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "雲寬商行",
                 "category": "糕餅",
                 "area": "竹北市",
@@ -6322,6 +6339,23 @@
                 "coordinates": [
                     121.005351,
                     24.82833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "糖村",
+                "category": "糕餅",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市文喜街２６號",
+                "pay_list": "信用卡\/台灣Pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.010825,
+                    24.831795
                 ]
             }
         },
@@ -9881,6 +9915,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "英屬維京群島商糖村國際有限公司台灣分公司竹北門市",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市文喜街２６號",
+                "pay_list": "信用卡\/台灣Pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.010825,
+                    24.831795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "苗馨養生蔬食",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -11054,23 +11105,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "福心商行",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市福德里三民路３６９號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.010358,
-                    24.833877
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "福德小吃店",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -11371,6 +11405,23 @@
                 "coordinates": [
                     121.02040609188,
                     24.81629008383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "田季發爺燒肉 新竹竹北店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市文興路一段5號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02383,
+                    24.81313
                 ]
             }
         },
@@ -11972,23 +12023,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "潤臻商行",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市十興里勝利二路７９號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.026433,
-                    24.822794
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "漢神小吃店",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -12159,23 +12193,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "渼筑商行",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市自強南路１６１號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.024466,
-                    24.814589
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "清滿魯肉飯",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -12323,23 +12340,6 @@
                 "coordinates": [
                     121.02522932849,
                     24.812475429771
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "浩源商行",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市東平里００７鄰文興路二段４８號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.033933,
-                    24.807701
                 ]
             }
         },
@@ -12771,23 +12771,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "永奇商行",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市竹北里台元一街５－１號",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.01860002043,
-                    24.840797442637
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "水瓶作便當",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -12816,23 +12799,6 @@
                 "coordinates": [
                     121.008267,
                     24.835812
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "毓富茶飲",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市新國里中正西路１２３號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.000176,
-                    24.840934
                 ]
             }
         },
@@ -17327,23 +17293,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "名舫商行",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市台元街２６之６號",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.01291204631,
-                    24.841303181996
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "同樂會股份有限公司",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -17480,7 +17429,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "史坦利美式牛排",
+                "shop": "史坦利美式牛排 竹北成功店",
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市鹿場里成功二街１４２號１樓",
@@ -18279,23 +18228,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "全幃股份有限公司竹北店",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市文興路一段5號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.02383,
-                    24.81313
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "全家國際餐飲股份有限公司大戶屋竹北店",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -18392,40 +18324,6 @@
                 "coordinates": [
                     121.010721,
                     24.83228
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "傑昇商行CoCo都可",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市4鄰自強五路68號1樓",
-                "pay_list": "悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.023212,
-                    24.818746
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "傑克商行",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市中崙里光明六路８９號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.009172,
-                    24.826364
                 ]
             }
         },
@@ -19520,6 +19418,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "SUBWYA 竹北台元店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市竹北里台元一街５－１號",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01860002043,
+                    24.840797442637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "SUBWAY 竹北台元一店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市台元街２６之６號",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01291204631,
+                    24.841303181996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "PIZZA HUT必勝客-新竹竹北店",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -19548,6 +19480,125 @@
                 "coordinates": [
                     121.027537,
                     24.821432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 竹北自強南店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市自強南路１６１號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.024466,
+                    24.814589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 竹北文興店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市東平里００７鄰文興路二段４８號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.033933,
+                    24.807701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 竹北成功店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市4鄰自強五路68號1樓",
+                "pay_list": "悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.023212,
+                    24.818746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 竹北勝利店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市十興里勝利二路７９號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026433,
+                    24.822794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 竹北光明店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市中崙里光明六路８９號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.009172,
+                    24.826364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 竹北中正店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市新國里中正西路１２３號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.000176,
+                    24.840934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 竹北三民店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市福德里三民路３６９號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.010358,
+                    24.833877
                 ]
             }
         },
@@ -19871,6 +19922,23 @@
                 "coordinates": [
                     121.083161,
                     24.743828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "麥味登 竹東幸福店",
+                "category": "餐飲",
+                "area": "竹東鎮",
+                "market_address": "新竹縣竹東鎮東寧里０１９鄰東寧路一段１３９號１樓",
+                "pay_list": "Pi 拍錢包\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.094521,
+                    24.725232
                 ]
             }
         },
@@ -20285,23 +20353,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "諭希茶飲",
-                "category": "餐飲",
-                "area": "竹東鎮",
-                "market_address": "新竹縣竹東鎮二重里中興路３段１７７號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.055888,
-                    24.767318
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "蘋果早餐店",
                 "category": "餐飲",
                 "area": "竹東鎮",
@@ -20704,23 +20755,6 @@
                 "coordinates": [
                     121.09178288352,
                     24.736328389589
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "田園幸福企業社",
-                "category": "餐飲",
-                "area": "竹東鎮",
-                "market_address": "新竹縣竹東鎮東寧里０１９鄰東寧路一段１３９號１樓",
-                "pay_list": "Pi 拍錢包\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.094521,
-                    24.725232
                 ]
             }
         },
@@ -21424,23 +21458,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "宇均商行",
-                "category": "餐飲",
-                "area": "竹東鎮",
-                "market_address": "新竹縣竹東鎮東寧里０１５鄰東峰路６號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.09638,
-                    24.721923
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "子宸商行",
                 "category": "餐飲",
                 "area": "竹東鎮",
@@ -21588,23 +21605,6 @@
                 "coordinates": [
                     121.088477,
                     24.736395
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "又可飲品",
-                "category": "餐飲",
-                "area": "竹東鎮",
-                "market_address": "新竹縣竹東鎮榮華里２７鄰長春路３段１７８號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.083609,
-                    24.743728
                 ]
             }
         },
@@ -21866,6 +21866,57 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "CoCo都可 竹東東峰店",
+                "category": "餐飲",
+                "area": "竹東鎮",
+                "market_address": "新竹縣竹東鎮東寧里０１５鄰東峰路６號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.09638,
+                    24.721923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 竹東二重店",
+                "category": "餐飲",
+                "area": "竹東鎮",
+                "market_address": "新竹縣竹東鎮二重里中興路３段１７７號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.055888,
+                    24.767318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 竹東2店",
+                "category": "餐飲",
+                "area": "竹東鎮",
+                "market_address": "新竹縣竹東鎮榮華里２７鄰長春路３段１７８號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.083609,
+                    24.743728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "85度C咖啡蛋糕飲料竹東中豐店",
                 "category": "餐飲",
                 "area": "竹東鎮",
@@ -22053,23 +22104,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "涓可飲品",
-                "category": "餐飲",
-                "area": "芎林鄉",
-                "market_address": "新竹縣芎林鄉芎林村１６鄰文山路５１１號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.077916,
-                    24.776865
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "永津小吃店",
                 "category": "餐飲",
                 "area": "芎林鄉",
@@ -22183,6 +22217,23 @@
                 "coordinates": [
                     121.082157,
                     24.773354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 新竹芎林店",
+                "category": "餐飲",
+                "area": "芎林鄉",
+                "market_address": "新竹縣芎林鄉芎林村１６鄰文山路５１１號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.077916,
+                    24.776865
                 ]
             }
         },
@@ -22342,23 +22393,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "翔霖美食有限公司",
-                "category": "餐飲",
-                "area": "關西鎮",
-                "market_address": "新竹縣關西鎮北斗里光復路３５號（１樓、２樓）",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.177471,
-                    24.792821
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "翊承早餐店",
                 "category": "餐飲",
                 "area": "關西鎮",
@@ -22438,23 +22472,6 @@
                 "coordinates": [
                     121.176237,
                     24.794243
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "睿元茶飲有限公司",
-                "category": "餐飲",
-                "area": "關西鎮",
-                "market_address": "新竹縣關西鎮北斗里００１鄰中山路７０號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.176332,
-                    24.791453
                 ]
             }
         },
@@ -22574,6 +22591,23 @@
                 "coordinates": [
                     121.176472,
                     24.793306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "CoCo都可 新竹關西店",
+                "category": "餐飲",
+                "area": "關西鎮",
+                "market_address": "新竹縣關西鎮北斗里００１鄰中山路７０號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.176332,
+                    24.791453
                 ]
             }
         }

@@ -4730,6 +4730,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "食載Brunch",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市中正里中正路２９１號一樓",
+                "pay_list": "LINE Pay Money\/台灣Pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.152323,
+                    22.756478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "食樂燻雞",
                 "category": "餐飲",
                 "area": "臺東市",
@@ -4911,23 +4928,6 @@
                 "coordinates": [
                     121.111878,
                     22.785758
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "雅祥火鍋店",
-                "category": "餐飲",
-                "area": "臺東市",
-                "market_address": "臺東縣臺東市豐田里中興路四段４２０號１樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.094367,
-                    22.774695
                 ]
             }
         },
@@ -9127,6 +9127,23 @@
                 "coordinates": [
                     121.143496,
                     22.745826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "御饌鼎皇小火鍋 豐田店",
+                "category": "餐飲",
+                "area": "臺東市",
+                "market_address": "臺東縣臺東市豐田里中興路四段４２０號１樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.094367,
+                    22.774695
                 ]
             }
         },

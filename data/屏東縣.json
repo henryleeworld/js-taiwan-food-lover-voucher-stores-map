@@ -1109,23 +1109,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "臻旺企業行",
-                "category": "餐飲",
-                "area": "內埔鄉",
-                "market_address": "屏東縣內埔鄉內田村廣濟路１９號１、２樓",
-                "pay_list": "台灣pay\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.564978,
-                    22.609386
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "老鉄自助餐",
                 "category": "餐飲",
                 "area": "內埔鄉",
@@ -1273,6 +1256,23 @@
                 "coordinates": [
                     120.56073,
                     22.662614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "漫時光早午餐 內埔店",
+                "category": "餐飲",
+                "area": "內埔鄉",
+                "market_address": "屏東縣內埔鄉內田村廣濟路１９號１、２樓",
+                "pay_list": "台灣pay\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564978,
+                    22.609386
                 ]
             }
         },
@@ -4016,23 +4016,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "金晁企業有限公司民生店",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市金泉里民生路３２５號",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.490578,
-                    22.67047
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "金壽司日式便當",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -5427,23 +5410,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "益誠早午餐店",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市大武里武成街８２－６號",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.476943,
-                    22.656379
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "盈捷有限公司",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -5988,6 +5954,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "漫時光早午餐 建豐總店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市豐田里建豐路２１３號１樓",
+                "pay_list": "台灣pay\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.504294,
+                    22.676076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "漩茶舍商行",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -6356,23 +6339,6 @@
                 "coordinates": [
                     120.502799,
                     22.664261
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "泉漫生活有限公司",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市豐田里建豐路２１３號１樓",
-                "pay_list": "台灣pay\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.504294,
-                    22.676076
                 ]
             }
         },
@@ -7110,23 +7076,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "月天餐飲店",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市空翔里博愛路２９２號",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.48099,
-                    22.681543
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "晶見咖啡商行",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -7427,6 +7376,40 @@
                 "coordinates": [
                     120.473303,
                     22.687874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安山丘 屏市武成店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市大武里武成街８２－６號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.476943,
+                    22.656379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安山丘 屏市博愛店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市空翔里博愛路２９２號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.48099,
+                    22.681543
                 ]
             }
         },
@@ -9269,23 +9252,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "哈哈早餐店",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市崇武里永大路５０號",
-                "pay_list": "信用卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.47972,
-                    22.66139
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "哈克焗烤美食",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -9337,7 +9303,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "咕嘰咕嘰餐飲有限公司",
+                "shop": "咕嘰咕嘰早午餐 永大店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市崇武里永大路５０號",
+                "pay_list": "信用卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.47972,
+                    22.66139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "咕嘰咕嘰早午餐 屏東和平店",
                 "category": "餐飲",
                 "area": "屏東市",
                 "market_address": "屏東縣屏東市永城里和平路４７２號２樓",
@@ -10776,6 +10759,23 @@
                 "coordinates": [
                     120.499005,
                     22.683104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "SUBWAY 屏東民生餐廳",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市金泉里民生路３２５號",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.490578,
+                    22.67047
                 ]
             }
         },
@@ -21282,6 +21282,23 @@
                 "coordinates": [
                     120.568682,
                     22.574255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "復脈園健康蔬果之家",
+                "category": "餐飲",
+                "area": "萬巒鄉",
+                "market_address": "屏東縣萬巒鄉萬巒村民和路８號",
+                "pay_list": "LINE Pay Money\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.568935,
+                    22.574127
                 ]
             }
         },

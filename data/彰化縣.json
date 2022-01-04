@@ -3115,6 +3115,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "悟饕池上飯包 和美中正店",
+                "category": "餐飲",
+                "area": "和美鎮",
+                "market_address": "彰化縣和美鎮和西里中正路１４５號",
+                "pay_list": "台灣pay\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.495202,
+                    24.113337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "恩熙商行",
                 "category": "餐飲",
                 "area": "和美鎮",
@@ -3432,23 +3449,6 @@
                 "coordinates": [
                     120.491894,
                     24.115002
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "原味美食坊",
-                "category": "餐飲",
-                "area": "和美鎮",
-                "market_address": "彰化縣和美鎮和西里中正路１４５號",
-                "pay_list": "台灣pay\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.495202,
-                    24.113337
                 ]
             }
         },
@@ -7824,23 +7824,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "大知商行",
-                "category": "餐飲",
-                "area": "員林市",
-                "market_address": "彰化縣員林市和平里中山路２段１２號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.570763,
-                    23.959702
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "大同早餐店",
                 "category": "餐飲",
                 "area": "員林市",
@@ -9303,6 +9286,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "CoCo都可 員林中山店",
+                "category": "餐飲",
+                "area": "員林市",
+                "market_address": "彰化縣員林市和平里中山路２段１２號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.570763,
+                    23.959702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "85度C 員林靜修店",
                 "category": "餐飲",
                 "area": "員林市",
@@ -10300,6 +10300,23 @@
                 "coordinates": [
                     120.321269,
                     23.853442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "老漬號昱泰食品",
+                "category": "糕餅",
+                "area": "大村鄉",
+                "market_address": "彰化縣大村鄉美港村中山路１段１４１巷５號",
+                "pay_list": "LINE Pay Money\/信用卡\/台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.571104,
+                    23.977566
                 ]
             }
         },
@@ -13434,23 +13451,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "芳味美食坊",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市大竹里１１鄰彰南路２段２８號１樓",
-                "pay_list": "台灣pay\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.57749,
-                    24.085301
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "花盒子餐飲店",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -15202,23 +15202,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "正凱維國際有限公司",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市大同里中華路６５號１樓",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.542582,
-                    24.078195
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "歐姆瑞斯餐館",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -16148,6 +16131,23 @@
                 "coordinates": [
                     120.54578135965,
                     24.091367716668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "悟饕池上飯包 彰化大竹店",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市大竹里１１鄰彰南路２段２８號１樓",
+                "pay_list": "台灣pay\/悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.57749,
+                    24.085301
                 ]
             }
         },
@@ -18749,6 +18749,23 @@
                 "coordinates": [
                     120.53985,
                     24.067796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "SUBWAY 彰化中華餐廳",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市大同里中華路６５號１樓",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542582,
+                    24.078195
                 ]
             }
         },
