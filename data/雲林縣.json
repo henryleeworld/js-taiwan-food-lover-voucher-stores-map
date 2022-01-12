@@ -514,23 +514,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "隆昌茶飲專賣店",
-                "category": "餐飲",
-                "area": "北港鎮",
-                "market_address": "雲林縣北港鎮義民里民主路６５號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.302595,
-                    23.568248
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "阿寶晨食館",
                 "category": "餐飲",
                 "area": "北港鎮",
@@ -1562,6 +1545,23 @@
                 "coordinates": [
                     120.299564,
                     23.574297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 北港店",
+                "category": "餐飲",
+                "area": "北港鎮",
+                "market_address": "雲林縣北港鎮義民里民主路６５號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302595,
+                    23.568248
                 ]
             }
         },
@@ -6022,23 +6022,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "澄苑茶飲專賣店",
-                "category": "餐飲",
-                "area": "斗六市",
-                "market_address": "雲林縣斗六市鎮南里中山路３７８號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.538051,
-                    23.69914
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "澄富食府",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -8963,6 +8946,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 斗六中山店",
+                "category": "餐飲",
+                "area": "斗六市",
+                "market_address": "雲林縣斗六市鎮南里中山路３７８號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538051,
+                    23.69914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "85度C 斗六西平店",
                 "category": "餐飲",
                 "area": "斗六市",
@@ -9246,23 +9246,6 @@
                 "coordinates": [
                     120.477962,
                     23.673186
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "西岐小吃店",
-                "category": "餐飲",
-                "area": "斗南鎮",
-                "market_address": "雲林縣斗南鎮西岐里延平路２段１７８－１號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.480729,
-                    23.68025
                 ]
             }
         },
@@ -9671,6 +9654,23 @@
                 "coordinates": [
                     120.478758,
                     23.675924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 斗南店(西岐小吃店)",
+                "category": "餐飲",
+                "area": "斗南鎮",
+                "market_address": "雲林縣斗南鎮西岐里延平路２段１７８－１號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.480729,
+                    23.68025
                 ]
             }
         },
@@ -11201,23 +11201,6 @@
                 "coordinates": [
                     120.436755,
                     23.710262
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "芯承茶行",
-                "category": "餐飲",
-                "area": "虎尾鎮",
-                "market_address": "雲林縣虎尾鎮西安里中正路２９８號",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.429668,
-                    23.704543
                 ]
             }
         },
@@ -12771,23 +12754,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "大燕茶行",
-                "category": "餐飲",
-                "area": "虎尾鎮",
-                "market_address": "雲林縣虎尾鎮中山里中正路１０８號一樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.434246,
-                    23.708601
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "大口小吃店",
                 "category": "餐飲",
                 "area": "虎尾鎮",
@@ -13360,6 +13326,40 @@
                 "coordinates": [
                     120.433772,
                     23.708207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 虎尾科大店",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮西安里中正路２９８號",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.429668,
+                    23.704543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 虎尾中正店",
+                "category": "餐飲",
+                "area": "虎尾鎮",
+                "market_address": "雲林縣虎尾鎮中山里中正路１０８號一樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.434246,
+                    23.708601
                 ]
             }
         },
@@ -14012,23 +14012,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "樂果茶飲專賣店",
-                "category": "餐飲",
-                "area": "西螺鎮",
-                "market_address": "雲林縣西螺鎮廣福里中山路９９號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.462061,
-                    23.799948
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "棥驊國際商行",
                 "category": "餐飲",
                 "area": "西螺鎮",
@@ -14380,6 +14363,23 @@
                 "coordinates": [
                     120.459785,
                     23.799928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 西螺店",
+                "category": "餐飲",
+                "area": "西螺鎮",
+                "market_address": "雲林縣西螺鎮廣福里中山路９９號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.462061,
+                    23.799948
                 ]
             }
         },

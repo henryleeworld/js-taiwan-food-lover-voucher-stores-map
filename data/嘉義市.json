@@ -13009,23 +13009,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "天沅茶舖",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區書院里仁愛路５４６號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.44206,
-                    23.477709
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "大葉鐵板燒小吃店",
                 "category": "餐飲",
                 "area": "西區",
@@ -13173,6 +13156,23 @@
                 "coordinates": [
                     120.4424,
                     23.47758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 嘉義博愛店(博愛小吃店)",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區西平里博愛路２段５８８號１樓",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.430229,
+                    23.47101
                 ]
             }
         },
@@ -13751,23 +13751,6 @@
                 "coordinates": [
                     120.4483,
                     23.48067
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "博愛小吃店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區西平里博愛路２段５８８號１樓",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.430229,
-                    23.47101
                 ]
             }
         },
@@ -15043,6 +15026,23 @@
                 "coordinates": [
                     120.43114,
                     23.481819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 嘉義站前店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區書院里仁愛路５４６號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44206,
+                    23.477709
                 ]
             }
         },

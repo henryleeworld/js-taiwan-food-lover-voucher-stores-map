@@ -4628,23 +4628,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "湖德小吃店",
-                "category": "餐飲",
-                "area": "湖口鄉",
-                "market_address": "新竹縣湖口鄉中正村７鄰中正路１段１９１號",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.047268,
-                    24.90023
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "湖工茶行",
                 "category": "餐飲",
                 "area": "湖口鄉",
@@ -4781,23 +4764,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "泓達小吃店",
-                "category": "餐飲",
-                "area": "湖口鄉",
-                "market_address": "新竹縣湖口鄉中華路３２號１樓",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.01022,
-                    24.872488
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "江北手工拉麵",
                 "category": "餐飲",
                 "area": "湖口鄉",
@@ -4911,23 +4877,6 @@
                 "coordinates": [
                     121.047348,
                     24.899985
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "日冠苑茶飲專賣店",
-                "category": "餐飲",
-                "area": "湖口鄉",
-                "market_address": "新竹縣湖口鄉鳳凰村仁和路９６號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.01443,
-                    24.872888
                 ]
             }
         },
@@ -5336,6 +5285,40 @@
                 "coordinates": [
                     121.029463,
                     24.865413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍鍋 湖口店(湖德小吃店)",
+                "category": "餐飲",
+                "area": "湖口鄉",
+                "market_address": "新竹縣湖口鄉中正村７鄰中正路１段１９１號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.047268,
+                    24.90023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 湖口中華店(泓達小吃店)",
+                "category": "餐飲",
+                "area": "湖口鄉",
+                "market_address": "新竹縣湖口鄉中華路３２號１樓",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01022,
+                    24.872488
                 ]
             }
         },
@@ -5761,6 +5744,23 @@
                 "coordinates": [
                     121.044006,
                     24.905795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 湖口仁和店",
+                "category": "餐飲",
+                "area": "湖口鄉",
+                "market_address": "新竹縣湖口鄉鳳凰村仁和路９６號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01443,
+                    24.872888
                 ]
             }
         },
@@ -8878,23 +8878,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "超好吃小吃店",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市中崙里縣政九路２９號",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.008679,
-                    24.825445
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "超大牛餐飲店",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -11088,23 +11071,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "福德小吃店",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市福德里博愛街３５２號１樓",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.008387,
-                    24.835986
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "福嶸餐飲事業股份有限公司",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -12108,23 +12074,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "溱饌小吃店",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市十興里勝利二路５７號１樓",
-                "pay_list": "悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.02587036714,
-                    24.822970718834
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "溫師傅麵食館",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -12442,23 +12391,6 @@
                 "coordinates": [
                     121.01016354503,
                     24.831972708447
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "津饌小吃店",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市福興東路２段２０號",
-                "pay_list": "悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.02626950907,
-                    24.816211748665
                 ]
             }
         },
@@ -13853,23 +13785,6 @@
                 "coordinates": [
                     121.024218,
                     24.821586
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "景紘茶行",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市十興里勝利二路１０５號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.02730986328,
-                    24.82248553695
                 ]
             }
         },
@@ -16834,6 +16749,74 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "四海遊龍 竹北店(超好吃小吃店)",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市中崙里縣政九路２９號",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.008679,
+                    24.825445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 竹北二店(福德小吃店)",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市福德里博愛街３５２號１樓",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.008387,
+                    24.835986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 福興店(津饌小吃店)",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市福興東路２段２０號",
+                "pay_list": "悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02626950907,
+                    24.816211748665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 十興店(溱饌小吃店)",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市十興里勝利二路５７號１樓",
+                "pay_list": "悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02587036714,
+                    24.822970718834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "嘉寶寵物民宿用品店",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -19486,6 +19469,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 竹北勝利店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市十興里勝利二路１０５號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02730986328,
+                    24.82248553695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "CoCo都可 竹北自強南店",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -19830,7 +19830,7 @@
                 "category": "糕餅",
                 "area": "竹東鎮",
                 "market_address": "新竹縣竹東鎮榮華里０２６鄰長春路３段１６８巷８號１樓",
-                "pay_list": "LINE Pay Money"
+                "pay_list": "LINE Pay Money\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -21356,23 +21356,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "幟品茶飲專賣店",
-                "category": "餐飲",
-                "area": "竹東鎮",
-                "market_address": "新竹縣竹東鎮商華里９鄰長春路２段３１號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.08842,
-                    24.737738
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "岩漿股份有限公司",
                 "category": "餐飲",
                 "area": "竹東鎮",
@@ -21543,7 +21526,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "大利佳商行",
+                "shop": "四海遊龍 竹東中豐店(大利佳商行)",
                 "category": "餐飲",
                 "area": "竹東鎮",
                 "market_address": "新竹縣竹東鎮東寧里０１６鄰中豐路二段１１８號１樓",
@@ -21877,6 +21860,23 @@
                 "coordinates": [
                     121.084168,
                     24.742663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 竹東長春店",
+                "category": "餐飲",
+                "area": "竹東鎮",
+                "market_address": "新竹縣竹東鎮商華里９鄰長春路２段３１號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.08842,
+                    24.737738
                 ]
             }
         },

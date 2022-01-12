@@ -3115,23 +3115,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "義二冷飲店",
-                "category": "餐飲",
-                "area": "中正區",
-                "market_address": "基隆市中正區德義里義二路２７號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.74521,
-                    25.131001
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "美順軒早店",
                 "category": "餐飲",
                 "area": "中正區",
@@ -5251,6 +5234,23 @@
                 "coordinates": [
                     121.743336,
                     25.131805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 基隆義二店",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區德義里義二路２７號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74521,
+                    25.131001
                 ]
             }
         },
@@ -10204,6 +10204,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "馬祖奶茶 基隆深溪店",
+                "category": "餐飲",
+                "area": "信義區",
+                "market_address": "基隆市信義區孝忠里深溪路１８８號（１樓）",
+                "pay_list": "台灣pay\/街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782848,
+                    25.13483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "馬家食府小吃坊",
                 "category": "餐飲",
                 "area": "信義區",
@@ -10334,23 +10351,6 @@
                 "coordinates": [
                     121.753913,
                     25.129221
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "鑫安州企業社",
-                "category": "餐飲",
-                "area": "信義區",
-                "market_address": "基隆市信義區孝忠里深溪路１８８號（１樓）",
-                "pay_list": "台灣pay\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.782848,
-                    25.13483
                 ]
             }
         },
@@ -12227,6 +12227,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮天下 麥金店(大千小吃店)",
+                "category": "餐飲",
+                "area": "安樂區",
+                "market_address": "基隆市安樂區三民里麥金路４３３－８號及４３３－９號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.719418,
+                    25.125108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "香香堡早餐店",
                 "category": "餐飲",
                 "area": "安樂區",
@@ -13139,23 +13156,6 @@
                 "coordinates": [
                     121.723795,
                     25.120819
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "大千小吃店",
-                "category": "餐飲",
-                "area": "安樂區",
-                "market_address": "基隆市安樂區三民里麥金路４３３－８號及４３３－９號",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.719418,
-                    25.125108
                 ]
             }
         },

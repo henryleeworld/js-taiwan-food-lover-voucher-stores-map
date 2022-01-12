@@ -4322,23 +4322,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "龍山小吃店",
-                "category": "餐飲",
-                "area": "竹南鎮",
-                "market_address": "苗栗縣竹南鎮山佳里龍山路３段２５４號１樓",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.88212,
-                    24.702622
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鼎鑫商行",
                 "category": "餐飲",
                 "area": "竹南鎮",
@@ -4469,23 +4452,6 @@
                 "coordinates": [
                     120.876953,
                     24.685226
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "香豪飲食店",
-                "category": "餐飲",
-                "area": "竹南鎮",
-                "market_address": "苗栗縣竹南鎮新南里天文路１７６號（隔壁）",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.881884,
-                    24.686178
                 ]
             }
         },
@@ -6430,6 +6396,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "四海遊龍 龍山店(龍山小吃店)",
+                "category": "餐飲",
+                "area": "竹南鎮",
+                "market_address": "苗栗縣竹南鎮山佳里龍山路３段２５４號１樓",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.88212,
+                    24.702622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 東站店(香豪飲食店)",
+                "category": "餐飲",
+                "area": "竹南鎮",
+                "market_address": "苗栗縣竹南鎮新南里天文路１７６號（隔壁）",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.881884,
+                    24.686178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "四方牧場休憩小站",
                 "category": "餐飲",
                 "area": "竹南鎮",
@@ -7535,23 +7535,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "紘霖果茶專賣店",
-                "category": "餐飲",
-                "area": "苑裡鎮",
-                "market_address": "苗栗縣苑裡鎮苑南里１１鄰天下路７１號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.652309,
-                    24.442809
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "紅蟻商行",
                 "category": "餐飲",
                 "area": "苑裡鎮",
@@ -8147,6 +8130,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 苑裡店",
+                "category": "餐飲",
+                "area": "苑裡鎮",
+                "market_address": "苗栗縣苑裡鎮苑南里１１鄰天下路７１號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.652309,
+                    24.442809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "CoCo都可 苗栗苑裡店",
                 "category": "餐飲",
                 "area": "苑裡鎮",
@@ -8719,23 +8719,6 @@
                 "coordinates": [
                     120.831789,
                     24.56279
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "馥蜜茶飲專賣店",
-                "category": "餐飲",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市建功里府前路１７３號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.81786,
-                    24.559888
                 ]
             }
         },
@@ -11190,6 +11173,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "四海遊龍 苗栗巨蛋店(元山小館)",
+                "category": "餐飲",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市福麗里３６鄰民族路１５１、１５３號１樓",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.816953,
+                    24.563535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "噢嗨喲早餐屋",
                 "category": "餐飲",
                 "area": "苗栗市",
@@ -11615,23 +11615,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "元山小館",
-                "category": "餐飲",
-                "area": "苗栗市",
-                "market_address": "苗栗縣苗栗市福麗里３６鄰民族路１５１、１５３號１樓",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.816953,
-                    24.563535
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "信的魯肉飯",
                 "category": "餐飲",
                 "area": "苗栗市",
@@ -11830,6 +11813,23 @@
                 "coordinates": [
                     120.821357,
                     24.558657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 苗栗府前店",
+                "category": "餐飲",
+                "area": "苗栗市",
+                "market_address": "苗栗縣苗栗市建功里府前路１７３號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.81786,
+                    24.559888
                 ]
             }
         },
@@ -12397,7 +12397,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "嵐田餐飲",
+                "shop": "四海遊龍 通霄店(嵐田餐飲)",
                 "category": "餐飲",
                 "area": "通霄鎮",
                 "market_address": "苗栗縣通霄鎮通西里０２６鄰中正路９０號１樓",
@@ -13383,23 +13383,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "頭華小吃店",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市民權里中華路９１５號",
-                "pay_list": "LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.905356,
-                    24.683288
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "頭份建國50嵐門市",
                 "category": "餐飲",
                 "area": "頭份市",
@@ -13547,23 +13530,6 @@
                 "coordinates": [
                     120.905833,
                     24.688154
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "鉑飲飲茶專賣店",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市成功里０１１鄰建國路１５６號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.909025,
-                    24.696331
                 ]
             }
         },
@@ -13808,23 +13774,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "貴福小吃店",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市忠孝里１鄰建國路５３號",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.913073,
-                    24.693688
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "貴族世家-苗栗頭份店",
                 "category": "餐飲",
                 "area": "頭份市",
@@ -13921,23 +13870,6 @@
                 "coordinates": [
                     120.901967,
                     24.686789
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "語宣小吃",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市文化里０１３鄰信東路２段２１２號１樓",
-                "pay_list": "悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.899618,
-                    24.698899
                 ]
             }
         },
@@ -15389,23 +15321,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "斗煥小吃",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市斗煥里大營路３號",
-                "pay_list": "悠遊付\/悠遊卡\/LINE Pay Money"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.940826,
-                    24.682133
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "擎鋒餐飲店",
                 "category": "餐飲",
                 "area": "頭份市",
@@ -15638,6 +15553,23 @@
                 "coordinates": [
                     120.89515,
                     24.693465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "川牛木石亭 頭份店",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市民族里００３鄰自強路２７９號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.903789,
+                    24.685547
                 ]
             }
         },
@@ -15961,6 +15893,74 @@
                 "coordinates": [
                     120.902167,
                     24.687639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 頭份店(頭華小吃店)",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市民權里中華路９１５號",
+                "pay_list": "LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.905356,
+                    24.683288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 斗煥店(斗煥小吃)",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市斗煥里大營路３號",
+                "pay_list": "悠遊付\/悠遊卡\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.940826,
+                    24.682133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 建國店(貴福小吃店)",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市忠孝里１鄰建國路５３號",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.913073,
+                    24.693688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "四海遊龍 信東店(語宣小吃)",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市文化里０１３鄰信東路２段２１２號１樓",
+                "pay_list": "悠遊卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.899618,
+                    24.698899
                 ]
             }
         },
@@ -16545,23 +16545,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "佩玲商行",
-                "category": "餐飲",
-                "area": "頭份市",
-                "market_address": "苗栗縣頭份市民族里００３鄰自強路２７９號１樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.903789,
-                    24.685547
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "二張商行",
                 "category": "餐飲",
                 "area": "頭份市",
@@ -16777,6 +16760,23 @@
                 "coordinates": [
                     120.906152,
                     24.685694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "DaYungs 大苑子茶飲專賣店 頭份建國店",
+                "category": "餐飲",
+                "area": "頭份市",
+                "market_address": "苗栗縣頭份市成功里０１１鄰建國路１５６號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/LINE Pay Money"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.909025,
+                    24.696331
                 ]
             }
         },
