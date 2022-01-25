@@ -6736,23 +6736,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "朋青小吃店",
-                "category": "餐飲",
-                "area": "玉里鎮",
-                "market_address": "花蓮縣玉里鎮中城里光復路７５號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.316159,
-                    23.331859
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "昱香企業行",
                 "category": "夜市\/市場攤販\/餐飲",
                 "area": "玉里鎮",
@@ -7002,6 +6985,23 @@
                 "coordinates": [
                     121.31444485122,
                     23.334483323859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 花蓮玉里店",
+                "category": "餐飲",
+                "area": "玉里鎮",
+                "market_address": "花蓮縣玉里鎮中城里光復路７５號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.316159,
+                    23.331859
                 ]
             }
         },
@@ -7399,23 +7399,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "波波餃食堂",
-                "category": "餐飲",
-                "area": "瑞穗鄉",
-                "market_address": "花蓮縣瑞穗鄉瑞穗村０２１鄰中華路１、３號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.377941,
-                    23.498221
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "東戀民宿",
                 "category": "餐飲",
                 "area": "瑞穗鄉",
@@ -7580,6 +7563,23 @@
                 "coordinates": [
                     121.357012,
                     23.465271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 花蓮瑞穗店",
+                "category": "餐飲",
+                "area": "瑞穗鄉",
+                "market_address": "花蓮縣瑞穗鄉瑞穗村０２１鄰中華路１、３號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.377941,
+                    23.498221
                 ]
             }
         },
