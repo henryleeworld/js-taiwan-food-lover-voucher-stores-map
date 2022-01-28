@@ -446,23 +446,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "寶蓮商行",
-                "category": "餐飲",
-                "area": "北埔鄉",
-                "market_address": "新竹縣北埔鄉北埔村北埔街４２號１樓",
-                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.056787,
-                    24.699988
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "大豐收庭苑餐館",
                 "category": "餐飲",
                 "area": "北埔鄉",
@@ -627,6 +610,23 @@
                 "coordinates": [
                     121.05716,
                     24.701295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 新竹北埔店",
+                "category": "餐飲",
+                "area": "北埔鄉",
+                "market_address": "新竹縣北埔鄉北埔村北埔街４２號１樓",
+                "pay_list": "台灣pay\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.056787,
+                    24.699988
                 ]
             }
         },
@@ -871,23 +871,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "宇軒商行",
-                "category": "餐飲",
-                "area": "寶山鄉",
-                "market_address": "新竹縣寶山鄉雙溪村雙園路二段３６３號１樓",
-                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.989734,
-                    24.764512
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "大觀饗宴股份有限公司",
                 "category": "餐飲",
                 "area": "寶山鄉",
@@ -950,6 +933,23 @@
                 "coordinates": [
                     120.990503,
                     24.765288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 新竹雙園店",
+                "category": "餐飲",
+                "area": "寶山鄉",
+                "market_address": "新竹縣寶山鄉雙溪村雙園路二段３６３號１樓",
+                "pay_list": "台灣pay\/信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.989734,
+                    24.764512
                 ]
             }
         },
@@ -1772,23 +1772,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "美湘美食坊",
-                "category": "餐飲",
-                "area": "新埔鎮",
-                "market_address": "新竹縣新埔鎮中正路２１１號１樓",
-                "pay_list": "台灣pay\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.080662,
-                    24.827271
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "紅瓦屋小館",
                 "category": "餐飲",
                 "area": "新埔鎮",
@@ -1885,23 +1868,6 @@
                 "coordinates": [
                     121.080623,
                     24.827762
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "新埔鎮農會供銷部",
-                "category": "餐飲",
-                "area": "新埔鎮",
-                "market_address": "新竹縣新埔鎮四座里楊新路１段３２２號",
-                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.087698,
-                    24.831114
                 ]
             }
         },
@@ -2055,6 +2021,23 @@
                 "coordinates": [
                     121.105662,
                     24.856742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 新竹新埔店",
+                "category": "餐飲",
+                "area": "新埔鎮",
+                "market_address": "新竹縣新埔鎮中正路２１１號１樓",
+                "pay_list": "台灣pay\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.080662,
+                    24.827271
                 ]
             }
         },
@@ -3387,6 +3370,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "八方雲集 新竹新豐店",
+                "category": "餐飲",
+                "area": "新豐鄉",
+                "market_address": "新竹縣新豐鄉新興路２２３號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.996267,
+                    24.869948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 新竹新庄店",
+                "category": "餐飲",
+                "area": "新豐鄉",
+                "market_address": "新竹縣新豐鄉重興村新庄路２３０號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.986,
+                    24.903102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "元億小吃店",
                 "category": "餐飲",
                 "area": "新豐鄉",
@@ -3415,40 +3432,6 @@
                 "coordinates": [
                     120.992707,
                     24.876415
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "佑恩小吃",
-                "category": "餐飲",
-                "area": "新豐鄉",
-                "market_address": "新竹縣新豐鄉新興路２２３號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.996267,
-                    24.869948
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "佑佑小吃",
-                "category": "餐飲",
-                "area": "新豐鄉",
-                "market_address": "新竹縣新豐鄉重興村新庄路２３０號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.986,
-                    24.903102
                 ]
             }
         },
@@ -3489,7 +3472,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "五鮮級國際餐飲股份有限公司新竹新豐分店",
+                "shop": "五鮮級平價鍋物 竹北新豐店",
                 "category": "餐飲",
                 "area": "新豐鄉",
                 "market_address": "新竹縣新豐鄉新興路１２９號１樓",
@@ -5019,23 +5002,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "建銘小吃",
-                "category": "餐飲",
-                "area": "湖口鄉",
-                "market_address": "新竹縣湖口鄉鳳凰村仁和路４１號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.012568,
-                    24.874303
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "康琳飲食店",
                 "category": "餐飲",
                 "area": "湖口鄉",
@@ -5064,23 +5030,6 @@
                 "coordinates": [
                     121.011037,
                     24.872872
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "山嫂臭臭鍋",
-                "category": "餐飲",
-                "area": "湖口鄉",
-                "market_address": "新竹縣湖口鄉中山路２段１１３號１樓",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.043959,
-                    24.902612
                 ]
             }
         },
@@ -5285,23 +5234,6 @@
                 "coordinates": [
                     121.036542,
                     24.906123
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "天新鍋貼美食館",
-                "category": "餐飲",
-                "area": "湖口鄉",
-                "market_address": "新竹縣湖口鄉勝利村勝利路二段１４號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.029463,
-                    24.865413
                 ]
             }
         },
@@ -5591,6 +5523,57 @@
                 "coordinates": [
                     121.014196,
                     24.873358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 湖口勝利店",
+                "category": "餐飲",
+                "area": "湖口鄉",
+                "market_address": "新竹縣湖口鄉勝利村勝利路二段１４號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.029463,
+                    24.865413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 湖口仁和店",
+                "category": "餐飲",
+                "area": "湖口鄉",
+                "market_address": "新竹縣湖口鄉鳳凰村仁和路４１號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.012568,
+                    24.874303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 新竹湖口店",
+                "category": "餐飲",
+                "area": "湖口鄉",
+                "market_address": "新竹縣湖口鄉中山路２段１１３號１樓",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.043959,
+                    24.902612
                 ]
             }
         },
@@ -9371,23 +9354,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "蘿蔔台元小吃店",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市台元一街７號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.017942,
-                    24.841638
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "藍豆餐飲事業有限公司",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -9688,23 +9654,6 @@
                 "coordinates": [
                     121.016115,
                     24.831513
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "莫潔商行",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市嘉豐六路二段１２號",
-                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.028673,
-                    24.809835
                 ]
             }
         },
@@ -10340,23 +10289,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "美泇美食坊",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市東興里嘉興路３１４號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.030603,
-                    24.819797
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "美奇行",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -10793,23 +10725,6 @@
                 "coordinates": [
                     121.027569,
                     24.824916
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "竹北八方館",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市竹北市縣政二路９５號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.01451174667,
-                    24.824118188981
                 ]
             }
         },
@@ -11337,23 +11252,6 @@
                 "coordinates": [
                     121.021676,
                     24.813061
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "甲意小吃店",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市十興里勝利一路８１號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.026627,
-                    24.821631
                 ]
             }
         },
@@ -13264,23 +13162,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "楷基商行",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市博愛街３５５號１樓",
-                "pay_list": "悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.00836399337,
-                    24.836244143485
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "極度好喝鮮果茶飲",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -13360,6 +13241,40 @@
                 "coordinates": [
                     121.0179566011,
                     24.836807197003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "梁社漢排骨 竹北莊敬店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市十興里莊敬五街１１號",
+                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02602730304,
+                    24.821537744875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "梁社漢排骨 竹北中正西店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市中正西路１１３號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.000393,
+                    24.84083
                 ]
             }
         },
@@ -13859,6 +13774,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 竹北光明店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市北崙里光明三路７６號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00872,
+                    24.830182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "晨喧廚房餐坊",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -13870,23 +13802,6 @@
                 "coordinates": [
                     121.028546,
                     24.81436
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "晨光廚房",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市北崙里光明三路７６號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.00872,
-                    24.830182
                 ]
             }
         },
@@ -15644,7 +15559,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "小蒙牛竹北有限公司",
+                "shop": "小蒙牛頂級麻辣養生鍋 竹北店",
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市文化里０１２鄰文田街６６號",
@@ -17327,40 +17242,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "吉華小吃店",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市嘉豐十一路一段１００號",
-                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.035524,
-                    24.808634
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "吉美小吃店",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市中正西路１１３號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.000393,
-                    24.84083
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "吉比鮮釀股份有限公司竹北店",
                 "category": "餐飲",
                 "area": "竹北市",
@@ -18211,17 +18092,136 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方雲集餐飲股份有限公司御廚竹北莊敬店",
+                "shop": "八方雲集 蘿蔔竹北台元科技店",
                 "category": "餐飲",
                 "area": "竹北市",
-                "market_address": "新竹縣竹北市十興里莊敬五街１１號",
-                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+                "market_address": "新竹縣竹北市台元一街７號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.02602730304,
-                    24.821537744875
+                    121.017942,
+                    24.841638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 竹北縣政二店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市竹北市縣政二路９５號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01451174667,
+                    24.824118188981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 竹北嘉豐店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市嘉豐十一路一段１００號",
+                "pay_list": "台灣pay\/信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.035524,
+                    24.808634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 竹北嘉興店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市東興里嘉興路３１４號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.030603,
+                    24.819797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 竹北博愛店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市博愛街３５５號１樓",
+                "pay_list": "悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.00836399337,
+                    24.836244143485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 竹北勝利店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市十興里勝利一路８１號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026627,
+                    24.821631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 竹北六家店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市嘉豐六路二段１２號",
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.028673,
+                    24.809835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 竹北中正東店",
+                "category": "餐飲",
+                "area": "竹北市",
+                "market_address": "新竹縣竹北市竹仁里０３７鄰中正東路２５７號１樓",
+                "pay_list": "信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.013417,
+                    24.835038
                 ]
             }
         },
@@ -18721,7 +18721,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "五鮮級國際餐飲股份有限公司新竹竹北環北分店",
+                "shop": "五鮮級平價鍋物 竹北環北店",
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市環北路五段２７５號",
@@ -18738,7 +18738,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "五鮮級國際餐飲股份有限公司新竹竹北旗艦分店",
+                "shop": "五鮮級平價鍋物 竹北旗艦店",
                 "category": "餐飲",
                 "area": "竹北市",
                 "market_address": "新竹縣竹北市自強北路１８３號",
@@ -18936,23 +18936,6 @@
                 "coordinates": [
                     121.010212,
                     24.832426
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "上霈商行",
-                "category": "餐飲",
-                "area": "竹北市",
-                "market_address": "新竹縣竹北市竹仁里０３７鄰中正東路２５７號１樓",
-                "pay_list": "信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.013417,
-                    24.835038
                 ]
             }
         },
@@ -20931,23 +20914,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "永泰小吃",
-                "category": "餐飲",
-                "area": "竹東鎮",
-                "market_address": "新竹縣竹東鎮東華里７鄰東林路３３號１樓",
-                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.089428,
-                    24.737126
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "正東早餐店",
                 "category": "餐飲",
                 "area": "竹東鎮",
@@ -20976,6 +20942,23 @@
                 "coordinates": [
                     121.056055,
                     24.781806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "梁社漢排骨 竹東東寧店",
+                "category": "餐飲",
+                "area": "竹東鎮",
+                "market_address": "新竹縣竹東鎮竹東里０１６鄰東寧路三段１５４號１樓",
+                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.085643,
+                    24.740147
                 ]
             }
         },
@@ -21186,23 +21169,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "晏榮商行",
-                "category": "餐飲",
-                "area": "竹東鎮",
-                "market_address": "新竹縣竹東鎮東寧里０１５鄰中豐路二段１１號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.096149,
-                    24.722007
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "昇一排骨",
                 "category": "餐飲",
                 "area": "竹東鎮",
@@ -21282,23 +21248,6 @@
                 "coordinates": [
                     121.09206864156,
                     24.736619651581
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "得春商行",
-                "category": "餐飲",
-                "area": "竹東鎮",
-                "market_address": "新竹縣竹東鎮榮華里０２７鄰長春路３段１７２號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.083693,
-                    24.74361
                 ]
             }
         },
@@ -21469,23 +21418,6 @@
                 "coordinates": [
                     121.086944,
                     24.739939
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "富婷商行",
-                "category": "餐飲",
-                "area": "竹東鎮",
-                "market_address": "新竹縣竹東鎮二重里中興路３段３２１號",
-                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.053538,
-                    24.769338
                 ]
             }
         },
@@ -21696,17 +21628,68 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方雲集餐飲股份有限公司御廚竹東東寧店",
+                "shop": "八方雲集 竹東長春三店",
                 "category": "餐飲",
                 "area": "竹東鎮",
-                "market_address": "新竹縣竹東鎮竹東里０１６鄰東寧路三段１５４號１樓",
-                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+                "market_address": "新竹縣竹東鎮榮華里０２７鄰長春路３段１７２號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.085643,
-                    24.740147
+                    121.083693,
+                    24.74361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 竹東店",
+                "category": "餐飲",
+                "area": "竹東鎮",
+                "market_address": "新竹縣竹東鎮東華里７鄰東林路３３號１樓",
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.089428,
+                    24.737126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 竹東中豐店",
+                "category": "餐飲",
+                "area": "竹東鎮",
+                "market_address": "新竹縣竹東鎮東寧里０１５鄰中豐路二段１１號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.096149,
+                    24.722007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 竹東中興店",
+                "category": "餐飲",
+                "area": "竹東鎮",
+                "market_address": "新竹縣竹東鎮二重里中興路３段３２１號",
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.053538,
+                    24.769338
                 ]
             }
         },
@@ -22036,40 +22019,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "芎林鄉農會農民直銷站",
-                "category": "餐飲",
-                "area": "芎林鄉",
-                "market_address": "新竹縣芎林鄉新鳳村００８鄰富林路２段４９５巷１２號",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.090087,
-                    24.761087
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "芎林鄉農會供銷部",
-                "category": "餐飲",
-                "area": "芎林鄉",
-                "market_address": "新竹縣芎林鄉上山村００３鄰文山路６２６號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.07647,
-                    24.779492
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "芎林漁家莊",
                 "category": "餐飲",
                 "area": "芎林鄉",
@@ -22081,23 +22030,6 @@
                 "coordinates": [
                     121.095419,
                     24.751802
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "芎林小吃店",
-                "category": "餐飲",
-                "area": "芎林鄉",
-                "market_address": "新竹縣芎林鄉文林村００７鄰文山路３４０號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.081256,
-                    24.774995
                 ]
             }
         },
@@ -22234,6 +22166,23 @@
                 "coordinates": [
                     121.077899,
                     24.776906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 芎林文山店",
+                "category": "餐飲",
+                "area": "芎林鄉",
+                "market_address": "新竹縣芎林鄉文林村００７鄰文山路３４０號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.081256,
+                    24.774995
                 ]
             }
         },

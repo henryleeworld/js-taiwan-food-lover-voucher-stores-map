@@ -174,23 +174,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "饗居小吃店",
-                "category": "餐飲",
-                "area": "七堵區",
-                "market_address": "基隆市七堵區正光里明德一路１２３號",
-                "pay_list": "悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.714644,
-                    25.097738
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "顧佳企業社",
                 "category": "餐飲",
                 "area": "七堵區",
@@ -1007,7 +990,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八八八鍋貼水餃專賣店",
+                "shop": "八方雲集 基隆百福店",
+                "category": "餐飲",
+                "area": "七堵區",
+                "market_address": "基隆市七堵區百三街８５號",
+                "pay_list": "悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.696943,
+                    25.082008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 基隆七堵店",
                 "category": "餐飲",
                 "area": "七堵區",
                 "market_address": "基隆市七堵區正明里自治街２６號",
@@ -1024,17 +1024,17 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "兆盛小吃店",
+                "shop": "八方雲集 七堵明德店",
                 "category": "餐飲",
                 "area": "七堵區",
-                "market_address": "基隆市七堵區百三街８５號",
+                "market_address": "基隆市七堵區正光里明德一路１２３號",
                 "pay_list": "悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.696943,
-                    25.082008
+                    121.714644,
+                    25.097738
                 ]
             }
         },
@@ -1670,23 +1670,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "朋佳小吃店",
-                "category": "餐飲",
-                "area": "中山區",
-                "market_address": "基隆市中山區西華里西定路１１０巷３６號前棟１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.735281,
-                    25.133876
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "慶筑小吃店",
                 "category": "餐飲",
                 "area": "中山區",
@@ -2129,7 +2112,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "元寶小吃店",
+                "shop": "八方雲集 基隆西定店",
+                "category": "餐飲",
+                "area": "中山區",
+                "market_address": "基隆市中山區西華里西定路１１０巷３６號前棟１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.735281,
+                    25.133876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 基隆復興店",
                 "category": "餐飲",
                 "area": "中山區",
                 "market_address": "基隆市中山區德和里復興路１３６號１樓",
@@ -2140,6 +2140,23 @@
                 "coordinates": [
                     121.726327,
                     25.144735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 基隆中和店",
+                "category": "餐飲",
+                "area": "中山區",
+                "market_address": "基隆市中山區和慶里中和路１６８巷７弄１９號（１樓）",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.71592,
+                    25.150172
                 ]
             }
         },
@@ -2157,23 +2174,6 @@
                 "coordinates": [
                     121.726471,
                     25.144876
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "依霖小吃店",
-                "category": "餐飲",
-                "area": "中山區",
-                "market_address": "基隆市中山區和慶里中和路１６８巷７弄１９號（１樓）",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.71592,
-                    25.150172
                 ]
             }
         },
@@ -3166,23 +3166,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "美吉登餐飲有限公司基隆分公司",
-                "category": "餐飲",
-                "area": "中正區",
-                "market_address": "基隆市中正區正濱里中正路８１０號",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.771666,
-                    25.151074
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "美又美漢堡",
                 "category": "餐飲",
                 "area": "中正區",
@@ -3829,6 +3812,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "梁社漢排骨 基隆中正店",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區正濱里中正路８１０號",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771666,
+                    25.151074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "柯達大飯店股份有限公司",
                 "category": "餐飲",
                 "area": "中正區",
@@ -4288,7 +4288,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "小蒙牛股份有限公司小蒙牛基隆分公司",
+                "shop": "小蒙牛頂級麻辣養生鍋 基隆店",
                 "category": "餐飲",
                 "area": "中正區",
                 "market_address": "基隆市中正區港通里信一路１７７號３２樓",
@@ -4781,23 +4781,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方食坊小吃店",
-                "category": "餐飲",
-                "area": "中正區",
-                "market_address": "基隆市中正區新豐里新豐街４１６號１樓",
-                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.786696,
-                    25.135843
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "八方雲集餐飲股份有限公司御廚基隆中正店",
                 "category": "餐飲",
                 "area": "中正區",
@@ -4815,7 +4798,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方小吃店",
+                "shop": "八方雲集 基隆義二店",
                 "category": "餐飲",
                 "area": "中正區",
                 "market_address": "基隆市中正區德義里義二路１９號１樓",
@@ -4826,6 +4809,40 @@
                 "coordinates": [
                     121.745136,
                     25.130855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 基隆新豐店",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區新豐里新豐街４１６號１樓",
+                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.786696,
+                    25.135843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 基隆中正店",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區正濱里中正路７９４號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.771265,
+                    25.151256
                 ]
             }
         },
@@ -5047,23 +5064,6 @@
                 "coordinates": [
                     121.787757,
                     25.134696
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "三圓小吃店",
-                "category": "餐飲",
-                "area": "中正區",
-                "market_address": "基隆市中正區正濱里中正路７９４號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.771265,
-                    25.151256
                 ]
             }
         },
@@ -8011,23 +8011,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "昱昌小吃店",
-                "category": "餐飲",
-                "area": "仁愛區",
-                "market_address": "基隆市仁愛區和明里仁二路１１０號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.747609,
-                    25.127476
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "昱恩國際餐飲有限公司基隆廟口分店",
                 "category": "餐飲",
                 "area": "仁愛區",
@@ -8521,6 +8504,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "崑仕熟成牛排餐廳- Kuen's SteakHouse",
+                "category": "餐飲",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區博愛里愛二路２７號１樓",
+                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741711,
+                    25.128699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "崇盛小吃店",
                 "category": "餐飲",
                 "area": "仁愛區",
@@ -8566,23 +8566,6 @@
                 "coordinates": [
                     121.739079,
                     25.1296
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "尹瑅小吃店",
-                "category": "餐飲",
-                "area": "仁愛區",
-                "market_address": "基隆市仁愛區博愛里愛二路２７號１樓",
-                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.741711,
-                    25.128699
                 ]
             }
         },
@@ -8821,23 +8804,6 @@
                 "coordinates": [
                     121.73914,
                     25.130469
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "奕圓小吃店",
-                "category": "餐飲",
-                "area": "仁愛區",
-                "market_address": "基隆市仁愛區吉仁里南榮路１７９號１樓",
-                "pay_list": "台灣pay\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.74306,
-                    25.123816
                 ]
             }
         },
@@ -9552,6 +9518,40 @@
                 "coordinates": [
                     121.744198,
                     25.128937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 基隆南榮店",
+                "category": "餐飲",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區吉仁里南榮路１７９號１樓",
+                "pay_list": "台灣pay\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74306,
+                    25.123816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 基隆仁二店",
+                "category": "餐飲",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區和明里仁二路１１０號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747609,
+                    25.127476
                 ]
             }
         },
@@ -11751,6 +11751,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "八方雲集 基隆東信店",
+                "category": "餐飲",
+                "area": "信義區",
+                "market_address": "基隆市信義區東光里東信路１５８號（１樓）",
+                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765037,
+                    25.128053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "八方火鍋店",
                 "category": "餐飲",
                 "area": "信義區",
@@ -11779,23 +11796,6 @@
                 "coordinates": [
                     121.780137,
                     25.12818
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "優豆小吃店",
-                "category": "餐飲",
-                "area": "信義區",
-                "market_address": "基隆市信義區東光里東信路１５８號（１樓）",
-                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.765037,
-                    25.128053
                 ]
             }
         },
@@ -13349,23 +13349,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "冠侶小吃店",
-                "category": "餐飲",
-                "area": "安樂區",
-                "market_address": "基隆市安樂區六合里樂利三街１１０號１樓",
-                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.715005,
-                    25.126422
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "八董火鍋店",
                 "category": "餐飲",
                 "area": "安樂區",
@@ -13383,7 +13366,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方雲集小吃店",
+                "shop": "八方雲集 基隆樂利三店",
+                "category": "餐飲",
+                "area": "安樂區",
+                "market_address": "基隆市安樂區六合里樂利三街１１０號１樓",
+                "pay_list": "台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.715005,
+                    25.126422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 基隆大武崙店",
                 "category": "餐飲",
                 "area": "安樂區",
                 "market_address": "基隆市安樂區外寮里武嶺街９１號１樓",
@@ -13859,23 +13859,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "瑪納小吃店",
-                "category": "餐飲",
-                "area": "暖暖區",
-                "market_address": "基隆市暖暖區碇和里源遠路１８０號（１樓）",
-                "pay_list": "悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.749979,
-                    25.09814
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "玉如早餐店",
                 "category": "餐飲",
                 "area": "暖暖區",
@@ -13938,23 +13921,6 @@
                 "coordinates": [
                     121.754816,
                     25.098852
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "永泰小吃店",
-                "category": "餐飲",
-                "area": "暖暖區",
-                "market_address": "基隆市暖暖區暖暖里東勢街４―１０號",
-                "pay_list": "悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.7364172952,
-                    25.099589719776
                 ]
             }
         },
@@ -14363,6 +14329,40 @@
                 "coordinates": [
                     121.738845,
                     25.094673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 基隆源遠店",
+                "category": "餐飲",
+                "area": "暖暖區",
+                "market_address": "基隆市暖暖區碇和里源遠路１８０號（１樓）",
+                "pay_list": "悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749979,
+                    25.09814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 基隆暖暖店",
+                "category": "餐飲",
+                "area": "暖暖區",
+                "market_address": "基隆市暖暖區暖暖里東勢街４―１０號",
+                "pay_list": "悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7364172952,
+                    25.099589719776
                 ]
             }
         },

@@ -1398,6 +1398,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 內埔學人店",
+                "category": "餐飲",
+                "area": "內埔鄉",
+                "market_address": "屏東縣內埔鄉和興村０１２鄰學人路７１０號",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.564339,
+                    22.607714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "明達商行",
                 "category": "餐飲",
                 "area": "內埔鄉",
@@ -1579,23 +1596,6 @@
                 "coordinates": [
                     120.544146,
                     22.631671
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "姥法絲手作坊",
-                "category": "餐飲",
-                "area": "內埔鄉",
-                "market_address": "屏東縣內埔鄉和興村０１２鄰學人路７１０號",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.564339,
-                    22.607714
                 ]
             }
         },
@@ -2337,7 +2337,7 @@
                 "category": "百貨美食街",
                 "area": "屏東市",
                 "market_address": "屏東縣屏東市端正里中正路72號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊卡\/iPASS一卡通"
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊卡\/iPASS一卡通\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -3846,23 +3846,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "閎宥商號",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市一心里復興路２１９號",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.488373,
-                    22.664166
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "開韻茶坊",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -4571,23 +4554,6 @@
                 "coordinates": [
                     120.490448,
                     22.673577
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "莛程商號",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市清溪里建國路３９６號",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.466424,
-                    22.656203
                 ]
             }
         },
@@ -6855,6 +6821,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "梁社漢排骨 屏東站前店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市崇智里中山路１１號１樓及２樓",
+                "pay_list": "信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.486169,
+                    22.670138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "格魯先生早餐店",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -7161,7 +7144,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "晨間廚房棒球店",
+                "shop": "晨間廚房 棒球店",
                 "category": "餐飲",
                 "area": "屏東市",
                 "market_address": "屏東縣屏東市永安里棒球路１５０號１樓",
@@ -7178,7 +7161,75 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "晨間廚房大武店",
+                "shop": "晨間廚房 屏東林森店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市安樂里林森路１０５號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.490933,
+                    22.673159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 屏東建國店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市清溪里建國路３９６號",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.466424,
+                    22.656203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 屏東台糖店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市一心里復興路２１９號",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.488373,
+                    22.664166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 屏基店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市華山里莊敬街１段６８號",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.502039,
+                    22.68363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 大武店",
                 "category": "餐飲",
                 "area": "屏東市",
                 "market_address": "屏東縣屏東市崇武里１３鄰華盛街１―１３號１樓",
@@ -7195,7 +7246,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "晨間廚房公館店",
+                "shop": "晨間廚房 公館店",
                 "category": "餐飲",
                 "area": "屏東市",
                 "market_address": "屏東縣屏東市龍華里龍華路１６２號１樓",
@@ -7206,6 +7257,23 @@
                 "coordinates": [
                     120.482511,
                     22.635825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 仁愛店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市興樂里仁愛路１００―２號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.493157,
+                    22.672861
                 ]
             }
         },
@@ -7569,23 +7637,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "方瑄有限公司",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市崇智里中山路１１號１樓及２樓",
-                "pay_list": "信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.486169,
-                    22.670138
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "新瑞商行",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -7824,23 +7875,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "志平商號",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市興樂里仁愛路１００―２號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.493157,
-                    22.672861
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "必勝烘焙研製所",
                 "category": "餐飲\/糕餅",
                 "area": "屏東市",
@@ -8045,23 +8079,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "庭郁商號",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市華山里莊敬街１段６８號",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.502039,
-                    22.68363
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "幸福計畫有限公司",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -8164,23 +8181,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "川廣美食有限公司",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市崇蘭里崇朝路８號",
-                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.478979,
-                    22.687373
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "屏東月季有限公司",
                 "category": "餐飲",
                 "area": "屏東市",
@@ -8249,24 +8249,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "小魚丁",
-                "category": "餐飲",
-                "area": "屏東市",
-                "market_address": "屏東縣屏東市安樂里林森路１０５號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.490933,
-                    22.673159
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "小蒙牛股份有限公司嗆屏東分公司",
+                "shop": "小蒙牛頂級麻辣養生鍋 屏東店",
                 "category": "餐飲",
                 "area": "屏東市",
                 "market_address": "屏東縣屏東市興樂里公園路１５號",
@@ -9773,6 +9756,23 @@
                 "coordinates": [
                     120.497361,
                     22.684234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 屏東崇朝店",
+                "category": "餐飲",
+                "area": "屏東市",
+                "market_address": "屏東縣屏東市崇蘭里崇朝路８號",
+                "pay_list": "信用卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.478979,
+                    22.687373
                 ]
             }
         },
@@ -14747,7 +14747,7 @@
                 "category": "糕餅",
                 "area": "東港鎮",
                 "market_address": "屏東縣東港鎮朝安里新生三路一二九號",
-                "pay_list": "iPASS 一卡通\/悠遊付\/台灣pay\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "iPASS 一卡通\/悠遊付\/台灣pay\/一卡通MONEY(原LINE Pay Money)\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -16583,7 +16583,7 @@
                 "category": "觀光工廠",
                 "area": "枋寮鄉",
                 "market_address": "屏東縣枋寮鄉太源村中山路三段１２３號",
-                "pay_list": "iPASS一卡通"
+                "pay_list": "iPASS一卡通\/一卡通MONEY(原LINE Pay Money)\/信用卡"
             },
             "geometry": {
                 "type": "Point",
@@ -18279,23 +18279,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "珠珠食堂",
-                "category": "餐飲",
-                "area": "潮州鎮",
-                "market_address": "屏東縣潮州鎮永春里興隆路１６０號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.539931,
-                    22.544177
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "牛肉蓮商行",
                 "category": "餐飲",
                 "area": "潮州鎮",
@@ -18732,6 +18715,40 @@
                 "coordinates": [
                     120.542986,
                     22.555947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 興隆店",
+                "category": "餐飲",
+                "area": "潮州鎮",
+                "market_address": "屏東縣潮州鎮永春里興隆路１６０號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.539931,
+                    22.544177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 朝昇店",
+                "category": "餐飲",
+                "area": "潮州鎮",
+                "market_address": "屏東縣潮州鎮三共里００９鄰朝昇路１７７號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543345,
+                    22.555883
                 ]
             }
         },
@@ -19327,23 +19344,6 @@
                 "coordinates": [
                     120.539584,
                     22.551537
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "品香餐飲",
-                "category": "餐飲",
-                "area": "潮州鎮",
-                "market_address": "屏東縣潮州鎮三共里００９鄰朝昇路１７７號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.543345,
-                    22.555883
                 ]
             }
         },
@@ -21016,6 +21016,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 社皮店",
+                "category": "餐飲",
+                "area": "萬丹鄉",
+                "market_address": "屏東縣萬丹鄉社皮村大昌路６１６號",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.467743,
+                    22.616626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "得昌企業",
                 "category": "餐飲",
                 "area": "萬丹鄉",
@@ -21027,23 +21044,6 @@
                 "coordinates": [
                     120.488954,
                     22.590416
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "宜家商號",
-                "category": "餐飲",
-                "area": "萬丹鄉",
-                "market_address": "屏東縣萬丹鄉社皮村大昌路６１６號",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.467743,
-                    22.616626
                 ]
             }
         },
@@ -21224,7 +21224,7 @@
                 "category": "觀光工廠",
                 "area": "萬巒鄉",
                 "market_address": "屏東縣萬巒鄉萬和村復興路２之５５號",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -22087,7 +22087,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "五鮮級國際餐飲股份有限公司屏東里港分店",
+                "shop": "五鮮級平價鍋物 屏東里港店",
                 "category": "餐飲",
                 "area": "里港鄉",
                 "market_address": "屏東縣里港鄉春林村里港路１２３號",
@@ -22325,23 +22325,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "爆走食堂",
-                "category": "餐飲",
-                "area": "長治鄉",
-                "market_address": "屏東縣長治鄉繁華村０１７鄰水源路１０５號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.573451,
-                    22.702057
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "武士咖哩",
                 "category": "餐飲",
                 "area": "長治鄉",
@@ -22387,6 +22370,23 @@
                 "coordinates": [
                     120.575543,
                     22.703156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 繁華店",
+                "category": "餐飲",
+                "area": "長治鄉",
+                "market_address": "屏東縣長治鄉繁華村０１７鄰水源路１０５號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.573451,
+                    22.702057
                 ]
             }
         },

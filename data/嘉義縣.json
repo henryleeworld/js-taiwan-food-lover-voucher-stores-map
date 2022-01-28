@@ -463,6 +463,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 嘉義後庄店",
+                "category": "餐飲",
+                "area": "中埔鄉",
+                "market_address": "嘉義縣中埔鄉和美村０１８鄰中山路五段９５０號",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.459895,
+                    23.453866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "春町商行",
                 "category": "餐飲",
                 "area": "中埔鄉",
@@ -610,23 +627,6 @@
                 "coordinates": [
                     120.469072,
                     23.451191
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "品興商行",
-                "category": "餐飲",
-                "area": "中埔鄉",
-                "market_address": "嘉義縣中埔鄉和美村０１８鄰中山路五段９５０號",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.459895,
-                    23.453866
                 ]
             }
         },
@@ -1347,7 +1347,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "五鮮級國際餐飲股份有限公司嘉義大林店",
+                "shop": "五鮮級平價鍋物 嘉義大林店",
                 "category": "餐飲",
                 "area": "大林鎮",
                 "market_address": "嘉義縣大林鎮西林里０１４鄰祥和路２９５號",
@@ -2928,7 +2928,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "五鮮級國際餐飲股份有限公司嘉義新港分店",
+                "shop": "五鮮級平價鍋物 新港登雲店",
                 "category": "餐飲",
                 "area": "新港鄉",
                 "market_address": "嘉義縣新港鄉宮前村００６鄰登雲路９１及９１之１號",
@@ -3574,7 +3574,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "新榮早餐店",
+                "shop": "晨間廚房 朴子新榮店",
                 "category": "餐飲",
                 "area": "朴子市",
                 "market_address": "嘉義縣朴子市平和里０１２鄰新榮路１０２號１樓",
@@ -4496,7 +4496,7 @@
                 "category": "糕餅",
                 "area": "民雄鄉",
                 "market_address": "嘉義縣民雄鄉三興村陳厝寮1之3號",
-                "pay_list": "悠遊卡\/信用卡\/iPASS 一卡通\/台灣pay"
+                "pay_list": "悠遊卡\/信用卡\/iPASS 一卡通\/台灣pay\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -4826,23 +4826,6 @@
                 "coordinates": [
                     120.432935,
                     23.549413
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "鑫盛企業社",
-                "category": "餐飲",
-                "area": "民雄鄉",
-                "market_address": "嘉義縣民雄鄉興中村００５鄰江厝店１―２７號一樓",
-                "pay_list": "台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.4215216325,
-                    23.52495024504
                 ]
             }
         },
@@ -5982,6 +5965,23 @@
                 "coordinates": [
                     120.427645,
                     23.556418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "八方雲集 民雄江厝店",
+                "category": "餐飲",
+                "area": "民雄鄉",
+                "market_address": "嘉義縣民雄鄉興中村００５鄰江厝店１―２７號一樓",
+                "pay_list": "台灣pay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4215216325,
+                    23.52495024504
                 ]
             }
         },
@@ -7977,7 +7977,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "凱品企業社",
+                "shop": "八方雲集 嘉義竹崎店",
                 "category": "餐飲",
                 "area": "竹崎鄉",
                 "market_address": "嘉義縣竹崎鄉竹崎村０１４鄰中華路７號",

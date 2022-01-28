@@ -3540,7 +3540,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "五鮮級國際餐飲股份有限公司彰化和美分店",
+                "shop": "五鮮級平價鍋物 和美店",
                 "category": "餐飲",
                 "area": "和美鎮",
                 "market_address": "彰化縣和美鎮山犁里道周路３３１號",
@@ -4605,23 +4605,6 @@
                 "coordinates": [
                     120.574703,
                     23.960369
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "雨韵早餐店",
-                "category": "餐飲",
-                "area": "員林市",
-                "market_address": "彰化縣員林市三和里０２０鄰浮圳路二段２８１號",
-                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.579893,
-                    23.966705
                 ]
             }
         },
@@ -5720,7 +5703,7 @@
                 "category": "餐飲",
                 "area": "員林市",
                 "market_address": "彰化縣員林市中山路一段789號1樓",
-                "pay_list": "信用卡"
+                "pay_list": "信用卡\/台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -6815,6 +6798,23 @@
                 "coordinates": [
                     120.61924,
                     23.934137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 員林浮圳店",
+                "category": "餐飲",
+                "area": "員林市",
+                "market_address": "彰化縣員林市三和里０２０鄰浮圳路二段２８１號",
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579893,
+                    23.966705
                 ]
             }
         },
@@ -11585,7 +11585,7 @@
                 "category": "糕餅",
                 "area": "彰化市",
                 "market_address": "彰化縣彰化市新華里彰美路１段９０號",
-                "pay_list": "台灣pay"
+                "pay_list": "台灣pay\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -15236,6 +15236,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "梁社漢排骨 彰化中正店",
+                "category": "餐飲",
+                "area": "彰化市",
+                "market_address": "彰化縣彰化市萬壽里中正路二段１３３，１３５號",
+                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536911,
+                    24.078339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "桔出工作室",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -17837,23 +17854,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "八方雲集餐飲股份有限公司御廚彰化中正店",
-                "category": "餐飲",
-                "area": "彰化市",
-                "market_address": "彰化縣彰化市萬壽里中正路二段１３３，１３５號",
-                "pay_list": "悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.536911,
-                    24.078339
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "八方雲集 彰化長興店",
                 "category": "餐飲",
                 "area": "彰化市",
@@ -20183,23 +20183,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "美毅早餐屋",
-                "category": "餐飲",
-                "area": "溪湖鎮",
-                "market_address": "彰化縣溪湖鎮光平里東環路５４９號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.481238,
-                    23.963165
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "築間幸福鍋物 溪湖太平店",
                 "category": "餐飲",
                 "area": "溪湖鎮",
@@ -20506,6 +20489,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "晨間廚房 溪湖東環店",
+                "category": "餐飲",
+                "area": "溪湖鎮",
+                "market_address": "彰化縣溪湖鎮光平里東環路５４９號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.481238,
+                    23.963165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "成品壽司坊",
                 "category": "餐飲",
                 "area": "溪湖鎮",
@@ -20795,7 +20795,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "五鮮級國際餐飲股份有限公司彰化溪湖分店",
+                "shop": "五鮮級平價鍋物 彰化溪湖店",
                 "category": "餐飲",
                 "area": "溪湖鎮",
                 "market_address": "彰化縣溪湖鎮大竹里彰水路三段１７０，１７２號",
@@ -21146,23 +21146,6 @@
                 "coordinates": [
                     120.586817,
                     23.86052
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "田中鎮農會農民購物中心",
-                "category": "餐飲",
-                "area": "田中鎮",
-                "market_address": "彰化縣田中鎮東路里南北街８０號",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.586499,
-                    23.859546
                 ]
             }
         },
@@ -22370,23 +22353,6 @@
                 "coordinates": [
                     120.441992,
                     24.049631
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "彰化縣福興鄉農會農特產中心",
-                "category": "餐飲",
-                "area": "福興鄉",
-                "market_address": "彰化縣福興鄉橋頭村復興路２８號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.439742,
-                    24.04975
                 ]
             }
         },
@@ -25113,23 +25079,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "霖佳複合式餐廳",
-                "category": "餐飲",
-                "area": "鹿港鎮",
-                "market_address": "彰化縣鹿港鎮頂番里彰頂路３４７號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.481847,
-                    24.085735
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "阿南師民俗小吃",
                 "category": "餐飲",
                 "area": "鹿港鎮",
@@ -26042,6 +25991,23 @@
                 "coordinates": [
                     120.440252,
                     24.048869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "晨間廚房 鹿港頂番婆店",
+                "category": "餐飲",
+                "area": "鹿港鎮",
+                "market_address": "彰化縣鹿港鎮頂番里彰頂路３４７號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.481847,
+                    24.085735
                 ]
             }
         },
