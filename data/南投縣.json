@@ -5329,7 +5329,7 @@
                 "category": "餐飲\/糕餅",
                 "area": "埔里鎮",
                 "market_address": "南投縣埔里鎮杷城里中正路２７５―２號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "Pi 拍錢包\/台灣pay\/悠遊付\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -8525,7 +8525,7 @@
                 "category": "餐飲\/糕餅",
                 "area": "埔里鎮",
                 "market_address": "南投縣埔里鎮杷城里中正路２７５―２號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "Pi 拍錢包\/台灣pay\/悠遊付\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -8542,7 +8542,7 @@
                 "category": "餐飲",
                 "area": "埔里鎮",
                 "market_address": "南投縣埔里鎮大城里中山路３段２２４號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "Pi 拍錢包\/台灣pay\/悠遊付\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -16301,6 +16301,23 @@
                 "coordinates": [
                     120.746292,
                     23.753131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "田媽媽小半天風味餐坊",
+                "category": "餐飲",
+                "area": "鹿谷鄉",
+                "market_address": "南投縣鹿谷鄉竹豐村中湖巷３―５號",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.747472,
+                    23.728943
                 ]
             }
         },
