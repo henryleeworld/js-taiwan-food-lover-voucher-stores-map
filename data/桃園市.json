@@ -19626,7 +19626,7 @@
                 "category": "糕餅",
                 "area": "八德區",
                 "market_address": "桃園市八德區大勇里東勇北路５７８號１樓",
-                "pay_list": "台灣pay\/信用卡\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "台灣pay"
             },
             "geometry": {
                 "type": "Point",
@@ -53524,7 +53524,7 @@
                 "category": "餐飲",
                 "area": "楊梅區",
                 "market_address": "桃園市楊梅區瑞塘里萬大路１６９號１樓",
-                "pay_list": "台灣pay\/信用卡\/街口"
+                "pay_list": "信用卡\/街口"
             },
             "geometry": {
                 "type": "Point",
@@ -53983,7 +53983,7 @@
                 "category": "餐飲",
                 "area": "楊梅區",
                 "market_address": "桃園市楊梅區中山里新農街２５６號１樓",
-                "pay_list": "台灣pay\/信用卡"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",

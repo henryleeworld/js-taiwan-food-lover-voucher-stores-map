@@ -8542,7 +8542,7 @@
                 "category": "餐飲",
                 "area": "員林市",
                 "market_address": "彰化縣員林市惠來里南昌路８９號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
@@ -22336,6 +22336,23 @@
                 "coordinates": [
                     120.441992,
                     24.049631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "彰化縣福興鄉農會農特產中心販買部",
+                "category": "餐飲",
+                "area": "福興鄉",
+                "market_address": "彰化縣福興鄉橋頭村復興路２８號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.439742,
+                    24.04975
                 ]
             }
         },
