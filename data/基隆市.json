@@ -1585,6 +1585,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 基隆安一店(多一杯冷飲店)",
+                "category": "餐飲",
+                "area": "中山區",
+                "market_address": "基隆市中山區安民里安一路６６號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.736328,
+                    25.131589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 基隆中華店(比屋冷飲店)",
                 "category": "餐飲",
                 "area": "中山區",
@@ -1902,23 +1919,6 @@
                 "coordinates": [
                     121.716601,
                     25.149654
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "多一杯冷飲店",
-                "category": "餐飲",
-                "area": "中山區",
-                "market_address": "基隆市中山區安民里安一路６６號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.736328,
-                    25.131589
                 ]
             }
         },
@@ -3523,6 +3523,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 基隆海大店(海大冷飲店)",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區正濱里中正路７８２號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.770687,
+                    25.151512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 基隆八斗子店(大洲冷飲店)",
                 "category": "餐飲",
                 "area": "中正區",
@@ -3534,6 +3551,23 @@
                 "coordinates": [
                     121.796535,
                     25.13959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 基隆中船店(品緻冷飲站)",
+                "category": "餐飲",
+                "area": "中正區",
+                "market_address": "基隆市中正區正船里中船路８８號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.751257,
+                    25.137423
                 ]
             }
         },
@@ -3568,23 +3602,6 @@
                 "coordinates": [
                     121.769945,
                     25.155656
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "海大冷飲店",
-                "category": "餐飲",
-                "area": "中正區",
-                "market_address": "基隆市中正區正濱里中正路７８２號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.770687,
-                    25.151512
                 ]
             }
         },
@@ -4537,23 +4554,6 @@
                 "coordinates": [
                     121.783468,
                     25.148375
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "品緻冷飲站",
-                "category": "餐飲",
-                "area": "中正區",
-                "market_address": "基隆市中正區正船里中船路８８號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.751257,
-                    25.137423
                 ]
             }
         },
@@ -6838,23 +6838,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "興發冷飲站",
-                "category": "餐飲",
-                "area": "仁愛區",
-                "market_address": "基隆市仁愛區新店里忠二路３９號１樓",
-                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.739565,
-                    25.13024
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "臭到府麻辣火鍋店",
                 "category": "餐飲",
                 "area": "仁愛區",
@@ -7705,6 +7688,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 基隆孝三店(興發冷飲站)",
+                "category": "餐飲",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區新店里忠二路３９號１樓",
+                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739565,
+                    25.13024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 基隆仁四店(樂香冷飲站)",
+                "category": "餐飲",
+                "area": "仁愛區",
+                "market_address": "基隆市仁愛區博愛里仁四路５８號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.741116,
+                    25.128373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "海洋薇琪",
                 "category": "餐飲",
                 "area": "仁愛區",
@@ -7801,23 +7818,6 @@
                 "coordinates": [
                     121.741843,
                     25.129764
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "樂香冷飲站",
-                "category": "餐飲",
-                "area": "仁愛區",
-                "market_address": "基隆市仁愛區博愛里仁四路５８號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.741116,
-                    25.128373
                 ]
             }
         },
@@ -10646,23 +10646,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "秉鵑飲料店",
-                "category": "餐飲",
-                "area": "信義區",
-                "market_address": "基隆市信義區孝忠里深溪路１１９號１樓",
-                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.782428,
-                    25.134197
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "福臨門麵食館",
                 "category": "餐飲",
                 "area": "信義區",
@@ -10725,23 +10708,6 @@
                 "coordinates": [
                     121.781318,
                     25.130686
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "田緣飲品",
-                "category": "餐飲",
-                "area": "信義區",
-                "market_address": "基隆市信義區仁義里信二路１８５號１樓",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.750927,
-                    25.129481
                 ]
             }
         },
@@ -10861,6 +10827,57 @@
                 "coordinates": [
                     121.751743,
                     25.129776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 基隆深溪店(秉鵑飲料店)",
+                "category": "餐飲",
+                "area": "信義區",
+                "market_address": "基隆市信義區孝忠里深溪路１１９號１樓",
+                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782428,
+                    25.134197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 基隆東信店(品緻涼水店)",
+                "category": "餐飲",
+                "area": "信義區",
+                "market_address": "基隆市信義區東信里東信路１８４號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.762874,
+                    25.127972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 基隆信二店(田緣飲品)",
+                "category": "餐飲",
+                "area": "信義區",
+                "market_address": "基隆市信義區仁義里信二路１８５號１樓",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750927,
+                    25.129481
                 ]
             }
         },
@@ -11575,23 +11592,6 @@
                 "coordinates": [
                     121.752314,
                     25.129572
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "品緻涼水店",
-                "category": "餐飲",
-                "area": "信義區",
-                "market_address": "基隆市信義區東信里東信路１８４號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.762874,
-                    25.127972
                 ]
             }
         },

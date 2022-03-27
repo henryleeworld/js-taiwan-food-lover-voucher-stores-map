@@ -1483,23 +1483,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鈺庭冷飲店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區東川里大雅路２段６５６號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.466849,
-                    23.477309
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "金麟餐飲店",
                 "category": "餐飲",
                 "area": "東區",
@@ -3234,6 +3217,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 嘉義大雅店(鈺庭冷飲店)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區東川里大雅路２段６５６號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.466849,
+                    23.477309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 嘉義吳鳳店(聖庭冷飲店)",
                 "category": "餐飲",
                 "area": "東區",
@@ -3245,6 +3245,23 @@
                 "coordinates": [
                     120.453509,
                     23.47576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 嘉義台林店(六咩飲料店)",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區頂庄里台林街１２２―１號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4553699942,
+                    23.495940000314
                 ]
             }
         },
@@ -6141,23 +6158,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "六咩飲料店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區頂庄里台林街１２２―１號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.4553699942,
-                    23.495940000314
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "六一手作茶店",
                 "category": "餐飲",
                 "area": "東區",
@@ -8549,23 +8549,6 @@
                 "coordinates": [
                     120.432199,
                     23.481999
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "青育飲料店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區福全里友愛路１６４號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43428,
-                    23.48008
                 ]
             }
         },
@@ -11054,6 +11037,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 嘉義友愛店(青育飲料店)",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區福全里友愛路１６４號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43428,
+                    23.48008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 嘉義仁愛店(勤叡商行)",
                 "category": "餐飲",
                 "area": "西區",
@@ -11558,23 +11558,6 @@
                 "coordinates": [
                     120.43787,
                     23.45787
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "松品商行",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區番社里中山路４０２號１樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.44549,
-                    23.47964
                 ]
             }
         },
@@ -12901,6 +12884,23 @@
                 "coordinates": [
                     120.43186,
                     23.491309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "太將鍋日式涮涮鍋 嘉義中山店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區番社里中山路４０２號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44549,
+                    23.47964
                 ]
             }
         },

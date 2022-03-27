@@ -310,23 +310,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "禾翔冷飲店",
-                "category": "餐飲",
-                "area": "中埔鄉",
-                "market_address": "嘉義縣中埔鄉和美村０１４鄰中山路五段８８２號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.460445,
-                    23.452421
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "福友咖啡農場",
                 "category": "餐飲",
                 "area": "中埔鄉",
@@ -372,6 +355,23 @@
                 "coordinates": [
                     120.459535,
                     23.454248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 嘉義後庄店(禾翔冷飲店)",
+                "category": "餐飲",
+                "area": "中埔鄉",
+                "market_address": "嘉義縣中埔鄉和美村０１４鄰中山路五段８８２號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460445,
+                    23.452421
                 ]
             }
         },
@@ -3472,6 +3472,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 朴子山通店(云莆冷飲店)",
+                "category": "餐飲",
+                "area": "朴子市",
+                "market_address": "嘉義縣朴子市文化里海通路３３號１樓",
+                "pay_list": "街口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.244031,
+                    23.463647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 朴子二店(永和冷飲站)",
                 "category": "餐飲",
                 "area": "朴子市",
@@ -3772,23 +3789,6 @@
                 "coordinates": [
                     120.241142,
                     23.465292
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "云莆冷飲店",
-                "category": "餐飲",
-                "area": "朴子市",
-                "market_address": "嘉義縣朴子市文化里海通路３３號１樓",
-                "pay_list": "街口"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.244031,
-                    23.463647
                 ]
             }
         },
@@ -4186,6 +4186,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 梅山中山店(梅鄉中山冷飲站)",
+                "category": "餐飲",
+                "area": "梅山鄉",
+                "market_address": "嘉義縣梅山鄉梅北村中山路２７６號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.555755,
+                    23.584933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "泰和飲料店",
                 "category": "餐飲",
                 "area": "梅山鄉",
@@ -4197,23 +4214,6 @@
                 "coordinates": [
                     120.552757,
                     23.585906
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "梅鄉中山冷飲站",
-                "category": "餐飲",
-                "area": "梅山鄉",
-                "market_address": "嘉義縣梅山鄉梅北村中山路２７６號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.555755,
-                    23.584933
                 ]
             }
         },
@@ -8045,23 +8045,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "義竹冷飲店",
-                "category": "餐飲",
-                "area": "義竹鄉",
-                "market_address": "嘉義縣義竹鄉六桂村２鄰１５６―３號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.246088,
-                    23.338298
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "生活空間",
                 "category": "餐飲",
                 "area": "義竹鄉",
@@ -8073,6 +8056,23 @@
                 "coordinates": [
                     120.24211352725,
                     23.336146257317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 義竹六桂店(義竹冷飲店)",
+                "category": "餐飲",
+                "area": "義竹鄉",
+                "market_address": "嘉義縣義竹鄉六桂村２鄰１５６―３號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.246088,
+                    23.338298
                 ]
             }
         },

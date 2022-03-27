@@ -2996,23 +2996,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "陽明鑫冷飲店",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區寶國里陽明路２１９號",
-                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.341669,
-                    22.641735
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "陽明第一塩酥雞",
                 "category": "餐飲",
                 "area": "三民區",
@@ -6243,23 +6226,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "筌閔小吃店",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區正興里正興路１７１號",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.31969396942,
-                    22.646989445673
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "童童鬆餅店",
                 "category": "餐飲",
                 "area": "三民區",
@@ -7790,6 +7756,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 高雄鼎勇店(水蘭舍企業社)",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區灣成里鼎山街３６７號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32199050551,
+                    22.657644092973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 高雄鼎力店(清心鼎力冷飲店)",
                 "category": "餐飲",
                 "area": "三民區",
@@ -7858,6 +7841,57 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 高雄建工店(清心後金冷飲店)",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區正順里建工路５６３號１樓",
+                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/歐付寶\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.320902,
+                    22.648503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 高雄九如店(微笑可可冷飲店)",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區安發里延吉街５４號１樓",
+                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31981279975,
+                    22.640442519297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 高雄三民陽明新店(陽明鑫冷飲店)",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區寶國里陽明路２１９號",
+                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.341669,
+                    22.641735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 熱河店(德記茶行)",
                 "category": "餐飲",
                 "area": "三民區",
@@ -7869,23 +7903,6 @@
                 "coordinates": [
                     120.30964786531,
                     22.643641269898
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "清心後金冷飲店",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區正順里建工路５６３號１樓",
-                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/歐付寶\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.320902,
-                    22.648503
                 ]
             }
         },
@@ -8243,23 +8260,6 @@
                 "coordinates": [
                     120.28564,
                     22.648413
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "水蘭舍企業社",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區灣成里鼎山街３６７號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.32199050551,
-                    22.657644092973
                 ]
             }
         },
@@ -10561,23 +10561,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "微笑可可冷飲店",
-                "category": "餐飲",
-                "area": "三民區",
-                "market_address": "高雄市三民區安發里延吉街５４號１樓",
-                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.31981279975,
-                    22.640442519297
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "御金湯有限公司",
                 "category": "餐飲",
                 "area": "三民區",
@@ -12017,6 +12000,23 @@
                 "coordinates": [
                     120.334087,
                     22.646056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "太將鍋日式涮涮鍋 正興店",
+                "category": "餐飲",
+                "area": "三民區",
+                "market_address": "高雄市三民區正興里正興路１７１號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31969396942,
+                    22.646989445673
                 ]
             }
         },
@@ -16953,24 +16953,24 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清心福全 仁武店(大欣冷飲店)",
+                "shop": "清心福全 高雄仁雄二店(涼心冷飲站)",
                 "category": "餐飲",
                 "area": "仁武區",
-                "market_address": "高雄市仁武區仁武里１６鄰中正路２３７－１號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+                "market_address": "高雄市仁武區八卦里八德中路１９７號",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.351667,
-                    22.702394
+                    120.33604,
+                    22.68672
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "shop": "清心冷飲站",
+                "shop": "清心福全 仁雄店(清心冷飲站)",
                 "category": "餐飲",
                 "area": "仁武區",
                 "market_address": "高雄市仁武區灣內里仁雄路４２－８號",
@@ -16987,17 +16987,17 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "涼心冷飲站",
+                "shop": "清心福全 仁武店(大欣冷飲店)",
                 "category": "餐飲",
                 "area": "仁武區",
-                "market_address": "高雄市仁武區八卦里八德中路１９７號",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+                "market_address": "高雄市仁武區仁武里１６鄰中正路２３７－１號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.33604,
-                    22.68672
+                    120.351667,
+                    22.702394
                 ]
             }
         },
@@ -18721,6 +18721,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 六龜寶來店(寶來冷飲店)",
+                "category": "餐飲",
+                "area": "六龜區",
+                "market_address": "高雄市六龜區寶來里中正路８０號",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.699701,
+                    23.108765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "木森林園藝坊",
                 "category": "餐飲",
                 "area": "六龜區",
@@ -18851,23 +18868,6 @@
                 "coordinates": [
                     120.700481,
                     23.108948
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "寶來冷飲店",
-                "category": "餐飲",
-                "area": "六龜區",
-                "market_address": "高雄市六龜區寶來里中正路８０號",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.699701,
-                    23.108765
                 ]
             }
         },
@@ -21560,7 +21560,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清心七賢冷飲店",
+                "shop": "清心福全 高雄七賢店(清心七賢冷飲店)",
                 "category": "餐飲",
                 "area": "前金區",
                 "market_address": "高雄市前金區長城里七賢二路１５８―１號１樓",
@@ -36044,23 +36044,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "禾韻冷飲站",
-                "category": "餐飲",
-                "area": "小港區",
-                "market_address": "高雄市小港區正苓里崇文路５號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.352836,
-                    22.567039
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "禾匠小港小吃店",
                 "category": "餐飲",
                 "area": "小港區",
@@ -36276,6 +36259,40 @@
                 "coordinates": [
                     120.352541,
                     22.566633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 小港漢民店(禾韻冷飲站)",
+                "category": "餐飲",
+                "area": "小港區",
+                "market_address": "高雄市小港區正苓里崇文路５號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.352836,
+                    22.567039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 小港二苓店(夏○凱冷飲站)",
+                "category": "餐飲",
+                "area": "小港區",
+                "market_address": "高雄市小港區三苓里二苓路１６２號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34979,
+                    22.565563
                 ]
             }
         },
@@ -37245,23 +37262,6 @@
                 "coordinates": [
                     120.362606,
                     22.565624
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "夏宏凱冷飲站",
-                "category": "餐飲",
-                "area": "小港區",
-                "market_address": "高雄市小港區三苓里二苓路１６２號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.34979,
-                    22.565563
                 ]
             }
         },
@@ -39835,6 +39835,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 岡山站前店(清心冷飲站前店)",
+                "category": "餐飲",
+                "area": "岡山區",
+                "market_address": "高雄市岡山區後紅里民有路１８號１樓",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.298125,
+                    22.792338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 岡山嘉興店(清心冷飲站)",
                 "category": "餐飲",
                 "area": "岡山區",
@@ -39846,6 +39863,23 @@
                 "coordinates": [
                     120.302875,
                     22.820713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 岡山二店(清心冷飲岡山二店)",
+                "category": "餐飲",
+                "area": "岡山區",
+                "market_address": "高雄市岡山區平安里１２鄰岡山路１８９號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295924,
+                    22.791457
                 ]
             }
         },
@@ -39880,40 +39914,6 @@
                 "coordinates": [
                     120.283081,
                     22.784117
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "清心冷飲站前店",
-                "category": "餐飲",
-                "area": "岡山區",
-                "market_address": "高雄市岡山區後紅里民有路１８號１樓",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.298125,
-                    22.792338
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "清心冷飲岡山二店",
-                "category": "餐飲",
-                "area": "岡山區",
-                "market_address": "高雄市岡山區平安里１２鄰岡山路１８９號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.295924,
-                    22.791457
                 ]
             }
         },
@@ -48301,6 +48301,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 左營海官二店(屏山冷飲店)",
+                "category": "餐飲",
+                "area": "左營區",
+                "market_address": "高雄市左營區尾北里左營大路６５２號１樓",
+                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.297844,
+                    22.69139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 左營榮總店(清心榮總冷飲店)",
+                "category": "餐飲",
+                "area": "左營區",
+                "market_address": "高雄市左營區福山里榮總路２９號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.321717,
+                    22.678636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 左營崇德店(冒○華)",
                 "category": "餐飲",
                 "area": "左營區",
@@ -48318,24 +48352,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清心榮總冷飲店",
-                "category": "餐飲",
-                "area": "左營區",
-                "market_address": "高雄市左營區福山里榮總路２９號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.321717,
-                    22.678636
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "清心勝安冷飲",
+                "shop": "清心福全 左營勝利店(清心勝安冷飲)",
                 "category": "餐飲",
                 "area": "左營區",
                 "market_address": "高雄市左營區埤西里左營大路４５號１樓",
@@ -51066,23 +51083,6 @@
                 "coordinates": [
                     120.30930594364,
                     22.676625989264
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "屏山冷飲店",
-                "category": "餐飲",
-                "area": "左營區",
-                "market_address": "高雄市左營區尾北里左營大路６５２號１樓",
-                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.297844,
-                    22.69139
                 ]
             }
         },
@@ -65675,6 +65675,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 林園東林店(東林冷飲店)",
+                "category": "餐飲",
+                "area": "林園區",
+                "market_address": "高雄市林園區頂厝里東林西路２８７號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.389251,
+                    22.503152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 林園文化店(文化冷飲站)",
+                "category": "餐飲",
+                "area": "林園區",
+                "market_address": "高雄市林園區東林里文化街１１２號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.393608,
+                    22.504462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "淳藝商行",
                 "category": "餐飲",
                 "area": "林園區",
@@ -65845,23 +65879,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "東林冷飲店",
-                "category": "餐飲",
-                "area": "林園區",
-                "market_address": "高雄市林園區頂厝里東林西路２８７號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.389251,
-                    22.503152
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "木法沙餐館",
                 "category": "餐飲",
                 "area": "林園區",
@@ -65890,23 +65907,6 @@
                 "coordinates": [
                     120.399591,
                     22.531455
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "文化冷飲站",
-                "category": "餐飲",
-                "area": "林園區",
-                "market_address": "高雄市林園區東林里文化街１１２號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.393608,
-                    22.504462
                 ]
             }
         },
@@ -66338,23 +66338,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "集茶冷飲店",
-                "category": "餐飲",
-                "area": "梓官區",
-                "market_address": "高雄市梓官區梓義里中崙路３００號１樓",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.267832,
-                    22.761021
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "雅佳企業社",
                 "category": "餐飲",
                 "area": "梓官區",
@@ -66542,6 +66525,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 蚵寮二店(光明一品茶冷飲)",
+                "category": "餐飲",
+                "area": "梓官區",
+                "market_address": "高雄市梓官區禮蚵里０１１鄰光明路１４８號１樓",
+                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.250366,
+                    22.732945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 梓官中崙店(集茶冷飲店)",
+                "category": "餐飲",
+                "area": "梓官區",
+                "market_address": "高雄市梓官區梓義里中崙路３００號１樓",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.267832,
+                    22.761021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "淇幻冰城",
                 "category": "餐飲",
                 "area": "梓官區",
@@ -66604,23 +66621,6 @@
                 "coordinates": [
                     120.2476,
                     22.734259
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "光明一品茶冷飲",
-                "category": "餐飲",
-                "area": "梓官區",
-                "market_address": "高雄市梓官區禮蚵里０１１鄰光明路１４８號１樓",
-                "pay_list": "悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.250366,
-                    22.732945
                 ]
             }
         },
@@ -67250,23 +67250,6 @@
                 "coordinates": [
                     120.313261,
                     22.724682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "高大泡沬紅茶店",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區中和里德中路５３８號",
-                "pay_list": "街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.27323464064,
-                    22.72894076833
                 ]
             }
         },
@@ -70112,7 +70095,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清華冷飲店",
+                "shop": "清心福全 楠梓清豐店(清華冷飲店)",
                 "category": "餐飲",
                 "area": "楠梓區",
                 "market_address": "高雄市楠梓區清豐里清豐二路７６號",
@@ -70146,6 +70129,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 楠梓德中店(高大泡沬紅茶店)",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區中和里德中路５３８號",
+                "pay_list": "街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.27323464064,
+                    22.72894076833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 楠梓後昌店(莒光泡沫紅茶店)",
                 "category": "餐飲",
                 "area": "楠梓區",
@@ -70157,6 +70157,23 @@
                 "coordinates": [
                     120.294709,
                     22.711642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 楠梓後勁夜市店(後勁夜市店)",
+                "category": "餐飲",
+                "area": "楠梓區",
+                "market_address": "高雄市楠梓區錦屏里後昌路７９號",
+                "pay_list": "Pi 拍錢包\/街口\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311462,
+                    22.7194
                 ]
             }
         },
@@ -71483,23 +71500,6 @@
                 "coordinates": [
                     120.297954,
                     22.72355
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "後勁夜市店",
-                "category": "餐飲",
-                "area": "楠梓區",
-                "market_address": "高雄市楠梓區錦屏里後昌路７９號",
-                "pay_list": "Pi 拍錢包\/街口\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.311462,
-                    22.7194
                 ]
             }
         },
@@ -76691,23 +76691,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "碧梅冷飲站",
-                "category": "餐飲",
-                "area": "美濃區",
-                "market_address": "高雄市美濃區泰安里中正路１段９號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.541452,
-                    22.901834
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "清心福全 美濃店(豫中冷飲站)",
                 "category": "餐飲",
                 "area": "美濃區",
@@ -76719,6 +76702,23 @@
                 "coordinates": [
                     120.531988,
                     22.88663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 美濃二店(碧梅冷飲站)",
+                "category": "餐飲",
+                "area": "美濃區",
+                "market_address": "高雄市美濃區泰安里中正路１段９號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541452,
+                    22.901834
                 ]
             }
         },
@@ -82250,6 +82250,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 苓雅自強三店(六順茶坊)",
+                "category": "餐飲",
+                "area": "苓雅區",
+                "market_address": "高雄市苓雅區鼓中里自強三路１２６號１樓",
+                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.298756,
+                    22.616834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 苓雅福德新店(皓晨冷飲)",
                 "category": "餐飲",
                 "area": "苓雅區",
@@ -87299,23 +87316,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "六順茶坊",
-                "category": "餐飲",
-                "area": "苓雅區",
-                "market_address": "高雄市苓雅區鼓中里自強三路１２６號１樓",
-                "pay_list": "Pi 拍錢包\/信用卡\/悠遊付\/悠遊卡\/街口\/橘子支付\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.298756,
-                    22.616834
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "六家佃嘉義火雞肉飯",
                 "category": "餐飲",
                 "area": "苓雅區",
@@ -89458,6 +89458,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 路竹忠孝店(忠孝冷飲店)",
+                "category": "餐飲",
+                "area": "路竹區",
+                "market_address": "高雄市路竹區社西里０２１鄰大社路３７號１樓",
+                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.261657,
+                    22.862886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 路竹中正店(中正冷飲店)",
                 "category": "餐飲",
                 "area": "路竹區",
@@ -89639,23 +89656,6 @@
                 "coordinates": [
                     120.261456,
                     22.854755
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "忠孝冷飲店",
-                "category": "餐飲",
-                "area": "路竹區",
-                "market_address": "高雄市路竹區社西里０２１鄰大社路３７號１樓",
-                "pay_list": "Pi 拍錢包\/街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.261657,
-                    22.862886
                 ]
             }
         },
@@ -93793,23 +93793,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "阿海冷飲店",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區文山里文衡路１５７號",
-                "pay_list": "Pi 拍錢包\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.356221,
-                    22.638862
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "阿弟仔餐館",
                 "category": "餐飲",
                 "area": "鳳山區",
@@ -94195,23 +94178,6 @@
                 "coordinates": [
                     120.338514,
                     22.601938
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "進士冷飲店",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區龍成里自強二路１２０號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.327575,
-                    22.596119
                 ]
             }
         },
@@ -97125,6 +97091,57 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "清心福全 鳳山文衡店(阿海冷飲店)",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區文山里文衡路１５７號",
+                "pay_list": "Pi 拍錢包\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.356221,
+                    22.638862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 鳳山文山店(水菊兒企業社)",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區文德里青年路二段３７２號１樓",
+                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35158170502,
+                    22.642535164308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "清心福全 鳳山五甲夜市店(進士冷飲店)",
+                "category": "餐飲",
+                "area": "鳳山區",
+                "market_address": "高雄市鳳山區龍成里自強二路１２０號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)\/悠遊付\/橘子支付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.327575,
+                    22.596119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "清心福全 大明店(大明冷飲站)",
                 "category": "餐飲",
                 "area": "鳳山區",
@@ -97578,23 +97595,6 @@
                 "coordinates": [
                     120.35459635783,
                     22.643678969541
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "水菊兒企業社",
-                "category": "餐飲",
-                "area": "鳳山區",
-                "market_address": "高雄市鳳山區文德里青年路二段３７２號１樓",
-                "pay_list": "Pi 拍錢包\/台灣pay\/信用卡\/悠遊付\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.35158170502,
-                    22.642535164308
                 ]
             }
         },
@@ -104605,7 +104605,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清心大仁冷飲店",
+                "shop": "清心福全 高雄七賢三店(清心大仁冷飲店)",
                 "category": "餐飲",
                 "area": "鹽埕區",
                 "market_address": "高雄市鹽埕區中原里大仁路１５７號１樓",
@@ -109858,7 +109858,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "清心華榮冷飲店",
+                "shop": "清心福全 鼓山華榮店(清心華榮冷飲店)",
                 "category": "餐飲",
                 "area": "鼓山區",
                 "market_address": "高雄市鼓山區華豐里華榮路３３１－１號",
