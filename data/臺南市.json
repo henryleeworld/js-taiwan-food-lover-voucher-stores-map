@@ -15661,6 +15661,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "鮮自然 仁德中二門市",
+                "category": "餐飲",
+                "area": "仁德區",
+                "market_address": "臺南市仁德區仁德里中正路二段１１１３號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.252626,
+                    22.967991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "香韻企業社",
                 "category": "餐飲",
                 "area": "仁德區",
@@ -16896,23 +16913,6 @@
                 "coordinates": [
                     120.218076,
                     22.947177
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "富南陀國際有限公司仁德中二營運處",
-                "category": "餐飲",
-                "area": "仁德區",
-                "market_address": "臺南市仁德區仁德里中正路二段１１１３號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.252626,
-                    22.967991
                 ]
             }
         },
@@ -18228,6 +18228,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "麥味登 佳里中山店",
+                "category": "餐飲",
+                "area": "佳里區",
+                "market_address": "臺南市佳里區六安里００２鄰中山路４６６號１樓",
+                "pay_list": "Pi 拍錢包\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.177651,
+                    23.164802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "鮮茶道Presotea 佳里新生店",
                 "category": "餐飲",
                 "area": "佳里區",
@@ -18483,6 +18500,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "菇Morning蔬食餐飲連鎖 佳里店",
+                "category": "餐飲",
+                "area": "佳里區",
+                "market_address": "臺南市佳里區忠仁里延平路１６６號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.178939,
+                    23.157464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "茶湯會 台南佳里店",
                 "category": "餐飲",
                 "area": "佳里區",
@@ -18630,23 +18664,6 @@
                 "coordinates": [
                     120.178104,
                     23.162953
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "祐誠餐飲店",
-                "category": "餐飲",
-                "area": "佳里區",
-                "market_address": "臺南市佳里區六安里００２鄰中山路４６６號１樓",
-                "pay_list": "Pi 拍錢包\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.177651,
-                    23.164802
                 ]
             }
         },
@@ -18834,23 +18851,6 @@
                 "coordinates": [
                     120.183696,
                     23.164294
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "早安菇菇蔬食餐飲",
-                "category": "餐飲",
-                "area": "佳里區",
-                "market_address": "臺南市佳里區忠仁里延平路１６６號",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.178939,
-                    23.157464
                 ]
             }
         },
@@ -20931,7 +20931,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鮮自然企業有限公司大興營運處",
+                "shop": "鮮自然 大興門市",
                 "category": "餐飲",
                 "area": "北區",
                 "market_address": "臺南市北區賢北里大興街４６１號１樓",
@@ -21849,7 +21849,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "識好茶店",
+                "shop": "識好茶優質茶飲 和緯總店",
                 "category": "餐飲",
                 "area": "北區",
                 "market_address": "臺南市北區賢北里和緯路５段６６號１樓",
@@ -22903,23 +22903,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "盈滿賓有限公司",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "臺南市北區文元里文賢路１１１２號２樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.193741,
-                    23.016112
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "皇豆豆花",
                 "category": "餐飲",
                 "area": "北區",
@@ -23118,6 +23101,23 @@
                 "coordinates": [
                     120.201801,
                     23.002827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "燒肉神保町 台南文賢館",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "臺南市北區文元里文賢路１１１２號２樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.193741,
+                    23.016112
                 ]
             }
         },
@@ -23787,7 +23787,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "極鮮企業有限公司",
+                "shop": "極鮮火鍋 台南小東店",
                 "category": "餐飲",
                 "area": "北區",
                 "market_address": "臺南市北區東興里東興路２段６號１樓",
@@ -24637,23 +24637,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "廣鮮企業有限公司",
-                "category": "餐飲",
-                "area": "北區",
-                "market_address": "臺南市北區文元里文賢路１１１６號２樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.193712,
-                    23.016249
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "廚神廣東粥",
                 "category": "餐飲",
                 "area": "北區",
@@ -24835,6 +24818,23 @@
                 "coordinates": [
                     120.206637,
                     23.009184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "小鮮鍋 文賢店",
+                "category": "餐飲",
+                "area": "北區",
+                "market_address": "臺南市北區文元里文賢路１１１６號２樓",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.193712,
+                    23.016249
                 ]
             }
         },
@@ -34735,17 +34735,17 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鮮自然企業有限公司大舜營運處",
+                "shop": "鮮自然 郡安門市",
                 "category": "餐飲",
                 "area": "安南區",
-                "market_address": "臺南市安南區顯宮里工業二路１６０號、１６２號",
+                "market_address": "臺南市安南區安和里安和路１段１４８號１樓",
                 "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.144854,
-                    23.046132
+                    120.214316,
+                    23.028825
                 ]
             }
         },
@@ -35279,6 +35279,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "自在軒 中洲店",
+                "category": "餐飲",
+                "area": "安南區",
+                "market_address": "臺南市安南區州南里安和路４段４９３號",
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.218466,
+                    23.060813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "自在安和茶坊",
                 "category": "餐飲",
                 "area": "安南區",
@@ -35630,23 +35647,6 @@
                 "coordinates": [
                     120.205361,
                     23.026479
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "真甘甜飲料店",
-                "category": "餐飲",
-                "area": "安南區",
-                "market_address": "臺南市安南區州南里安和路４段４９３號",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.218466,
-                    23.060813
                 ]
             }
         },
@@ -36843,23 +36843,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "富南陀國際有限公司安和一段營運處",
-                "category": "餐飲",
-                "area": "安南區",
-                "market_address": "臺南市安南區安和里安和路１段１４８號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.214316,
-                    23.028825
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "家樂燒烤美食屋",
                 "category": "餐飲",
                 "area": "安南區",
@@ -37551,6 +37534,23 @@
                 "coordinates": [
                     120.186871,
                     23.046637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "先自然 大舜概念門市",
+                "category": "餐飲",
+                "area": "安南區",
+                "market_address": "臺南市安南區顯宮里工業二路１６０號、１６２號",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)\/悠遊付"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.144854,
+                    23.046132
                 ]
             }
         },
@@ -38577,7 +38577,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "卡啡那國際有限公司台南巿府分公司",
+                "shop": "卡啡那 Caffaina Coffee Gallery 台南市府店",
                 "category": "餐飲\/糕餅",
                 "area": "安平區",
                 "market_address": "臺南市安平區文平里永華路２段１４１號",
@@ -40838,6 +40838,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "板塊牛排 文平店",
+                "category": "餐飲",
+                "area": "安平區",
+                "market_address": "臺南市安平區建平里文平路４１０號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.178839,
+                    22.992557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "東饌魚翅餐廳",
                 "category": "餐飲",
                 "area": "安平區",
@@ -41189,23 +41206,6 @@
                 "coordinates": [
                     120.18456,
                     22.988399
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "新瑞餐飲",
-                "category": "餐飲",
-                "area": "安平區",
-                "market_address": "臺南市安平區建平里文平路４１０號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.178839,
-                    22.992557
                 ]
             }
         },
@@ -42521,7 +42521,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "卡啡那國際有限公司台南巿府分公司",
+                "shop": "卡啡那 Caffaina Coffee Gallery 台南市府店",
                 "category": "餐飲\/糕餅",
                 "area": "安平區",
                 "market_address": "臺南市安平區文平里永華路２段１４１號",
@@ -44085,6 +44085,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "自在軒 新化店",
+                "category": "餐飲",
+                "area": "新化區",
+                "market_address": "臺南市新化區護國里忠孝路５１號１樓",
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306731,
+                    23.038208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "能博旺國際傳播有限公司",
                 "category": "餐飲",
                 "area": "新化區",
@@ -44521,23 +44538,6 @@
                 "coordinates": [
                     120.306752,
                     23.035941
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "尚賀茶飲店",
-                "category": "餐飲",
-                "area": "新化區",
-                "market_address": "臺南市新化區護國里忠孝路５１號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.306731,
-                    23.038208
                 ]
             }
         },
@@ -54863,6 +54863,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "自在軒 崇明店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "臺南市東區崇明里崇明路５６２號１樓",
+                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.224374,
+                    22.973026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "自在崇學飲料店",
                 "category": "餐飲",
                 "area": "東區",
@@ -56727,6 +56744,23 @@
                 "coordinates": [
                     120.22429480054,
                     22.980705103796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "淺野屋烘焙坊 崇善店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "臺南市東區崇善路３２８號１樓",
+                "pay_list": "台灣pay\/信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.228402,
+                    22.976223
                 ]
             }
         },
@@ -61374,23 +61408,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "吉野食品商行",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "臺南市東區崇善路３２８號１樓",
-                "pay_list": "台灣pay\/信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.228402,
-                    22.976223
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "吉祥圓蔬食坊",
                 "category": "餐飲",
                 "area": "東區",
@@ -62371,23 +62388,6 @@
                 "coordinates": [
                     120.229696,
                     22.964974
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "仟釉飲料店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "臺南市東區崇明里崇明路５６２號１樓",
-                "pay_list": "icash pay\/台灣pay\/信用卡\/悠遊卡\/街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.224374,
-                    22.973026
                 ]
             }
         },
@@ -67307,6 +67307,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "自在軒 永康南台店",
+                "category": "餐飲",
+                "area": "永康區",
+                "market_address": "臺南市永康區尚頂里中正南路３７９號１樓",
+                "pay_list": "icash pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.225352,
+                    23.030424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "胖老爹美式炸雞 永康店",
                 "category": "餐飲",
                 "area": "永康區",
@@ -67868,23 +67885,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "禾丞大茶舖",
-                "category": "餐飲",
-                "area": "永康區",
-                "market_address": "臺南市永康區尚頂里中正南路３７９號１樓",
-                "pay_list": "icash pay\/信用卡\/悠遊卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.225352,
-                    23.030424
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "福香餐飲店",
                 "category": "餐飲",
                 "area": "永康區",
@@ -67964,6 +67964,23 @@
                 "coordinates": [
                     120.231251,
                     23.021243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "石頭日式炭火燒肉 永康尊貴館",
+                "category": "餐飲",
+                "area": "永康區",
+                "market_address": "臺南市永康區成功里中華路１６６號１樓",
+                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.23549270114,
+                    23.004079691679
                 ]
             }
         },
@@ -69177,23 +69194,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "永慧商行",
-                "category": "餐飲",
-                "area": "永康區",
-                "market_address": "臺南市永康區正強里自強路２２２號",
-                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.251689,
-                    23.028245
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "永康鹽行吮指王炸雞店",
                 "category": "餐飲",
                 "area": "永康區",
@@ -69205,23 +69205,6 @@
                 "coordinates": [
                     120.23558121315,
                     23.038095587457
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "永康石頭有限公司",
-                "category": "餐飲",
-                "area": "永康區",
-                "market_address": "臺南市永康區成功里中華路１６６號１樓",
-                "pay_list": "信用卡\/一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.23549270114,
-                    23.004079691679
                 ]
             }
         },
@@ -70174,6 +70157,23 @@
                 "coordinates": [
                     120.23591709502,
                     23.040044585171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "早安美芝城 永康活力自強店",
+                "category": "餐飲",
+                "area": "永康區",
+                "market_address": "臺南市永康區正強里自強路２２２號",
+                "pay_list": "街口\/一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251689,
+                    23.028245
                 ]
             }
         },
@@ -72496,7 +72496,7 @@
                 "category": "餐飲",
                 "area": "永康區",
                 "market_address": "臺南市永康區正強里四維街２１號",
-                "pay_list": "台灣pay\/信用卡\/街口"
+                "pay_list": "信用卡"
             },
             "geometry": {
                 "type": "Point",

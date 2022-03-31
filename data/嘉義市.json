@@ -1398,23 +1398,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "阿寶晨食館",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區中山里安樂街６６號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.46108,
-                    23.48316
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "阿原廚房義大利麵店",
                 "category": "餐飲",
                 "area": "東區",
@@ -4679,23 +4662,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "干丹輕茶飲茶店",
-                "category": "餐飲",
-                "area": "東區",
-                "market_address": "嘉義市東區朝陽里民族路１８７號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45644,
-                    23.476459
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "常常手作坊",
                 "category": "餐飲",
                 "area": "東區",
@@ -6923,6 +6889,40 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "LoHa甘丹輕茶飲 嘉義南門店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區朝陽里民族路１８７號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45644,
+                    23.476459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "A-bao house 嘉義新生店",
+                "category": "餐飲",
+                "area": "東區",
+                "market_address": "嘉義市東區中山里安樂街６６號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.46108,
+                    23.48316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "85度C 嘉義民族店",
                 "category": "餐飲\/糕餅",
                 "area": "東區",
@@ -7994,7 +7994,7 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "黃金比綠茶飲專賣店",
+                "shop": "黃金比綠茶飲專賣店 嘉義文化店",
                 "category": "餐飲",
                 "area": "西區",
                 "market_address": "嘉義市西區文化里文化路２９號１樓",
@@ -11751,6 +11751,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "早安美芝城 嘉義活力德安店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區竹圍里德安路１７號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43291,
+                    23.48392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "早安山丘 嘉市自由店",
                 "category": "餐飲",
                 "area": "西區",
@@ -12238,23 +12255,6 @@
                 "coordinates": [
                     120.4438,
                     23.46913
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "德安晨食館",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區竹圍里德安路５５號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43156,
-                    23.483789
                 ]
             }
         },
@@ -12765,23 +12765,6 @@
                 "coordinates": [
                     120.44819,
                     23.483879
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "家盈早餐店",
-                "category": "餐飲",
-                "area": "西區",
-                "market_address": "嘉義市西區竹圍里德安路１７號１樓",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.43291,
-                    23.48392
                 ]
             }
         },
@@ -15094,6 +15077,23 @@
                 "coordinates": [
                     120.44206,
                     23.477709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "shop": "A-bao House 德安店",
+                "category": "餐飲",
+                "area": "西區",
+                "market_address": "嘉義市西區竹圍里德安路５５號１樓",
+                "pay_list": "一卡通MONEY(原LINE Pay Money)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43156,
+                    23.483789
                 ]
             }
         },
