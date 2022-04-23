@@ -16409,6 +16409,23 @@
         {
             "type": "Feature",
             "properties": {
+                "shop": "宜家家居股份有限公司桃園分公司(附設瑞典餐廳)",
+                "category": "餐飲",
+                "area": "中壢區",
+                "market_address": "桃園市中壢區青埔里高鐵站前東路１段１號",
+                "pay_list": "信用卡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.217071,
+                    25.013618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "shop": "宜佳商行",
                 "category": "餐飲",
                 "area": "中壢區",
@@ -18460,23 +18477,6 @@
                 "coordinates": [
                     121.22150536739,
                     24.958672401003
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "shop": "和謙食堂",
-                "category": "餐飲",
-                "area": "中壢區",
-                "market_address": "桃園市中壢區興國里中美路２段１２８號１樓",
-                "pay_list": "信用卡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.221034,
-                    24.96016
                 ]
             }
         },
