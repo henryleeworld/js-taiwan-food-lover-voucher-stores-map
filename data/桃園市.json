@@ -24229,23 +24229,6 @@
         {
             "type": "Feature",
             "properties": {
-                "shop": "鰻天下餐飲企業",
-                "category": "餐飲",
-                "area": "大園區",
-                "market_address": "桃園市大園區沙崙里０１８鄰漁港路３２６號（１樓）",
-                "pay_list": "一卡通MONEY(原LINE Pay Money)\/信用卡\/台灣pay"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.243332,
-                    25.114258
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "shop": "鮮茶道Presotea 大園中正東店",
                 "category": "餐飲",
                 "area": "大園區",
