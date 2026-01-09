@@ -61,7 +61,7 @@ var sidebarTitle = document.getElementById('sidebarTitle');
 var content = document.getElementById('infoBox');
 
 var appView = new ol.View({
-    center: ol.proj.fromLonLat([120.721507, 23.700694]),
+    center: ol.proj.fromLonLat([121.564101, 25.033493]),
     zoom: 9
 });
 
